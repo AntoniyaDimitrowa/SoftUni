@@ -1,0 +1,8 @@
+D:\SoftUni\Nums1To10\Nums1To10\bin\Debug\Nums1To10.exe.config
+D:\SoftUni\Nums1To10\Nums1To10\bin\Debug\Nums1To10.exe
+D:\SoftUni\Nums1To10\Nums1To10\bin\Debug\Nums1To10.pdb
+D:\SoftUni\Nums1To10\Nums1To10\obj\Debug\Nums1To10.csproj.AssemblyReference.cache
+D:\SoftUni\Nums1To10\Nums1To10\obj\Debug\Nums1To10.csproj.SuggestedBindingRedirects.cache
+D:\SoftUni\Nums1To10\Nums1To10\obj\Debug\Nums1To10.csproj.CoreCompileInputs.cache
+D:\SoftUni\Nums1To10\Nums1To10\obj\Debug\Nums1To10.exe
+D:\SoftUni\Nums1To10\Nums1To10\obj\Debug\Nums1To10.pdb

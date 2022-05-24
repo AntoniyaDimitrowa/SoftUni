@@ -1,0 +1,8 @@
+D:\SoftUni\InchInCentimeters\InchInCentimeters\bin\Debug\InchInCentimeters.exe.config
+D:\SoftUni\InchInCentimeters\InchInCentimeters\bin\Debug\InchInCentimeters.exe
+D:\SoftUni\InchInCentimeters\InchInCentimeters\bin\Debug\InchInCentimeters.pdb
+D:\SoftUni\InchInCentimeters\InchInCentimeters\obj\Debug\InchInCentimeters.csproj.AssemblyReference.cache
+D:\SoftUni\InchInCentimeters\InchInCentimeters\obj\Debug\InchInCentimeters.csproj.SuggestedBindingRedirects.cache
+D:\SoftUni\InchInCentimeters\InchInCentimeters\obj\Debug\InchInCentimeters.csproj.CoreCompileInputs.cache
+D:\SoftUni\InchInCentimeters\InchInCentimeters\obj\Debug\InchInCentimeters.exe
+D:\SoftUni\InchInCentimeters\InchInCentimeters\obj\Debug\InchInCentimeters.pdb

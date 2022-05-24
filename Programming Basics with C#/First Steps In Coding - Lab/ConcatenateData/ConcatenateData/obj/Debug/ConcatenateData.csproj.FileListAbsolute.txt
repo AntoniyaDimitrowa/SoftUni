@@ -1,0 +1,8 @@
+D:\SoftUni\ConcatenateData\ConcatenateData\bin\Debug\ConcatenateData.exe.config
+D:\SoftUni\ConcatenateData\ConcatenateData\bin\Debug\ConcatenateData.exe
+D:\SoftUni\ConcatenateData\ConcatenateData\bin\Debug\ConcatenateData.pdb
+D:\SoftUni\ConcatenateData\ConcatenateData\obj\Debug\ConcatenateData.csproj.AssemblyReference.cache
+D:\SoftUni\ConcatenateData\ConcatenateData\obj\Debug\ConcatenateData.csproj.SuggestedBindingRedirects.cache
+D:\SoftUni\ConcatenateData\ConcatenateData\obj\Debug\ConcatenateData.csproj.CoreCompileInputs.cache
+D:\SoftUni\ConcatenateData\ConcatenateData\obj\Debug\ConcatenateData.exe
+D:\SoftUni\ConcatenateData\ConcatenateData\obj\Debug\ConcatenateData.pdb

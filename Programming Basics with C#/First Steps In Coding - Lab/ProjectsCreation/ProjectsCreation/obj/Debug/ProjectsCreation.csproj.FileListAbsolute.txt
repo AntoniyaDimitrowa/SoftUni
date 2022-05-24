@@ -1,0 +1,8 @@
+D:\SoftUni\ProjectsCreation\ProjectsCreation\bin\Debug\ProjectsCreation.exe.config
+D:\SoftUni\ProjectsCreation\ProjectsCreation\bin\Debug\ProjectsCreation.exe
+D:\SoftUni\ProjectsCreation\ProjectsCreation\bin\Debug\ProjectsCreation.pdb
+D:\SoftUni\ProjectsCreation\ProjectsCreation\obj\Debug\ProjectsCreation.csproj.AssemblyReference.cache
+D:\SoftUni\ProjectsCreation\ProjectsCreation\obj\Debug\ProjectsCreation.csproj.SuggestedBindingRedirects.cache
+D:\SoftUni\ProjectsCreation\ProjectsCreation\obj\Debug\ProjectsCreation.csproj.CoreCompileInputs.cache
+D:\SoftUni\ProjectsCreation\ProjectsCreation\obj\Debug\ProjectsCreation.exe
+D:\SoftUni\ProjectsCreation\ProjectsCreation\obj\Debug\ProjectsCreation.pdb

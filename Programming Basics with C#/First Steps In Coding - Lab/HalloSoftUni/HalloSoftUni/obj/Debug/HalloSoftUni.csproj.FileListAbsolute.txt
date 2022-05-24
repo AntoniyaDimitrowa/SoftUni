@@ -1,0 +1,8 @@
+D:\SoftUni\HalloSoftUni\HalloSoftUni\bin\Debug\HalloSoftUni.exe.config
+D:\SoftUni\HalloSoftUni\HalloSoftUni\bin\Debug\HalloSoftUni.exe
+D:\SoftUni\HalloSoftUni\HalloSoftUni\bin\Debug\HalloSoftUni.pdb
+D:\SoftUni\HalloSoftUni\HalloSoftUni\obj\Debug\HalloSoftUni.csproj.AssemblyReference.cache
+D:\SoftUni\HalloSoftUni\HalloSoftUni\obj\Debug\HalloSoftUni.csproj.SuggestedBindingRedirects.cache
+D:\SoftUni\HalloSoftUni\HalloSoftUni\obj\Debug\HalloSoftUni.csproj.CoreCompileInputs.cache
+D:\SoftUni\HalloSoftUni\HalloSoftUni\obj\Debug\HalloSoftUni.exe
+D:\SoftUni\HalloSoftUni\HalloSoftUni\obj\Debug\HalloSoftUni.pdb

@@ -1,0 +1,8 @@
+D:\SoftUni\AreaOfRectangle\AreaOfRectangle\bin\Debug\AreaOfRectangle.exe.config
+D:\SoftUni\AreaOfRectangle\AreaOfRectangle\bin\Debug\AreaOfRectangle.exe
+D:\SoftUni\AreaOfRectangle\AreaOfRectangle\bin\Debug\AreaOfRectangle.pdb
+D:\SoftUni\AreaOfRectangle\AreaOfRectangle\obj\Debug\AreaOfRectangle.csproj.AssemblyReference.cache
+D:\SoftUni\AreaOfRectangle\AreaOfRectangle\obj\Debug\AreaOfRectangle.csproj.SuggestedBindingRedirects.cache
+D:\SoftUni\AreaOfRectangle\AreaOfRectangle\obj\Debug\AreaOfRectangle.csproj.CoreCompileInputs.cache
+D:\SoftUni\AreaOfRectangle\AreaOfRectangle\obj\Debug\AreaOfRectangle.exe
+D:\SoftUni\AreaOfRectangle\AreaOfRectangle\obj\Debug\AreaOfRectangle.pdb

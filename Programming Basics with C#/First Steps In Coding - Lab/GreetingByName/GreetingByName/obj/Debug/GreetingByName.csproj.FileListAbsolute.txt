@@ -1,0 +1,8 @@
+D:\SoftUni\GreetingByName\GreetingByName\bin\Debug\GreetingByName.exe.config
+D:\SoftUni\GreetingByName\GreetingByName\bin\Debug\GreetingByName.exe
+D:\SoftUni\GreetingByName\GreetingByName\bin\Debug\GreetingByName.pdb
+D:\SoftUni\GreetingByName\GreetingByName\obj\Debug\GreetingByName.csproj.AssemblyReference.cache
+D:\SoftUni\GreetingByName\GreetingByName\obj\Debug\GreetingByName.csproj.SuggestedBindingRedirects.cache
+D:\SoftUni\GreetingByName\GreetingByName\obj\Debug\GreetingByName.csproj.CoreCompileInputs.cache
+D:\SoftUni\GreetingByName\GreetingByName\obj\Debug\GreetingByName.exe
+D:\SoftUni\GreetingByName\GreetingByName\obj\Debug\GreetingByName.pdb
