@@ -1,0 +1,16 @@
+D:\SoftUni\lesson 2\Repainting\bin\Debug\net5.0\Repainting.exe
+D:\SoftUni\lesson 2\Repainting\bin\Debug\net5.0\Repainting.deps.json
+D:\SoftUni\lesson 2\Repainting\bin\Debug\net5.0\Repainting.runtimeconfig.json
+D:\SoftUni\lesson 2\Repainting\bin\Debug\net5.0\Repainting.runtimeconfig.dev.json
+D:\SoftUni\lesson 2\Repainting\bin\Debug\net5.0\Repainting.dll
+D:\SoftUni\lesson 2\Repainting\bin\Debug\net5.0\Repainting.pdb
+D:\SoftUni\lesson 2\Repainting\obj\Debug\net5.0\Repainting.csproj.AssemblyReference.cache
+D:\SoftUni\lesson 2\Repainting\obj\Debug\net5.0\Repainting.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\lesson 2\Repainting\obj\Debug\net5.0\Repainting.AssemblyInfoInputs.cache
+D:\SoftUni\lesson 2\Repainting\obj\Debug\net5.0\Repainting.AssemblyInfo.cs
+D:\SoftUni\lesson 2\Repainting\obj\Debug\net5.0\Repainting.csproj.CoreCompileInputs.cache
+D:\SoftUni\lesson 2\Repainting\obj\Debug\net5.0\Repainting.dll
+D:\SoftUni\lesson 2\Repainting\obj\Debug\net5.0\refint\Repainting.dll
+D:\SoftUni\lesson 2\Repainting\obj\Debug\net5.0\Repainting.pdb
+D:\SoftUni\lesson 2\Repainting\obj\Debug\net5.0\Repainting.genruntimeconfig.cache
+D:\SoftUni\lesson 2\Repainting\obj\Debug\net5.0\ref\Repainting.dll

@@ -1,0 +1,16 @@
+D:\SoftUni\lesson 2\SuppliesForSchool\bin\Debug\net5.0\SuppliesForSchool.exe
+D:\SoftUni\lesson 2\SuppliesForSchool\bin\Debug\net5.0\SuppliesForSchool.deps.json
+D:\SoftUni\lesson 2\SuppliesForSchool\bin\Debug\net5.0\SuppliesForSchool.runtimeconfig.json
+D:\SoftUni\lesson 2\SuppliesForSchool\bin\Debug\net5.0\SuppliesForSchool.runtimeconfig.dev.json
+D:\SoftUni\lesson 2\SuppliesForSchool\bin\Debug\net5.0\SuppliesForSchool.dll
+D:\SoftUni\lesson 2\SuppliesForSchool\bin\Debug\net5.0\SuppliesForSchool.pdb
+D:\SoftUni\lesson 2\SuppliesForSchool\obj\Debug\net5.0\SuppliesForSchool.csproj.AssemblyReference.cache
+D:\SoftUni\lesson 2\SuppliesForSchool\obj\Debug\net5.0\SuppliesForSchool.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\lesson 2\SuppliesForSchool\obj\Debug\net5.0\SuppliesForSchool.AssemblyInfoInputs.cache
+D:\SoftUni\lesson 2\SuppliesForSchool\obj\Debug\net5.0\SuppliesForSchool.AssemblyInfo.cs
+D:\SoftUni\lesson 2\SuppliesForSchool\obj\Debug\net5.0\SuppliesForSchool.csproj.CoreCompileInputs.cache
+D:\SoftUni\lesson 2\SuppliesForSchool\obj\Debug\net5.0\SuppliesForSchool.dll
+D:\SoftUni\lesson 2\SuppliesForSchool\obj\Debug\net5.0\refint\SuppliesForSchool.dll
+D:\SoftUni\lesson 2\SuppliesForSchool\obj\Debug\net5.0\SuppliesForSchool.pdb
+D:\SoftUni\lesson 2\SuppliesForSchool\obj\Debug\net5.0\SuppliesForSchool.genruntimeconfig.cache
+D:\SoftUni\lesson 2\SuppliesForSchool\obj\Debug\net5.0\ref\SuppliesForSchool.dll

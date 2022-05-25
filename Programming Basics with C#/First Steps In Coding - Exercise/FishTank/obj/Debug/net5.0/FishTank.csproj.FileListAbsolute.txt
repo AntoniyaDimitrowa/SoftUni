@@ -1,0 +1,16 @@
+D:\SoftUni\lesson 2\FishTank\bin\Debug\net5.0\FishTank.exe
+D:\SoftUni\lesson 2\FishTank\bin\Debug\net5.0\FishTank.deps.json
+D:\SoftUni\lesson 2\FishTank\bin\Debug\net5.0\FishTank.runtimeconfig.json
+D:\SoftUni\lesson 2\FishTank\bin\Debug\net5.0\FishTank.runtimeconfig.dev.json
+D:\SoftUni\lesson 2\FishTank\bin\Debug\net5.0\FishTank.dll
+D:\SoftUni\lesson 2\FishTank\bin\Debug\net5.0\FishTank.pdb
+D:\SoftUni\lesson 2\FishTank\obj\Debug\net5.0\FishTank.csproj.AssemblyReference.cache
+D:\SoftUni\lesson 2\FishTank\obj\Debug\net5.0\FishTank.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\lesson 2\FishTank\obj\Debug\net5.0\FishTank.AssemblyInfoInputs.cache
+D:\SoftUni\lesson 2\FishTank\obj\Debug\net5.0\FishTank.AssemblyInfo.cs
+D:\SoftUni\lesson 2\FishTank\obj\Debug\net5.0\FishTank.csproj.CoreCompileInputs.cache
+D:\SoftUni\lesson 2\FishTank\obj\Debug\net5.0\FishTank.dll
+D:\SoftUni\lesson 2\FishTank\obj\Debug\net5.0\refint\FishTank.dll
+D:\SoftUni\lesson 2\FishTank\obj\Debug\net5.0\FishTank.pdb
+D:\SoftUni\lesson 2\FishTank\obj\Debug\net5.0\FishTank.genruntimeconfig.cache
+D:\SoftUni\lesson 2\FishTank\obj\Debug\net5.0\ref\FishTank.dll

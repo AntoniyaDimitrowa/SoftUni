@@ -1,0 +1,16 @@
+D:\SoftUni\lesson 2\DepositCalculator\bin\Debug\net5.0\DepositCalculator.exe
+D:\SoftUni\lesson 2\DepositCalculator\bin\Debug\net5.0\DepositCalculator.deps.json
+D:\SoftUni\lesson 2\DepositCalculator\bin\Debug\net5.0\DepositCalculator.runtimeconfig.json
+D:\SoftUni\lesson 2\DepositCalculator\bin\Debug\net5.0\DepositCalculator.runtimeconfig.dev.json
+D:\SoftUni\lesson 2\DepositCalculator\bin\Debug\net5.0\DepositCalculator.dll
+D:\SoftUni\lesson 2\DepositCalculator\bin\Debug\net5.0\DepositCalculator.pdb
+D:\SoftUni\lesson 2\DepositCalculator\obj\Debug\net5.0\DepositCalculator.csproj.AssemblyReference.cache
+D:\SoftUni\lesson 2\DepositCalculator\obj\Debug\net5.0\DepositCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\lesson 2\DepositCalculator\obj\Debug\net5.0\DepositCalculator.AssemblyInfoInputs.cache
+D:\SoftUni\lesson 2\DepositCalculator\obj\Debug\net5.0\DepositCalculator.AssemblyInfo.cs
+D:\SoftUni\lesson 2\DepositCalculator\obj\Debug\net5.0\DepositCalculator.csproj.CoreCompileInputs.cache
+D:\SoftUni\lesson 2\DepositCalculator\obj\Debug\net5.0\DepositCalculator.dll
+D:\SoftUni\lesson 2\DepositCalculator\obj\Debug\net5.0\refint\DepositCalculator.dll
+D:\SoftUni\lesson 2\DepositCalculator\obj\Debug\net5.0\DepositCalculator.pdb
+D:\SoftUni\lesson 2\DepositCalculator\obj\Debug\net5.0\DepositCalculator.genruntimeconfig.cache
+D:\SoftUni\lesson 2\DepositCalculator\obj\Debug\net5.0\ref\DepositCalculator.dll

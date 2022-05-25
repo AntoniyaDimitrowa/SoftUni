@@ -1,0 +1,16 @@
+D:\SoftUni\lesson 2\RadiansToDegrees\bin\Debug\net5.0\RadiansToDegrees.exe
+D:\SoftUni\lesson 2\RadiansToDegrees\bin\Debug\net5.0\RadiansToDegrees.deps.json
+D:\SoftUni\lesson 2\RadiansToDegrees\bin\Debug\net5.0\RadiansToDegrees.runtimeconfig.json
+D:\SoftUni\lesson 2\RadiansToDegrees\bin\Debug\net5.0\RadiansToDegrees.runtimeconfig.dev.json
+D:\SoftUni\lesson 2\RadiansToDegrees\bin\Debug\net5.0\RadiansToDegrees.dll
+D:\SoftUni\lesson 2\RadiansToDegrees\bin\Debug\net5.0\RadiansToDegrees.pdb
+D:\SoftUni\lesson 2\RadiansToDegrees\obj\Debug\net5.0\RadiansToDegrees.csproj.AssemblyReference.cache
+D:\SoftUni\lesson 2\RadiansToDegrees\obj\Debug\net5.0\RadiansToDegrees.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\lesson 2\RadiansToDegrees\obj\Debug\net5.0\RadiansToDegrees.AssemblyInfoInputs.cache
+D:\SoftUni\lesson 2\RadiansToDegrees\obj\Debug\net5.0\RadiansToDegrees.AssemblyInfo.cs
+D:\SoftUni\lesson 2\RadiansToDegrees\obj\Debug\net5.0\RadiansToDegrees.csproj.CoreCompileInputs.cache
+D:\SoftUni\lesson 2\RadiansToDegrees\obj\Debug\net5.0\RadiansToDegrees.dll
+D:\SoftUni\lesson 2\RadiansToDegrees\obj\Debug\net5.0\refint\RadiansToDegrees.dll
+D:\SoftUni\lesson 2\RadiansToDegrees\obj\Debug\net5.0\RadiansToDegrees.pdb
+D:\SoftUni\lesson 2\RadiansToDegrees\obj\Debug\net5.0\RadiansToDegrees.genruntimeconfig.cache
+D:\SoftUni\lesson 2\RadiansToDegrees\obj\Debug\net5.0\ref\RadiansToDegrees.dll
