@@ -1,0 +1,16 @@
+D:\SoftUni\lesson 3\06. Speed Info\bin\Debug\net5.0\06. Speed Info.exe
+D:\SoftUni\lesson 3\06. Speed Info\bin\Debug\net5.0\06. Speed Info.deps.json
+D:\SoftUni\lesson 3\06. Speed Info\bin\Debug\net5.0\06. Speed Info.runtimeconfig.json
+D:\SoftUni\lesson 3\06. Speed Info\bin\Debug\net5.0\06. Speed Info.runtimeconfig.dev.json
+D:\SoftUni\lesson 3\06. Speed Info\bin\Debug\net5.0\06. Speed Info.dll
+D:\SoftUni\lesson 3\06. Speed Info\bin\Debug\net5.0\06. Speed Info.pdb
+D:\SoftUni\lesson 3\06. Speed Info\obj\Debug\net5.0\06. Speed Info.csproj.AssemblyReference.cache
+D:\SoftUni\lesson 3\06. Speed Info\obj\Debug\net5.0\06. Speed Info.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\lesson 3\06. Speed Info\obj\Debug\net5.0\06. Speed Info.AssemblyInfoInputs.cache
+D:\SoftUni\lesson 3\06. Speed Info\obj\Debug\net5.0\06. Speed Info.AssemblyInfo.cs
+D:\SoftUni\lesson 3\06. Speed Info\obj\Debug\net5.0\06. Speed Info.csproj.CoreCompileInputs.cache
+D:\SoftUni\lesson 3\06. Speed Info\obj\Debug\net5.0\06. Speed Info.dll
+D:\SoftUni\lesson 3\06. Speed Info\obj\Debug\net5.0\refint\06. Speed Info.dll
+D:\SoftUni\lesson 3\06. Speed Info\obj\Debug\net5.0\06. Speed Info.pdb
+D:\SoftUni\lesson 3\06. Speed Info\obj\Debug\net5.0\06. Speed Info.genruntimeconfig.cache
+D:\SoftUni\lesson 3\06. Speed Info\obj\Debug\net5.0\ref\06. Speed Info.dll
