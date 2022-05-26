@@ -1,0 +1,16 @@
+D:\SoftUni\lesson 3\03. Even or Odd\bin\Debug\net5.0\03. Even or Odd.exe
+D:\SoftUni\lesson 3\03. Even or Odd\bin\Debug\net5.0\03. Even or Odd.deps.json
+D:\SoftUni\lesson 3\03. Even or Odd\bin\Debug\net5.0\03. Even or Odd.runtimeconfig.json
+D:\SoftUni\lesson 3\03. Even or Odd\bin\Debug\net5.0\03. Even or Odd.runtimeconfig.dev.json
+D:\SoftUni\lesson 3\03. Even or Odd\bin\Debug\net5.0\03. Even or Odd.dll
+D:\SoftUni\lesson 3\03. Even or Odd\bin\Debug\net5.0\03. Even or Odd.pdb
+D:\SoftUni\lesson 3\03. Even or Odd\obj\Debug\net5.0\03. Even or Odd.csproj.AssemblyReference.cache
+D:\SoftUni\lesson 3\03. Even or Odd\obj\Debug\net5.0\03. Even or Odd.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\lesson 3\03. Even or Odd\obj\Debug\net5.0\03. Even or Odd.AssemblyInfoInputs.cache
+D:\SoftUni\lesson 3\03. Even or Odd\obj\Debug\net5.0\03. Even or Odd.AssemblyInfo.cs
+D:\SoftUni\lesson 3\03. Even or Odd\obj\Debug\net5.0\03. Even or Odd.csproj.CoreCompileInputs.cache
+D:\SoftUni\lesson 3\03. Even or Odd\obj\Debug\net5.0\03. Even or Odd.dll
+D:\SoftUni\lesson 3\03. Even or Odd\obj\Debug\net5.0\refint\03. Even or Odd.dll
+D:\SoftUni\lesson 3\03. Even or Odd\obj\Debug\net5.0\03. Even or Odd.pdb
+D:\SoftUni\lesson 3\03. Even or Odd\obj\Debug\net5.0\03. Even or Odd.genruntimeconfig.cache
+D:\SoftUni\lesson 3\03. Even or Odd\obj\Debug\net5.0\ref\03. Even or Odd.dll

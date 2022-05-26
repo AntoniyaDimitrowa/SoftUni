@@ -1,0 +1,16 @@
+D:\SoftUni\lesson 3\02. Greater Number\bin\Debug\net5.0\02. Greater Number.exe
+D:\SoftUni\lesson 3\02. Greater Number\bin\Debug\net5.0\02. Greater Number.deps.json
+D:\SoftUni\lesson 3\02. Greater Number\bin\Debug\net5.0\02. Greater Number.runtimeconfig.json
+D:\SoftUni\lesson 3\02. Greater Number\bin\Debug\net5.0\02. Greater Number.runtimeconfig.dev.json
+D:\SoftUni\lesson 3\02. Greater Number\bin\Debug\net5.0\02. Greater Number.dll
+D:\SoftUni\lesson 3\02. Greater Number\bin\Debug\net5.0\02. Greater Number.pdb
+D:\SoftUni\lesson 3\02. Greater Number\obj\Debug\net5.0\02. Greater Number.csproj.AssemblyReference.cache
+D:\SoftUni\lesson 3\02. Greater Number\obj\Debug\net5.0\02. Greater Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\lesson 3\02. Greater Number\obj\Debug\net5.0\02. Greater Number.AssemblyInfoInputs.cache
+D:\SoftUni\lesson 3\02. Greater Number\obj\Debug\net5.0\02. Greater Number.AssemblyInfo.cs
+D:\SoftUni\lesson 3\02. Greater Number\obj\Debug\net5.0\02. Greater Number.csproj.CoreCompileInputs.cache
+D:\SoftUni\lesson 3\02. Greater Number\obj\Debug\net5.0\02. Greater Number.dll
+D:\SoftUni\lesson 3\02. Greater Number\obj\Debug\net5.0\refint\02. Greater Number.dll
+D:\SoftUni\lesson 3\02. Greater Number\obj\Debug\net5.0\02. Greater Number.pdb
+D:\SoftUni\lesson 3\02. Greater Number\obj\Debug\net5.0\02. Greater Number.genruntimeconfig.cache
+D:\SoftUni\lesson 3\02. Greater Number\obj\Debug\net5.0\ref\02. Greater Number.dll

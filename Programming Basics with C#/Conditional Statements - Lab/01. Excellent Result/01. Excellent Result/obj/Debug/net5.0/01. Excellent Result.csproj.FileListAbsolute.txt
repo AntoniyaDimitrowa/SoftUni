@@ -1,0 +1,16 @@
+D:\SoftUni\lesson 3\01. Excellent Result\01. Excellent Result\bin\Debug\net5.0\01. Excellent Result.exe
+D:\SoftUni\lesson 3\01. Excellent Result\01. Excellent Result\bin\Debug\net5.0\01. Excellent Result.deps.json
+D:\SoftUni\lesson 3\01. Excellent Result\01. Excellent Result\bin\Debug\net5.0\01. Excellent Result.runtimeconfig.json
+D:\SoftUni\lesson 3\01. Excellent Result\01. Excellent Result\bin\Debug\net5.0\01. Excellent Result.runtimeconfig.dev.json
+D:\SoftUni\lesson 3\01. Excellent Result\01. Excellent Result\bin\Debug\net5.0\01. Excellent Result.dll
+D:\SoftUni\lesson 3\01. Excellent Result\01. Excellent Result\bin\Debug\net5.0\01. Excellent Result.pdb
+D:\SoftUni\lesson 3\01. Excellent Result\01. Excellent Result\obj\Debug\net5.0\01. Excellent Result.csproj.AssemblyReference.cache
+D:\SoftUni\lesson 3\01. Excellent Result\01. Excellent Result\obj\Debug\net5.0\01. Excellent Result.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\lesson 3\01. Excellent Result\01. Excellent Result\obj\Debug\net5.0\01. Excellent Result.AssemblyInfoInputs.cache
+D:\SoftUni\lesson 3\01. Excellent Result\01. Excellent Result\obj\Debug\net5.0\01. Excellent Result.AssemblyInfo.cs
+D:\SoftUni\lesson 3\01. Excellent Result\01. Excellent Result\obj\Debug\net5.0\01. Excellent Result.csproj.CoreCompileInputs.cache
+D:\SoftUni\lesson 3\01. Excellent Result\01. Excellent Result\obj\Debug\net5.0\01. Excellent Result.dll
+D:\SoftUni\lesson 3\01. Excellent Result\01. Excellent Result\obj\Debug\net5.0\refint\01. Excellent Result.dll
+D:\SoftUni\lesson 3\01. Excellent Result\01. Excellent Result\obj\Debug\net5.0\01. Excellent Result.pdb
+D:\SoftUni\lesson 3\01. Excellent Result\01. Excellent Result\obj\Debug\net5.0\01. Excellent Result.genruntimeconfig.cache
+D:\SoftUni\lesson 3\01. Excellent Result\01. Excellent Result\obj\Debug\net5.0\ref\01. Excellent Result.dll

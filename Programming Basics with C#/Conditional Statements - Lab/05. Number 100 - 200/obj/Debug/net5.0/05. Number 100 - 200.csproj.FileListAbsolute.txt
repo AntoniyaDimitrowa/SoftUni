@@ -1,0 +1,16 @@
+D:\SoftUni\lesson 3\05. Number 100 - 200\bin\Debug\net5.0\05. Number 100 - 200.exe
+D:\SoftUni\lesson 3\05. Number 100 - 200\bin\Debug\net5.0\05. Number 100 - 200.deps.json
+D:\SoftUni\lesson 3\05. Number 100 - 200\bin\Debug\net5.0\05. Number 100 - 200.runtimeconfig.json
+D:\SoftUni\lesson 3\05. Number 100 - 200\bin\Debug\net5.0\05. Number 100 - 200.runtimeconfig.dev.json
+D:\SoftUni\lesson 3\05. Number 100 - 200\bin\Debug\net5.0\05. Number 100 - 200.dll
+D:\SoftUni\lesson 3\05. Number 100 - 200\bin\Debug\net5.0\05. Number 100 - 200.pdb
+D:\SoftUni\lesson 3\05. Number 100 - 200\obj\Debug\net5.0\05. Number 100 - 200.csproj.AssemblyReference.cache
+D:\SoftUni\lesson 3\05. Number 100 - 200\obj\Debug\net5.0\05. Number 100 - 200.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\lesson 3\05. Number 100 - 200\obj\Debug\net5.0\05. Number 100 - 200.AssemblyInfoInputs.cache
+D:\SoftUni\lesson 3\05. Number 100 - 200\obj\Debug\net5.0\05. Number 100 - 200.AssemblyInfo.cs
+D:\SoftUni\lesson 3\05. Number 100 - 200\obj\Debug\net5.0\05. Number 100 - 200.csproj.CoreCompileInputs.cache
+D:\SoftUni\lesson 3\05. Number 100 - 200\obj\Debug\net5.0\05. Number 100 - 200.dll
+D:\SoftUni\lesson 3\05. Number 100 - 200\obj\Debug\net5.0\refint\05. Number 100 - 200.dll
+D:\SoftUni\lesson 3\05. Number 100 - 200\obj\Debug\net5.0\05. Number 100 - 200.pdb
+D:\SoftUni\lesson 3\05. Number 100 - 200\obj\Debug\net5.0\05. Number 100 - 200.genruntimeconfig.cache
+D:\SoftUni\lesson 3\05. Number 100 - 200\obj\Debug\net5.0\ref\05. Number 100 - 200.dll
