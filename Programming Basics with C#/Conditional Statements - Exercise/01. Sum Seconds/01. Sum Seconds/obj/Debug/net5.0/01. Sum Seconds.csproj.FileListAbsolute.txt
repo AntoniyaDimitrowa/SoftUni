@@ -1,0 +1,16 @@
+D:\SoftUni\lesson 4\01. Sum Seconds\01. Sum Seconds\bin\Debug\net5.0\01. Sum Seconds.exe
+D:\SoftUni\lesson 4\01. Sum Seconds\01. Sum Seconds\bin\Debug\net5.0\01. Sum Seconds.deps.json
+D:\SoftUni\lesson 4\01. Sum Seconds\01. Sum Seconds\bin\Debug\net5.0\01. Sum Seconds.runtimeconfig.json
+D:\SoftUni\lesson 4\01. Sum Seconds\01. Sum Seconds\bin\Debug\net5.0\01. Sum Seconds.runtimeconfig.dev.json
+D:\SoftUni\lesson 4\01. Sum Seconds\01. Sum Seconds\bin\Debug\net5.0\01. Sum Seconds.dll
+D:\SoftUni\lesson 4\01. Sum Seconds\01. Sum Seconds\bin\Debug\net5.0\01. Sum Seconds.pdb
+D:\SoftUni\lesson 4\01. Sum Seconds\01. Sum Seconds\obj\Debug\net5.0\01. Sum Seconds.csproj.AssemblyReference.cache
+D:\SoftUni\lesson 4\01. Sum Seconds\01. Sum Seconds\obj\Debug\net5.0\01. Sum Seconds.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\lesson 4\01. Sum Seconds\01. Sum Seconds\obj\Debug\net5.0\01. Sum Seconds.AssemblyInfoInputs.cache
+D:\SoftUni\lesson 4\01. Sum Seconds\01. Sum Seconds\obj\Debug\net5.0\01. Sum Seconds.AssemblyInfo.cs
+D:\SoftUni\lesson 4\01. Sum Seconds\01. Sum Seconds\obj\Debug\net5.0\01. Sum Seconds.csproj.CoreCompileInputs.cache
+D:\SoftUni\lesson 4\01. Sum Seconds\01. Sum Seconds\obj\Debug\net5.0\01. Sum Seconds.dll
+D:\SoftUni\lesson 4\01. Sum Seconds\01. Sum Seconds\obj\Debug\net5.0\refint\01. Sum Seconds.dll
+D:\SoftUni\lesson 4\01. Sum Seconds\01. Sum Seconds\obj\Debug\net5.0\01. Sum Seconds.pdb
+D:\SoftUni\lesson 4\01. Sum Seconds\01. Sum Seconds\obj\Debug\net5.0\01. Sum Seconds.genruntimeconfig.cache
+D:\SoftUni\lesson 4\01. Sum Seconds\01. Sum Seconds\obj\Debug\net5.0\ref\01. Sum Seconds.dll

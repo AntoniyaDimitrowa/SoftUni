@@ -1,0 +1,16 @@
+D:\SoftUni\lesson 4\08. Lunch Break\bin\Debug\net5.0\08. Lunch Break.exe
+D:\SoftUni\lesson 4\08. Lunch Break\bin\Debug\net5.0\08. Lunch Break.deps.json
+D:\SoftUni\lesson 4\08. Lunch Break\bin\Debug\net5.0\08. Lunch Break.runtimeconfig.json
+D:\SoftUni\lesson 4\08. Lunch Break\bin\Debug\net5.0\08. Lunch Break.runtimeconfig.dev.json
+D:\SoftUni\lesson 4\08. Lunch Break\bin\Debug\net5.0\08. Lunch Break.dll
+D:\SoftUni\lesson 4\08. Lunch Break\bin\Debug\net5.0\08. Lunch Break.pdb
+D:\SoftUni\lesson 4\08. Lunch Break\obj\Debug\net5.0\08. Lunch Break.csproj.AssemblyReference.cache
+D:\SoftUni\lesson 4\08. Lunch Break\obj\Debug\net5.0\08. Lunch Break.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\lesson 4\08. Lunch Break\obj\Debug\net5.0\08. Lunch Break.AssemblyInfoInputs.cache
+D:\SoftUni\lesson 4\08. Lunch Break\obj\Debug\net5.0\08. Lunch Break.AssemblyInfo.cs
+D:\SoftUni\lesson 4\08. Lunch Break\obj\Debug\net5.0\08. Lunch Break.csproj.CoreCompileInputs.cache
+D:\SoftUni\lesson 4\08. Lunch Break\obj\Debug\net5.0\08. Lunch Break.dll
+D:\SoftUni\lesson 4\08. Lunch Break\obj\Debug\net5.0\refint\08. Lunch Break.dll
+D:\SoftUni\lesson 4\08. Lunch Break\obj\Debug\net5.0\08. Lunch Break.pdb
+D:\SoftUni\lesson 4\08. Lunch Break\obj\Debug\net5.0\08. Lunch Break.genruntimeconfig.cache
+D:\SoftUni\lesson 4\08. Lunch Break\obj\Debug\net5.0\ref\08. Lunch Break.dll

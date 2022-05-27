@@ -1,0 +1,16 @@
+D:\SoftUni\lesson 4\04. Toy Shop\bin\Debug\net5.0\04. Toy Shop.exe
+D:\SoftUni\lesson 4\04. Toy Shop\bin\Debug\net5.0\04. Toy Shop.deps.json
+D:\SoftUni\lesson 4\04. Toy Shop\bin\Debug\net5.0\04. Toy Shop.runtimeconfig.json
+D:\SoftUni\lesson 4\04. Toy Shop\bin\Debug\net5.0\04. Toy Shop.runtimeconfig.dev.json
+D:\SoftUni\lesson 4\04. Toy Shop\bin\Debug\net5.0\04. Toy Shop.dll
+D:\SoftUni\lesson 4\04. Toy Shop\bin\Debug\net5.0\04. Toy Shop.pdb
+D:\SoftUni\lesson 4\04. Toy Shop\obj\Debug\net5.0\04. Toy Shop.csproj.AssemblyReference.cache
+D:\SoftUni\lesson 4\04. Toy Shop\obj\Debug\net5.0\04. Toy Shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\lesson 4\04. Toy Shop\obj\Debug\net5.0\04. Toy Shop.AssemblyInfoInputs.cache
+D:\SoftUni\lesson 4\04. Toy Shop\obj\Debug\net5.0\04. Toy Shop.AssemblyInfo.cs
+D:\SoftUni\lesson 4\04. Toy Shop\obj\Debug\net5.0\04. Toy Shop.csproj.CoreCompileInputs.cache
+D:\SoftUni\lesson 4\04. Toy Shop\obj\Debug\net5.0\04. Toy Shop.dll
+D:\SoftUni\lesson 4\04. Toy Shop\obj\Debug\net5.0\refint\04. Toy Shop.dll
+D:\SoftUni\lesson 4\04. Toy Shop\obj\Debug\net5.0\04. Toy Shop.pdb
+D:\SoftUni\lesson 4\04. Toy Shop\obj\Debug\net5.0\04. Toy Shop.genruntimeconfig.cache
+D:\SoftUni\lesson 4\04. Toy Shop\obj\Debug\net5.0\ref\04. Toy Shop.dll

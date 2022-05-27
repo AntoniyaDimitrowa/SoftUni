@@ -1,0 +1,16 @@
+D:\SoftUni\lesson 4\06. World Swimming Record\bin\Debug\net5.0\06. World Swimming Record.exe
+D:\SoftUni\lesson 4\06. World Swimming Record\bin\Debug\net5.0\06. World Swimming Record.deps.json
+D:\SoftUni\lesson 4\06. World Swimming Record\bin\Debug\net5.0\06. World Swimming Record.runtimeconfig.json
+D:\SoftUni\lesson 4\06. World Swimming Record\bin\Debug\net5.0\06. World Swimming Record.runtimeconfig.dev.json
+D:\SoftUni\lesson 4\06. World Swimming Record\bin\Debug\net5.0\06. World Swimming Record.dll
+D:\SoftUni\lesson 4\06. World Swimming Record\bin\Debug\net5.0\06. World Swimming Record.pdb
+D:\SoftUni\lesson 4\06. World Swimming Record\obj\Debug\net5.0\06. World Swimming Record.csproj.AssemblyReference.cache
+D:\SoftUni\lesson 4\06. World Swimming Record\obj\Debug\net5.0\06. World Swimming Record.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\lesson 4\06. World Swimming Record\obj\Debug\net5.0\06. World Swimming Record.AssemblyInfoInputs.cache
+D:\SoftUni\lesson 4\06. World Swimming Record\obj\Debug\net5.0\06. World Swimming Record.AssemblyInfo.cs
+D:\SoftUni\lesson 4\06. World Swimming Record\obj\Debug\net5.0\06. World Swimming Record.csproj.CoreCompileInputs.cache
+D:\SoftUni\lesson 4\06. World Swimming Record\obj\Debug\net5.0\06. World Swimming Record.dll
+D:\SoftUni\lesson 4\06. World Swimming Record\obj\Debug\net5.0\refint\06. World Swimming Record.dll
+D:\SoftUni\lesson 4\06. World Swimming Record\obj\Debug\net5.0\06. World Swimming Record.pdb
+D:\SoftUni\lesson 4\06. World Swimming Record\obj\Debug\net5.0\06. World Swimming Record.genruntimeconfig.cache
+D:\SoftUni\lesson 4\06. World Swimming Record\obj\Debug\net5.0\ref\06. World Swimming Record.dll

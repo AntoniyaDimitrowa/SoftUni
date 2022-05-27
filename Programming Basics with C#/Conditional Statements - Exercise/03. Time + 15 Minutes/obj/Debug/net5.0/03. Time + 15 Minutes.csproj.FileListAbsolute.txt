@@ -1,0 +1,16 @@
+D:\SoftUni\lesson 4\03. Time + 15 Minutes\bin\Debug\net5.0\03. Time + 15 Minutes.exe
+D:\SoftUni\lesson 4\03. Time + 15 Minutes\bin\Debug\net5.0\03. Time + 15 Minutes.deps.json
+D:\SoftUni\lesson 4\03. Time + 15 Minutes\bin\Debug\net5.0\03. Time + 15 Minutes.runtimeconfig.json
+D:\SoftUni\lesson 4\03. Time + 15 Minutes\bin\Debug\net5.0\03. Time + 15 Minutes.runtimeconfig.dev.json
+D:\SoftUni\lesson 4\03. Time + 15 Minutes\bin\Debug\net5.0\03. Time + 15 Minutes.dll
+D:\SoftUni\lesson 4\03. Time + 15 Minutes\bin\Debug\net5.0\03. Time + 15 Minutes.pdb
+D:\SoftUni\lesson 4\03. Time + 15 Minutes\obj\Debug\net5.0\03. Time + 15 Minutes.csproj.AssemblyReference.cache
+D:\SoftUni\lesson 4\03. Time + 15 Minutes\obj\Debug\net5.0\03. Time + 15 Minutes.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\lesson 4\03. Time + 15 Minutes\obj\Debug\net5.0\03. Time + 15 Minutes.AssemblyInfoInputs.cache
+D:\SoftUni\lesson 4\03. Time + 15 Minutes\obj\Debug\net5.0\03. Time + 15 Minutes.AssemblyInfo.cs
+D:\SoftUni\lesson 4\03. Time + 15 Minutes\obj\Debug\net5.0\03. Time + 15 Minutes.csproj.CoreCompileInputs.cache
+D:\SoftUni\lesson 4\03. Time + 15 Minutes\obj\Debug\net5.0\03. Time + 15 Minutes.dll
+D:\SoftUni\lesson 4\03. Time + 15 Minutes\obj\Debug\net5.0\refint\03. Time + 15 Minutes.dll
+D:\SoftUni\lesson 4\03. Time + 15 Minutes\obj\Debug\net5.0\03. Time + 15 Minutes.pdb
+D:\SoftUni\lesson 4\03. Time + 15 Minutes\obj\Debug\net5.0\03. Time + 15 Minutes.genruntimeconfig.cache
+D:\SoftUni\lesson 4\03. Time + 15 Minutes\obj\Debug\net5.0\ref\03. Time + 15 Minutes.dll
