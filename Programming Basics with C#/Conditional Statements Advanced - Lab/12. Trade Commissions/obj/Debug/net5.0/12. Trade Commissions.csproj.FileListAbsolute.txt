@@ -1,0 +1,16 @@
+D:\SoftUni\lesson 5\12. Trade Commissions\bin\Debug\net5.0\12. Trade Commissions.exe
+D:\SoftUni\lesson 5\12. Trade Commissions\bin\Debug\net5.0\12. Trade Commissions.deps.json
+D:\SoftUni\lesson 5\12. Trade Commissions\bin\Debug\net5.0\12. Trade Commissions.runtimeconfig.json
+D:\SoftUni\lesson 5\12. Trade Commissions\bin\Debug\net5.0\12. Trade Commissions.runtimeconfig.dev.json
+D:\SoftUni\lesson 5\12. Trade Commissions\bin\Debug\net5.0\12. Trade Commissions.dll
+D:\SoftUni\lesson 5\12. Trade Commissions\bin\Debug\net5.0\12. Trade Commissions.pdb
+D:\SoftUni\lesson 5\12. Trade Commissions\obj\Debug\net5.0\12. Trade Commissions.csproj.AssemblyReference.cache
+D:\SoftUni\lesson 5\12. Trade Commissions\obj\Debug\net5.0\12. Trade Commissions.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\lesson 5\12. Trade Commissions\obj\Debug\net5.0\12. Trade Commissions.AssemblyInfoInputs.cache
+D:\SoftUni\lesson 5\12. Trade Commissions\obj\Debug\net5.0\12. Trade Commissions.AssemblyInfo.cs
+D:\SoftUni\lesson 5\12. Trade Commissions\obj\Debug\net5.0\12. Trade Commissions.csproj.CoreCompileInputs.cache
+D:\SoftUni\lesson 5\12. Trade Commissions\obj\Debug\net5.0\12. Trade Commissions.dll
+D:\SoftUni\lesson 5\12. Trade Commissions\obj\Debug\net5.0\refint\12. Trade Commissions.dll
+D:\SoftUni\lesson 5\12. Trade Commissions\obj\Debug\net5.0\12. Trade Commissions.pdb
+D:\SoftUni\lesson 5\12. Trade Commissions\obj\Debug\net5.0\12. Trade Commissions.genruntimeconfig.cache
+D:\SoftUni\lesson 5\12. Trade Commissions\obj\Debug\net5.0\ref\12. Trade Commissions.dll

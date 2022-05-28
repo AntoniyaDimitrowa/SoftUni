@@ -1,0 +1,16 @@
+D:\SoftUni\lesson 5\06. Number in Range\bin\Debug\net5.0\06. Number in Range.exe
+D:\SoftUni\lesson 5\06. Number in Range\bin\Debug\net5.0\06. Number in Range.deps.json
+D:\SoftUni\lesson 5\06. Number in Range\bin\Debug\net5.0\06. Number in Range.runtimeconfig.json
+D:\SoftUni\lesson 5\06. Number in Range\bin\Debug\net5.0\06. Number in Range.runtimeconfig.dev.json
+D:\SoftUni\lesson 5\06. Number in Range\bin\Debug\net5.0\06. Number in Range.dll
+D:\SoftUni\lesson 5\06. Number in Range\bin\Debug\net5.0\06. Number in Range.pdb
+D:\SoftUni\lesson 5\06. Number in Range\obj\Debug\net5.0\06. Number in Range.csproj.AssemblyReference.cache
+D:\SoftUni\lesson 5\06. Number in Range\obj\Debug\net5.0\06. Number in Range.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\lesson 5\06. Number in Range\obj\Debug\net5.0\06. Number in Range.AssemblyInfoInputs.cache
+D:\SoftUni\lesson 5\06. Number in Range\obj\Debug\net5.0\06. Number in Range.AssemblyInfo.cs
+D:\SoftUni\lesson 5\06. Number in Range\obj\Debug\net5.0\06. Number in Range.csproj.CoreCompileInputs.cache
+D:\SoftUni\lesson 5\06. Number in Range\obj\Debug\net5.0\06. Number in Range.dll
+D:\SoftUni\lesson 5\06. Number in Range\obj\Debug\net5.0\refint\06. Number in Range.dll
+D:\SoftUni\lesson 5\06. Number in Range\obj\Debug\net5.0\06. Number in Range.pdb
+D:\SoftUni\lesson 5\06. Number in Range\obj\Debug\net5.0\06. Number in Range.genruntimeconfig.cache
+D:\SoftUni\lesson 5\06. Number in Range\obj\Debug\net5.0\ref\06. Number in Range.dll

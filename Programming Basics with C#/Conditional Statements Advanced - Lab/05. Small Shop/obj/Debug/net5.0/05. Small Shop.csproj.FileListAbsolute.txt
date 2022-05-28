@@ -1,0 +1,16 @@
+D:\SoftUni\lesson 5\05. Small Shop\bin\Debug\net5.0\05. Small Shop.exe
+D:\SoftUni\lesson 5\05. Small Shop\bin\Debug\net5.0\05. Small Shop.deps.json
+D:\SoftUni\lesson 5\05. Small Shop\bin\Debug\net5.0\05. Small Shop.runtimeconfig.json
+D:\SoftUni\lesson 5\05. Small Shop\bin\Debug\net5.0\05. Small Shop.runtimeconfig.dev.json
+D:\SoftUni\lesson 5\05. Small Shop\bin\Debug\net5.0\05. Small Shop.dll
+D:\SoftUni\lesson 5\05. Small Shop\bin\Debug\net5.0\05. Small Shop.pdb
+D:\SoftUni\lesson 5\05. Small Shop\obj\Debug\net5.0\05. Small Shop.csproj.AssemblyReference.cache
+D:\SoftUni\lesson 5\05. Small Shop\obj\Debug\net5.0\05. Small Shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\lesson 5\05. Small Shop\obj\Debug\net5.0\05. Small Shop.AssemblyInfoInputs.cache
+D:\SoftUni\lesson 5\05. Small Shop\obj\Debug\net5.0\05. Small Shop.AssemblyInfo.cs
+D:\SoftUni\lesson 5\05. Small Shop\obj\Debug\net5.0\05. Small Shop.csproj.CoreCompileInputs.cache
+D:\SoftUni\lesson 5\05. Small Shop\obj\Debug\net5.0\05. Small Shop.dll
+D:\SoftUni\lesson 5\05. Small Shop\obj\Debug\net5.0\refint\05. Small Shop.dll
+D:\SoftUni\lesson 5\05. Small Shop\obj\Debug\net5.0\05. Small Shop.pdb
+D:\SoftUni\lesson 5\05. Small Shop\obj\Debug\net5.0\05. Small Shop.genruntimeconfig.cache
+D:\SoftUni\lesson 5\05. Small Shop\obj\Debug\net5.0\ref\05. Small Shop.dll
