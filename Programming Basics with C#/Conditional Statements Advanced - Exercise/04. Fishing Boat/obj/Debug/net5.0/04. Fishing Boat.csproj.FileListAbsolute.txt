@@ -1,0 +1,16 @@
+D:\SoftUni\lesson 6\04. Fishing Boat\bin\Debug\net5.0\04. Fishing Boat.exe
+D:\SoftUni\lesson 6\04. Fishing Boat\bin\Debug\net5.0\04. Fishing Boat.deps.json
+D:\SoftUni\lesson 6\04. Fishing Boat\bin\Debug\net5.0\04. Fishing Boat.runtimeconfig.json
+D:\SoftUni\lesson 6\04. Fishing Boat\bin\Debug\net5.0\04. Fishing Boat.runtimeconfig.dev.json
+D:\SoftUni\lesson 6\04. Fishing Boat\bin\Debug\net5.0\04. Fishing Boat.dll
+D:\SoftUni\lesson 6\04. Fishing Boat\bin\Debug\net5.0\04. Fishing Boat.pdb
+D:\SoftUni\lesson 6\04. Fishing Boat\obj\Debug\net5.0\04. Fishing Boat.csproj.AssemblyReference.cache
+D:\SoftUni\lesson 6\04. Fishing Boat\obj\Debug\net5.0\04. Fishing Boat.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\lesson 6\04. Fishing Boat\obj\Debug\net5.0\04. Fishing Boat.AssemblyInfoInputs.cache
+D:\SoftUni\lesson 6\04. Fishing Boat\obj\Debug\net5.0\04. Fishing Boat.AssemblyInfo.cs
+D:\SoftUni\lesson 6\04. Fishing Boat\obj\Debug\net5.0\04. Fishing Boat.csproj.CoreCompileInputs.cache
+D:\SoftUni\lesson 6\04. Fishing Boat\obj\Debug\net5.0\04. Fishing Boat.dll
+D:\SoftUni\lesson 6\04. Fishing Boat\obj\Debug\net5.0\refint\04. Fishing Boat.dll
+D:\SoftUni\lesson 6\04. Fishing Boat\obj\Debug\net5.0\04. Fishing Boat.pdb
+D:\SoftUni\lesson 6\04. Fishing Boat\obj\Debug\net5.0\04. Fishing Boat.genruntimeconfig.cache
+D:\SoftUni\lesson 6\04. Fishing Boat\obj\Debug\net5.0\ref\04. Fishing Boat.dll

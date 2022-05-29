@@ -1,0 +1,16 @@
+D:\SoftUni\lesson 6\07. Hotel Room\bin\Debug\net5.0\07. Hotel Room.exe
+D:\SoftUni\lesson 6\07. Hotel Room\bin\Debug\net5.0\07. Hotel Room.deps.json
+D:\SoftUni\lesson 6\07. Hotel Room\bin\Debug\net5.0\07. Hotel Room.runtimeconfig.json
+D:\SoftUni\lesson 6\07. Hotel Room\bin\Debug\net5.0\07. Hotel Room.runtimeconfig.dev.json
+D:\SoftUni\lesson 6\07. Hotel Room\bin\Debug\net5.0\07. Hotel Room.dll
+D:\SoftUni\lesson 6\07. Hotel Room\bin\Debug\net5.0\07. Hotel Room.pdb
+D:\SoftUni\lesson 6\07. Hotel Room\obj\Debug\net5.0\07. Hotel Room.csproj.AssemblyReference.cache
+D:\SoftUni\lesson 6\07. Hotel Room\obj\Debug\net5.0\07. Hotel Room.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\lesson 6\07. Hotel Room\obj\Debug\net5.0\07. Hotel Room.AssemblyInfoInputs.cache
+D:\SoftUni\lesson 6\07. Hotel Room\obj\Debug\net5.0\07. Hotel Room.AssemblyInfo.cs
+D:\SoftUni\lesson 6\07. Hotel Room\obj\Debug\net5.0\07. Hotel Room.csproj.CoreCompileInputs.cache
+D:\SoftUni\lesson 6\07. Hotel Room\obj\Debug\net5.0\07. Hotel Room.dll
+D:\SoftUni\lesson 6\07. Hotel Room\obj\Debug\net5.0\refint\07. Hotel Room.dll
+D:\SoftUni\lesson 6\07. Hotel Room\obj\Debug\net5.0\07. Hotel Room.pdb
+D:\SoftUni\lesson 6\07. Hotel Room\obj\Debug\net5.0\07. Hotel Room.genruntimeconfig.cache
+D:\SoftUni\lesson 6\07. Hotel Room\obj\Debug\net5.0\ref\07. Hotel Room.dll

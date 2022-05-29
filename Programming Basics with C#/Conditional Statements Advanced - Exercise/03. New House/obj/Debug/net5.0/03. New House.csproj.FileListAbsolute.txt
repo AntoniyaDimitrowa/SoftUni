@@ -1,0 +1,16 @@
+D:\SoftUni\lesson 6\03. New House\bin\Debug\net5.0\03. New House.exe
+D:\SoftUni\lesson 6\03. New House\bin\Debug\net5.0\03. New House.deps.json
+D:\SoftUni\lesson 6\03. New House\bin\Debug\net5.0\03. New House.runtimeconfig.json
+D:\SoftUni\lesson 6\03. New House\bin\Debug\net5.0\03. New House.runtimeconfig.dev.json
+D:\SoftUni\lesson 6\03. New House\bin\Debug\net5.0\03. New House.dll
+D:\SoftUni\lesson 6\03. New House\bin\Debug\net5.0\03. New House.pdb
+D:\SoftUni\lesson 6\03. New House\obj\Debug\net5.0\03. New House.csproj.AssemblyReference.cache
+D:\SoftUni\lesson 6\03. New House\obj\Debug\net5.0\03. New House.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\lesson 6\03. New House\obj\Debug\net5.0\03. New House.AssemblyInfoInputs.cache
+D:\SoftUni\lesson 6\03. New House\obj\Debug\net5.0\03. New House.AssemblyInfo.cs
+D:\SoftUni\lesson 6\03. New House\obj\Debug\net5.0\03. New House.csproj.CoreCompileInputs.cache
+D:\SoftUni\lesson 6\03. New House\obj\Debug\net5.0\03. New House.dll
+D:\SoftUni\lesson 6\03. New House\obj\Debug\net5.0\refint\03. New House.dll
+D:\SoftUni\lesson 6\03. New House\obj\Debug\net5.0\03. New House.pdb
+D:\SoftUni\lesson 6\03. New House\obj\Debug\net5.0\03. New House.genruntimeconfig.cache
+D:\SoftUni\lesson 6\03. New House\obj\Debug\net5.0\ref\03. New House.dll

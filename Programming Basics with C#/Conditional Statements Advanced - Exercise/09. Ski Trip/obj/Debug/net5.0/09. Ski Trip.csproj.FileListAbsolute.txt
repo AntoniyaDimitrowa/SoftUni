@@ -1,0 +1,16 @@
+D:\SoftUni\lesson 6\09. Ski Trip\bin\Debug\net5.0\09. Ski Trip.exe
+D:\SoftUni\lesson 6\09. Ski Trip\bin\Debug\net5.0\09. Ski Trip.deps.json
+D:\SoftUni\lesson 6\09. Ski Trip\bin\Debug\net5.0\09. Ski Trip.runtimeconfig.json
+D:\SoftUni\lesson 6\09. Ski Trip\bin\Debug\net5.0\09. Ski Trip.runtimeconfig.dev.json
+D:\SoftUni\lesson 6\09. Ski Trip\bin\Debug\net5.0\09. Ski Trip.dll
+D:\SoftUni\lesson 6\09. Ski Trip\bin\Debug\net5.0\09. Ski Trip.pdb
+D:\SoftUni\lesson 6\09. Ski Trip\obj\Debug\net5.0\09. Ski Trip.csproj.AssemblyReference.cache
+D:\SoftUni\lesson 6\09. Ski Trip\obj\Debug\net5.0\09. Ski Trip.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\lesson 6\09. Ski Trip\obj\Debug\net5.0\09. Ski Trip.AssemblyInfoInputs.cache
+D:\SoftUni\lesson 6\09. Ski Trip\obj\Debug\net5.0\09. Ski Trip.AssemblyInfo.cs
+D:\SoftUni\lesson 6\09. Ski Trip\obj\Debug\net5.0\09. Ski Trip.csproj.CoreCompileInputs.cache
+D:\SoftUni\lesson 6\09. Ski Trip\obj\Debug\net5.0\09. Ski Trip.dll
+D:\SoftUni\lesson 6\09. Ski Trip\obj\Debug\net5.0\refint\09. Ski Trip.dll
+D:\SoftUni\lesson 6\09. Ski Trip\obj\Debug\net5.0\09. Ski Trip.pdb
+D:\SoftUni\lesson 6\09. Ski Trip\obj\Debug\net5.0\09. Ski Trip.genruntimeconfig.cache
+D:\SoftUni\lesson 6\09. Ski Trip\obj\Debug\net5.0\ref\09. Ski Trip.dll

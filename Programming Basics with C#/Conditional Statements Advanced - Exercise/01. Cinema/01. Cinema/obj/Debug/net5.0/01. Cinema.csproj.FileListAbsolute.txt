@@ -1,0 +1,16 @@
+D:\SoftUni\lesson 6\01. Cinema\01. Cinema\bin\Debug\net5.0\01. Cinema.exe
+D:\SoftUni\lesson 6\01. Cinema\01. Cinema\bin\Debug\net5.0\01. Cinema.deps.json
+D:\SoftUni\lesson 6\01. Cinema\01. Cinema\bin\Debug\net5.0\01. Cinema.runtimeconfig.json
+D:\SoftUni\lesson 6\01. Cinema\01. Cinema\bin\Debug\net5.0\01. Cinema.runtimeconfig.dev.json
+D:\SoftUni\lesson 6\01. Cinema\01. Cinema\bin\Debug\net5.0\01. Cinema.dll
+D:\SoftUni\lesson 6\01. Cinema\01. Cinema\bin\Debug\net5.0\01. Cinema.pdb
+D:\SoftUni\lesson 6\01. Cinema\01. Cinema\obj\Debug\net5.0\01. Cinema.csproj.AssemblyReference.cache
+D:\SoftUni\lesson 6\01. Cinema\01. Cinema\obj\Debug\net5.0\01. Cinema.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\lesson 6\01. Cinema\01. Cinema\obj\Debug\net5.0\01. Cinema.AssemblyInfoInputs.cache
+D:\SoftUni\lesson 6\01. Cinema\01. Cinema\obj\Debug\net5.0\01. Cinema.AssemblyInfo.cs
+D:\SoftUni\lesson 6\01. Cinema\01. Cinema\obj\Debug\net5.0\01. Cinema.csproj.CoreCompileInputs.cache
+D:\SoftUni\lesson 6\01. Cinema\01. Cinema\obj\Debug\net5.0\01. Cinema.dll
+D:\SoftUni\lesson 6\01. Cinema\01. Cinema\obj\Debug\net5.0\refint\01. Cinema.dll
+D:\SoftUni\lesson 6\01. Cinema\01. Cinema\obj\Debug\net5.0\01. Cinema.pdb
+D:\SoftUni\lesson 6\01. Cinema\01. Cinema\obj\Debug\net5.0\01. Cinema.genruntimeconfig.cache
+D:\SoftUni\lesson 6\01. Cinema\01. Cinema\obj\Debug\net5.0\ref\01. Cinema.dll

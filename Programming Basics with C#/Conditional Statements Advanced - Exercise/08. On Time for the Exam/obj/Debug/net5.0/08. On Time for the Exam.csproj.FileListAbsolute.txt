@@ -1,0 +1,16 @@
+D:\SoftUni\lesson 6\08. On Time for the Exam\bin\Debug\net5.0\08. On Time for the Exam.exe
+D:\SoftUni\lesson 6\08. On Time for the Exam\bin\Debug\net5.0\08. On Time for the Exam.deps.json
+D:\SoftUni\lesson 6\08. On Time for the Exam\bin\Debug\net5.0\08. On Time for the Exam.runtimeconfig.json
+D:\SoftUni\lesson 6\08. On Time for the Exam\bin\Debug\net5.0\08. On Time for the Exam.runtimeconfig.dev.json
+D:\SoftUni\lesson 6\08. On Time for the Exam\bin\Debug\net5.0\08. On Time for the Exam.dll
+D:\SoftUni\lesson 6\08. On Time for the Exam\bin\Debug\net5.0\08. On Time for the Exam.pdb
+D:\SoftUni\lesson 6\08. On Time for the Exam\obj\Debug\net5.0\08. On Time for the Exam.csproj.AssemblyReference.cache
+D:\SoftUni\lesson 6\08. On Time for the Exam\obj\Debug\net5.0\08. On Time for the Exam.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\lesson 6\08. On Time for the Exam\obj\Debug\net5.0\08. On Time for the Exam.AssemblyInfoInputs.cache
+D:\SoftUni\lesson 6\08. On Time for the Exam\obj\Debug\net5.0\08. On Time for the Exam.AssemblyInfo.cs
+D:\SoftUni\lesson 6\08. On Time for the Exam\obj\Debug\net5.0\08. On Time for the Exam.csproj.CoreCompileInputs.cache
+D:\SoftUni\lesson 6\08. On Time for the Exam\obj\Debug\net5.0\08. On Time for the Exam.dll
+D:\SoftUni\lesson 6\08. On Time for the Exam\obj\Debug\net5.0\refint\08. On Time for the Exam.dll
+D:\SoftUni\lesson 6\08. On Time for the Exam\obj\Debug\net5.0\08. On Time for the Exam.pdb
+D:\SoftUni\lesson 6\08. On Time for the Exam\obj\Debug\net5.0\08. On Time for the Exam.genruntimeconfig.cache
+D:\SoftUni\lesson 6\08. On Time for the Exam\obj\Debug\net5.0\ref\08. On Time for the Exam.dll
