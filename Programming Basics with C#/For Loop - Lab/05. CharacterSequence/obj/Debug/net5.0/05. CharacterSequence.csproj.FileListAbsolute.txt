@@ -1,0 +1,16 @@
+D:\SoftUni\Programming Basics with C#1\For Loop - Lab\05. CharacterSequence\bin\Debug\net5.0\05. CharacterSequence.exe
+D:\SoftUni\Programming Basics with C#1\For Loop - Lab\05. CharacterSequence\bin\Debug\net5.0\05. CharacterSequence.deps.json
+D:\SoftUni\Programming Basics with C#1\For Loop - Lab\05. CharacterSequence\bin\Debug\net5.0\05. CharacterSequence.runtimeconfig.json
+D:\SoftUni\Programming Basics with C#1\For Loop - Lab\05. CharacterSequence\bin\Debug\net5.0\05. CharacterSequence.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics with C#1\For Loop - Lab\05. CharacterSequence\bin\Debug\net5.0\05. CharacterSequence.dll
+D:\SoftUni\Programming Basics with C#1\For Loop - Lab\05. CharacterSequence\bin\Debug\net5.0\05. CharacterSequence.pdb
+D:\SoftUni\Programming Basics with C#1\For Loop - Lab\05. CharacterSequence\obj\Debug\net5.0\05. CharacterSequence.csproj.AssemblyReference.cache
+D:\SoftUni\Programming Basics with C#1\For Loop - Lab\05. CharacterSequence\obj\Debug\net5.0\05. CharacterSequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Basics with C#1\For Loop - Lab\05. CharacterSequence\obj\Debug\net5.0\05. CharacterSequence.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics with C#1\For Loop - Lab\05. CharacterSequence\obj\Debug\net5.0\05. CharacterSequence.AssemblyInfo.cs
+D:\SoftUni\Programming Basics with C#1\For Loop - Lab\05. CharacterSequence\obj\Debug\net5.0\05. CharacterSequence.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics with C#1\For Loop - Lab\05. CharacterSequence\obj\Debug\net5.0\05. CharacterSequence.dll
+D:\SoftUni\Programming Basics with C#1\For Loop - Lab\05. CharacterSequence\obj\Debug\net5.0\refint\05. CharacterSequence.dll
+D:\SoftUni\Programming Basics with C#1\For Loop - Lab\05. CharacterSequence\obj\Debug\net5.0\05. CharacterSequence.pdb
+D:\SoftUni\Programming Basics with C#1\For Loop - Lab\05. CharacterSequence\obj\Debug\net5.0\05. CharacterSequence.genruntimeconfig.cache
+D:\SoftUni\Programming Basics with C#1\For Loop - Lab\05. CharacterSequence\obj\Debug\net5.0\ref\05. CharacterSequence.dll

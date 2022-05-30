@@ -1,0 +1,16 @@
+D:\SoftUni\Programming Basics with C#1\For Loop - Lab\04. EvenPowersOf2\bin\Debug\net5.0\04. EvenPowersOf2.exe
+D:\SoftUni\Programming Basics with C#1\For Loop - Lab\04. EvenPowersOf2\bin\Debug\net5.0\04. EvenPowersOf2.deps.json
+D:\SoftUni\Programming Basics with C#1\For Loop - Lab\04. EvenPowersOf2\bin\Debug\net5.0\04. EvenPowersOf2.runtimeconfig.json
+D:\SoftUni\Programming Basics with C#1\For Loop - Lab\04. EvenPowersOf2\bin\Debug\net5.0\04. EvenPowersOf2.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics with C#1\For Loop - Lab\04. EvenPowersOf2\bin\Debug\net5.0\04. EvenPowersOf2.dll
+D:\SoftUni\Programming Basics with C#1\For Loop - Lab\04. EvenPowersOf2\bin\Debug\net5.0\04. EvenPowersOf2.pdb
+D:\SoftUni\Programming Basics with C#1\For Loop - Lab\04. EvenPowersOf2\obj\Debug\net5.0\04. EvenPowersOf2.csproj.AssemblyReference.cache
+D:\SoftUni\Programming Basics with C#1\For Loop - Lab\04. EvenPowersOf2\obj\Debug\net5.0\04. EvenPowersOf2.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Basics with C#1\For Loop - Lab\04. EvenPowersOf2\obj\Debug\net5.0\04. EvenPowersOf2.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics with C#1\For Loop - Lab\04. EvenPowersOf2\obj\Debug\net5.0\04. EvenPowersOf2.AssemblyInfo.cs
+D:\SoftUni\Programming Basics with C#1\For Loop - Lab\04. EvenPowersOf2\obj\Debug\net5.0\04. EvenPowersOf2.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics with C#1\For Loop - Lab\04. EvenPowersOf2\obj\Debug\net5.0\04. EvenPowersOf2.dll
+D:\SoftUni\Programming Basics with C#1\For Loop - Lab\04. EvenPowersOf2\obj\Debug\net5.0\refint\04. EvenPowersOf2.dll
+D:\SoftUni\Programming Basics with C#1\For Loop - Lab\04. EvenPowersOf2\obj\Debug\net5.0\04. EvenPowersOf2.pdb
+D:\SoftUni\Programming Basics with C#1\For Loop - Lab\04. EvenPowersOf2\obj\Debug\net5.0\04. EvenPowersOf2.genruntimeconfig.cache
+D:\SoftUni\Programming Basics with C#1\For Loop - Lab\04. EvenPowersOf2\obj\Debug\net5.0\ref\04. EvenPowersOf2.dll
