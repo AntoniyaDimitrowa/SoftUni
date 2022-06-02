@@ -1,0 +1,16 @@
+D:\SoftUni\Programming Basics with C#1\For Loop - Exercise\01. NumbersEndingIn7\01. NumbersEndingIn7\bin\Debug\net5.0\01. NumbersEndingIn7.exe
+D:\SoftUni\Programming Basics with C#1\For Loop - Exercise\01. NumbersEndingIn7\01. NumbersEndingIn7\bin\Debug\net5.0\01. NumbersEndingIn7.deps.json
+D:\SoftUni\Programming Basics with C#1\For Loop - Exercise\01. NumbersEndingIn7\01. NumbersEndingIn7\bin\Debug\net5.0\01. NumbersEndingIn7.runtimeconfig.json
+D:\SoftUni\Programming Basics with C#1\For Loop - Exercise\01. NumbersEndingIn7\01. NumbersEndingIn7\bin\Debug\net5.0\01. NumbersEndingIn7.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics with C#1\For Loop - Exercise\01. NumbersEndingIn7\01. NumbersEndingIn7\bin\Debug\net5.0\01. NumbersEndingIn7.dll
+D:\SoftUni\Programming Basics with C#1\For Loop - Exercise\01. NumbersEndingIn7\01. NumbersEndingIn7\bin\Debug\net5.0\01. NumbersEndingIn7.pdb
+D:\SoftUni\Programming Basics with C#1\For Loop - Exercise\01. NumbersEndingIn7\01. NumbersEndingIn7\obj\Debug\net5.0\01. NumbersEndingIn7.csproj.AssemblyReference.cache
+D:\SoftUni\Programming Basics with C#1\For Loop - Exercise\01. NumbersEndingIn7\01. NumbersEndingIn7\obj\Debug\net5.0\01. NumbersEndingIn7.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Basics with C#1\For Loop - Exercise\01. NumbersEndingIn7\01. NumbersEndingIn7\obj\Debug\net5.0\01. NumbersEndingIn7.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics with C#1\For Loop - Exercise\01. NumbersEndingIn7\01. NumbersEndingIn7\obj\Debug\net5.0\01. NumbersEndingIn7.AssemblyInfo.cs
+D:\SoftUni\Programming Basics with C#1\For Loop - Exercise\01. NumbersEndingIn7\01. NumbersEndingIn7\obj\Debug\net5.0\01. NumbersEndingIn7.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics with C#1\For Loop - Exercise\01. NumbersEndingIn7\01. NumbersEndingIn7\obj\Debug\net5.0\01. NumbersEndingIn7.dll
+D:\SoftUni\Programming Basics with C#1\For Loop - Exercise\01. NumbersEndingIn7\01. NumbersEndingIn7\obj\Debug\net5.0\refint\01. NumbersEndingIn7.dll
+D:\SoftUni\Programming Basics with C#1\For Loop - Exercise\01. NumbersEndingIn7\01. NumbersEndingIn7\obj\Debug\net5.0\01. NumbersEndingIn7.pdb
+D:\SoftUni\Programming Basics with C#1\For Loop - Exercise\01. NumbersEndingIn7\01. NumbersEndingIn7\obj\Debug\net5.0\01. NumbersEndingIn7.genruntimeconfig.cache
+D:\SoftUni\Programming Basics with C#1\For Loop - Exercise\01. NumbersEndingIn7\01. NumbersEndingIn7\obj\Debug\net5.0\ref\01. NumbersEndingIn7.dll
