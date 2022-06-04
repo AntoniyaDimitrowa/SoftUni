@@ -1,0 +1,16 @@
+D:\SoftUni\Programming Basics with C#1\For Loop - Exercise\08. TennisRanklist\bin\Debug\net5.0\08. TennisRanklist.exe
+D:\SoftUni\Programming Basics with C#1\For Loop - Exercise\08. TennisRanklist\bin\Debug\net5.0\08. TennisRanklist.deps.json
+D:\SoftUni\Programming Basics with C#1\For Loop - Exercise\08. TennisRanklist\bin\Debug\net5.0\08. TennisRanklist.runtimeconfig.json
+D:\SoftUni\Programming Basics with C#1\For Loop - Exercise\08. TennisRanklist\bin\Debug\net5.0\08. TennisRanklist.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics with C#1\For Loop - Exercise\08. TennisRanklist\bin\Debug\net5.0\08. TennisRanklist.dll
+D:\SoftUni\Programming Basics with C#1\For Loop - Exercise\08. TennisRanklist\bin\Debug\net5.0\08. TennisRanklist.pdb
+D:\SoftUni\Programming Basics with C#1\For Loop - Exercise\08. TennisRanklist\obj\Debug\net5.0\08. TennisRanklist.csproj.AssemblyReference.cache
+D:\SoftUni\Programming Basics with C#1\For Loop - Exercise\08. TennisRanklist\obj\Debug\net5.0\08. TennisRanklist.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Basics with C#1\For Loop - Exercise\08. TennisRanklist\obj\Debug\net5.0\08. TennisRanklist.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics with C#1\For Loop - Exercise\08. TennisRanklist\obj\Debug\net5.0\08. TennisRanklist.AssemblyInfo.cs
+D:\SoftUni\Programming Basics with C#1\For Loop - Exercise\08. TennisRanklist\obj\Debug\net5.0\08. TennisRanklist.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics with C#1\For Loop - Exercise\08. TennisRanklist\obj\Debug\net5.0\08. TennisRanklist.dll
+D:\SoftUni\Programming Basics with C#1\For Loop - Exercise\08. TennisRanklist\obj\Debug\net5.0\refint\08. TennisRanklist.dll
+D:\SoftUni\Programming Basics with C#1\For Loop - Exercise\08. TennisRanklist\obj\Debug\net5.0\08. TennisRanklist.pdb
+D:\SoftUni\Programming Basics with C#1\For Loop - Exercise\08. TennisRanklist\obj\Debug\net5.0\08. TennisRanklist.genruntimeconfig.cache
+D:\SoftUni\Programming Basics with C#1\For Loop - Exercise\08. TennisRanklist\obj\Debug\net5.0\ref\08. TennisRanklist.dll
