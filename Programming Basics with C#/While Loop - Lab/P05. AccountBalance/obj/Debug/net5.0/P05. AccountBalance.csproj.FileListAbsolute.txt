@@ -1,0 +1,16 @@
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P05. AccountBalance\bin\Debug\net5.0\P05. AccountBalance.exe
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P05. AccountBalance\bin\Debug\net5.0\P05. AccountBalance.deps.json
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P05. AccountBalance\bin\Debug\net5.0\P05. AccountBalance.runtimeconfig.json
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P05. AccountBalance\bin\Debug\net5.0\P05. AccountBalance.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P05. AccountBalance\bin\Debug\net5.0\P05. AccountBalance.dll
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P05. AccountBalance\bin\Debug\net5.0\P05. AccountBalance.pdb
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P05. AccountBalance\obj\Debug\net5.0\P05. AccountBalance.csproj.AssemblyReference.cache
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P05. AccountBalance\obj\Debug\net5.0\P05. AccountBalance.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P05. AccountBalance\obj\Debug\net5.0\P05. AccountBalance.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P05. AccountBalance\obj\Debug\net5.0\P05. AccountBalance.AssemblyInfo.cs
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P05. AccountBalance\obj\Debug\net5.0\P05. AccountBalance.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P05. AccountBalance\obj\Debug\net5.0\P05. AccountBalance.dll
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P05. AccountBalance\obj\Debug\net5.0\refint\P05. AccountBalance.dll
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P05. AccountBalance\obj\Debug\net5.0\P05. AccountBalance.pdb
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P05. AccountBalance\obj\Debug\net5.0\P05. AccountBalance.genruntimeconfig.cache
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P05. AccountBalance\obj\Debug\net5.0\ref\P05. AccountBalance.dll
