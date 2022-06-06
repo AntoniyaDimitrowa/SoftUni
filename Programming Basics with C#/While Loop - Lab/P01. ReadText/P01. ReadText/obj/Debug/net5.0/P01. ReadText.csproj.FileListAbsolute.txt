@@ -1,0 +1,16 @@
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P01. ReadText\P01. ReadText\bin\Debug\net5.0\P01. ReadText.exe
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P01. ReadText\P01. ReadText\bin\Debug\net5.0\P01. ReadText.deps.json
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P01. ReadText\P01. ReadText\bin\Debug\net5.0\P01. ReadText.runtimeconfig.json
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P01. ReadText\P01. ReadText\bin\Debug\net5.0\P01. ReadText.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P01. ReadText\P01. ReadText\bin\Debug\net5.0\P01. ReadText.dll
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P01. ReadText\P01. ReadText\bin\Debug\net5.0\P01. ReadText.pdb
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P01. ReadText\P01. ReadText\obj\Debug\net5.0\P01. ReadText.csproj.AssemblyReference.cache
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P01. ReadText\P01. ReadText\obj\Debug\net5.0\P01. ReadText.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P01. ReadText\P01. ReadText\obj\Debug\net5.0\P01. ReadText.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P01. ReadText\P01. ReadText\obj\Debug\net5.0\P01. ReadText.AssemblyInfo.cs
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P01. ReadText\P01. ReadText\obj\Debug\net5.0\P01. ReadText.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P01. ReadText\P01. ReadText\obj\Debug\net5.0\P01. ReadText.dll
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P01. ReadText\P01. ReadText\obj\Debug\net5.0\refint\P01. ReadText.dll
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P01. ReadText\P01. ReadText\obj\Debug\net5.0\P01. ReadText.pdb
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P01. ReadText\P01. ReadText\obj\Debug\net5.0\P01. ReadText.genruntimeconfig.cache
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P01. ReadText\P01. ReadText\obj\Debug\net5.0\ref\P01. ReadText.dll

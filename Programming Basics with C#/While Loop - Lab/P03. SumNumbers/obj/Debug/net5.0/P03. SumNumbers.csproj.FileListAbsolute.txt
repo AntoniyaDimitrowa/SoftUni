@@ -1,0 +1,16 @@
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P03. SumNumbers\bin\Debug\net5.0\P03. SumNumbers.exe
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P03. SumNumbers\bin\Debug\net5.0\P03. SumNumbers.deps.json
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P03. SumNumbers\bin\Debug\net5.0\P03. SumNumbers.runtimeconfig.json
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P03. SumNumbers\bin\Debug\net5.0\P03. SumNumbers.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P03. SumNumbers\bin\Debug\net5.0\P03. SumNumbers.dll
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P03. SumNumbers\bin\Debug\net5.0\P03. SumNumbers.pdb
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P03. SumNumbers\obj\Debug\net5.0\P03. SumNumbers.csproj.AssemblyReference.cache
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P03. SumNumbers\obj\Debug\net5.0\P03. SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P03. SumNumbers\obj\Debug\net5.0\P03. SumNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P03. SumNumbers\obj\Debug\net5.0\P03. SumNumbers.AssemblyInfo.cs
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P03. SumNumbers\obj\Debug\net5.0\P03. SumNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P03. SumNumbers\obj\Debug\net5.0\P03. SumNumbers.dll
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P03. SumNumbers\obj\Debug\net5.0\refint\P03. SumNumbers.dll
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P03. SumNumbers\obj\Debug\net5.0\P03. SumNumbers.pdb
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P03. SumNumbers\obj\Debug\net5.0\P03. SumNumbers.genruntimeconfig.cache
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P03. SumNumbers\obj\Debug\net5.0\ref\P03. SumNumbers.dll
