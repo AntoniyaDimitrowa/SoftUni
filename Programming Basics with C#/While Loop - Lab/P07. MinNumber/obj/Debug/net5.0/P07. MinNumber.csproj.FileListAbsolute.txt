@@ -1,0 +1,16 @@
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P07. MinNumber\bin\Debug\net5.0\P07. MinNumber.exe
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P07. MinNumber\bin\Debug\net5.0\P07. MinNumber.deps.json
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P07. MinNumber\bin\Debug\net5.0\P07. MinNumber.runtimeconfig.json
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P07. MinNumber\bin\Debug\net5.0\P07. MinNumber.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P07. MinNumber\bin\Debug\net5.0\P07. MinNumber.dll
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P07. MinNumber\bin\Debug\net5.0\P07. MinNumber.pdb
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P07. MinNumber\obj\Debug\net5.0\P07. MinNumber.csproj.AssemblyReference.cache
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P07. MinNumber\obj\Debug\net5.0\P07. MinNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P07. MinNumber\obj\Debug\net5.0\P07. MinNumber.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P07. MinNumber\obj\Debug\net5.0\P07. MinNumber.AssemblyInfo.cs
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P07. MinNumber\obj\Debug\net5.0\P07. MinNumber.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P07. MinNumber\obj\Debug\net5.0\P07. MinNumber.dll
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P07. MinNumber\obj\Debug\net5.0\refint\P07. MinNumber.dll
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P07. MinNumber\obj\Debug\net5.0\P07. MinNumber.pdb
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P07. MinNumber\obj\Debug\net5.0\P07. MinNumber.genruntimeconfig.cache
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P07. MinNumber\obj\Debug\net5.0\ref\P07. MinNumber.dll

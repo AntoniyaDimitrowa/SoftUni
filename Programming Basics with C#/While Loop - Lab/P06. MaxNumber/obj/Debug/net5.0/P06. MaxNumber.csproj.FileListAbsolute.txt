@@ -1,0 +1,16 @@
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P06. MaxNumber\bin\Debug\net5.0\P06. MaxNumber.exe
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P06. MaxNumber\bin\Debug\net5.0\P06. MaxNumber.deps.json
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P06. MaxNumber\bin\Debug\net5.0\P06. MaxNumber.runtimeconfig.json
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P06. MaxNumber\bin\Debug\net5.0\P06. MaxNumber.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P06. MaxNumber\bin\Debug\net5.0\P06. MaxNumber.dll
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P06. MaxNumber\bin\Debug\net5.0\P06. MaxNumber.pdb
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P06. MaxNumber\obj\Debug\net5.0\P06. MaxNumber.csproj.AssemblyReference.cache
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P06. MaxNumber\obj\Debug\net5.0\P06. MaxNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P06. MaxNumber\obj\Debug\net5.0\P06. MaxNumber.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P06. MaxNumber\obj\Debug\net5.0\P06. MaxNumber.AssemblyInfo.cs
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P06. MaxNumber\obj\Debug\net5.0\P06. MaxNumber.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P06. MaxNumber\obj\Debug\net5.0\P06. MaxNumber.dll
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P06. MaxNumber\obj\Debug\net5.0\refint\P06. MaxNumber.dll
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P06. MaxNumber\obj\Debug\net5.0\P06. MaxNumber.pdb
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P06. MaxNumber\obj\Debug\net5.0\P06. MaxNumber.genruntimeconfig.cache
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P06. MaxNumber\obj\Debug\net5.0\ref\P06. MaxNumber.dll

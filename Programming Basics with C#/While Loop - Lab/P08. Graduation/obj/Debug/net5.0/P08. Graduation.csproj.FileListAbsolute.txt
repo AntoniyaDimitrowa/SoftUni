@@ -1,0 +1,16 @@
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P08. Graduation\bin\Debug\net5.0\P08. Graduation.exe
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P08. Graduation\bin\Debug\net5.0\P08. Graduation.deps.json
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P08. Graduation\bin\Debug\net5.0\P08. Graduation.runtimeconfig.json
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P08. Graduation\bin\Debug\net5.0\P08. Graduation.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P08. Graduation\bin\Debug\net5.0\P08. Graduation.dll
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P08. Graduation\bin\Debug\net5.0\P08. Graduation.pdb
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P08. Graduation\obj\Debug\net5.0\P08. Graduation.csproj.AssemblyReference.cache
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P08. Graduation\obj\Debug\net5.0\P08. Graduation.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P08. Graduation\obj\Debug\net5.0\P08. Graduation.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P08. Graduation\obj\Debug\net5.0\P08. Graduation.AssemblyInfo.cs
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P08. Graduation\obj\Debug\net5.0\P08. Graduation.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P08. Graduation\obj\Debug\net5.0\P08. Graduation.dll
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P08. Graduation\obj\Debug\net5.0\refint\P08. Graduation.dll
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P08. Graduation\obj\Debug\net5.0\P08. Graduation.pdb
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P08. Graduation\obj\Debug\net5.0\P08. Graduation.genruntimeconfig.cache
+D:\SoftUni\Programming Basics with C#1\While Loop - Lab\P08. Graduation\obj\Debug\net5.0\ref\P08. Graduation.dll
