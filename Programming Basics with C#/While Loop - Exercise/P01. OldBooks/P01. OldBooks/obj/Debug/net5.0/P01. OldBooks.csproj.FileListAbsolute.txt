@@ -1,0 +1,16 @@
+D:\SoftUni\Programming Basics with C#1\While Loop - Exercise\P01. OldBooks\P01. OldBooks\bin\Debug\net5.0\P01. OldBooks.exe
+D:\SoftUni\Programming Basics with C#1\While Loop - Exercise\P01. OldBooks\P01. OldBooks\bin\Debug\net5.0\P01. OldBooks.deps.json
+D:\SoftUni\Programming Basics with C#1\While Loop - Exercise\P01. OldBooks\P01. OldBooks\bin\Debug\net5.0\P01. OldBooks.runtimeconfig.json
+D:\SoftUni\Programming Basics with C#1\While Loop - Exercise\P01. OldBooks\P01. OldBooks\bin\Debug\net5.0\P01. OldBooks.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics with C#1\While Loop - Exercise\P01. OldBooks\P01. OldBooks\bin\Debug\net5.0\P01. OldBooks.dll
+D:\SoftUni\Programming Basics with C#1\While Loop - Exercise\P01. OldBooks\P01. OldBooks\bin\Debug\net5.0\P01. OldBooks.pdb
+D:\SoftUni\Programming Basics with C#1\While Loop - Exercise\P01. OldBooks\P01. OldBooks\obj\Debug\net5.0\P01. OldBooks.csproj.AssemblyReference.cache
+D:\SoftUni\Programming Basics with C#1\While Loop - Exercise\P01. OldBooks\P01. OldBooks\obj\Debug\net5.0\P01. OldBooks.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Basics with C#1\While Loop - Exercise\P01. OldBooks\P01. OldBooks\obj\Debug\net5.0\P01. OldBooks.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics with C#1\While Loop - Exercise\P01. OldBooks\P01. OldBooks\obj\Debug\net5.0\P01. OldBooks.AssemblyInfo.cs
+D:\SoftUni\Programming Basics with C#1\While Loop - Exercise\P01. OldBooks\P01. OldBooks\obj\Debug\net5.0\P01. OldBooks.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics with C#1\While Loop - Exercise\P01. OldBooks\P01. OldBooks\obj\Debug\net5.0\P01. OldBooks.dll
+D:\SoftUni\Programming Basics with C#1\While Loop - Exercise\P01. OldBooks\P01. OldBooks\obj\Debug\net5.0\refint\P01. OldBooks.dll
+D:\SoftUni\Programming Basics with C#1\While Loop - Exercise\P01. OldBooks\P01. OldBooks\obj\Debug\net5.0\P01. OldBooks.pdb
+D:\SoftUni\Programming Basics with C#1\While Loop - Exercise\P01. OldBooks\P01. OldBooks\obj\Debug\net5.0\P01. OldBooks.genruntimeconfig.cache
+D:\SoftUni\Programming Basics with C#1\While Loop - Exercise\P01. OldBooks\P01. OldBooks\obj\Debug\net5.0\ref\P01. OldBooks.dll
