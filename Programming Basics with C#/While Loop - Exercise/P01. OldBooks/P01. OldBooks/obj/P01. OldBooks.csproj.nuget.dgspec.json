@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SoftUni\\Programming Basics with C#1\\While Loop - Exercise\\P01. OldBooks\\P01. OldBooks\\P01. OldBooks.csproj": {}
+    "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\While Loop - Exercise\\P01. OldBooks\\P01. OldBooks\\P01. OldBooks.csproj": {}
   },
   "projects": {
-    "D:\\SoftUni\\Programming Basics with C#1\\While Loop - Exercise\\P01. OldBooks\\P01. OldBooks\\P01. OldBooks.csproj": {
+    "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\While Loop - Exercise\\P01. OldBooks\\P01. OldBooks\\P01. OldBooks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SoftUni\\Programming Basics with C#1\\While Loop - Exercise\\P01. OldBooks\\P01. OldBooks\\P01. OldBooks.csproj",
+        "projectUniqueName": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\While Loop - Exercise\\P01. OldBooks\\P01. OldBooks\\P01. OldBooks.csproj",
         "projectName": "P01. OldBooks",
-        "projectPath": "D:\\SoftUni\\Programming Basics with C#1\\While Loop - Exercise\\P01. OldBooks\\P01. OldBooks\\P01. OldBooks.csproj",
+        "projectPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\While Loop - Exercise\\P01. OldBooks\\P01. OldBooks\\P01. OldBooks.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\SoftUni\\Programming Basics with C#1\\While Loop - Exercise\\P01. OldBooks\\P01. OldBooks\\obj\\",
+        "outputPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\While Loop - Exercise\\P01. OldBooks\\P01. OldBooks\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

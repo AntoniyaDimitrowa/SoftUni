@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32421.90
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01. OldBooks", "P01. OldBooks\P01. OldBooks.csproj", "{C0D52A65-5177-4505-8365-F7F1284F7CE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01. OldBooks", "P01. OldBooks\P01. OldBooks.csproj", "{C0D52A65-5177-4505-8365-F7F1284F7CE0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02. ExamPreparation", "..\P02. ExamPreparation\P02. ExamPreparation.csproj", "{B9C988EC-5F8C-417E-B7F1-79FDDA0525E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P02. ExamPreparation", "..\P02. ExamPreparation\P02. ExamPreparation.csproj", "{B9C988EC-5F8C-417E-B7F1-79FDDA0525E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03. Vacation", "..\P03. Vacation\P03. Vacation.csproj", "{8C088FC3-D5BB-4DDE-B869-5C74311862D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04. Walking", "..\P04. Walking\P04. Walking.csproj", "{244675BB-8950-4387-BC3C-D6101FA6B412}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{B9C988EC-5F8C-417E-B7F1-79FDDA0525E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9C988EC-5F8C-417E-B7F1-79FDDA0525E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9C988EC-5F8C-417E-B7F1-79FDDA0525E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C088FC3-D5BB-4DDE-B869-5C74311862D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C088FC3-D5BB-4DDE-B869-5C74311862D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C088FC3-D5BB-4DDE-B869-5C74311862D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C088FC3-D5BB-4DDE-B869-5C74311862D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{244675BB-8950-4387-BC3C-D6101FA6B412}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{244675BB-8950-4387-BC3C-D6101FA6B412}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{244675BB-8950-4387-BC3C-D6101FA6B412}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{244675BB-8950-4387-BC3C-D6101FA6B412}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

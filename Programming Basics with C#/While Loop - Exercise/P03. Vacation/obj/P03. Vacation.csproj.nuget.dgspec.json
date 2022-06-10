@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SoftUni\\Programming Basics with C#1\\While Loop - Exercise\\P03. Vacation\\P03. Vacation.csproj": {}
+    "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\While Loop - Exercise\\P03. Vacation\\P03. Vacation.csproj": {}
   },
   "projects": {
-    "D:\\SoftUni\\Programming Basics with C#1\\While Loop - Exercise\\P03. Vacation\\P03. Vacation.csproj": {
+    "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\While Loop - Exercise\\P03. Vacation\\P03. Vacation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SoftUni\\Programming Basics with C#1\\While Loop - Exercise\\P03. Vacation\\P03. Vacation.csproj",
+        "projectUniqueName": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\While Loop - Exercise\\P03. Vacation\\P03. Vacation.csproj",
         "projectName": "P03. Vacation",
-        "projectPath": "D:\\SoftUni\\Programming Basics with C#1\\While Loop - Exercise\\P03. Vacation\\P03. Vacation.csproj",
+        "projectPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\While Loop - Exercise\\P03. Vacation\\P03. Vacation.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\SoftUni\\Programming Basics with C#1\\While Loop - Exercise\\P03. Vacation\\obj\\",
+        "outputPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\While Loop - Exercise\\P03. Vacation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
