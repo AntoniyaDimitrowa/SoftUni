@@ -1,0 +1,16 @@
+D:\SoftUni\SoftUni\Programming Basics with C#\While Loop - Exercise\P05. Coins\bin\Debug\net5.0\P05. Coins.exe
+D:\SoftUni\SoftUni\Programming Basics with C#\While Loop - Exercise\P05. Coins\bin\Debug\net5.0\P05. Coins.deps.json
+D:\SoftUni\SoftUni\Programming Basics with C#\While Loop - Exercise\P05. Coins\bin\Debug\net5.0\P05. Coins.runtimeconfig.json
+D:\SoftUni\SoftUni\Programming Basics with C#\While Loop - Exercise\P05. Coins\bin\Debug\net5.0\P05. Coins.runtimeconfig.dev.json
+D:\SoftUni\SoftUni\Programming Basics with C#\While Loop - Exercise\P05. Coins\bin\Debug\net5.0\P05. Coins.dll
+D:\SoftUni\SoftUni\Programming Basics with C#\While Loop - Exercise\P05. Coins\bin\Debug\net5.0\P05. Coins.pdb
+D:\SoftUni\SoftUni\Programming Basics with C#\While Loop - Exercise\P05. Coins\obj\Debug\net5.0\P05. Coins.csproj.AssemblyReference.cache
+D:\SoftUni\SoftUni\Programming Basics with C#\While Loop - Exercise\P05. Coins\obj\Debug\net5.0\P05. Coins.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\SoftUni\Programming Basics with C#\While Loop - Exercise\P05. Coins\obj\Debug\net5.0\P05. Coins.AssemblyInfoInputs.cache
+D:\SoftUni\SoftUni\Programming Basics with C#\While Loop - Exercise\P05. Coins\obj\Debug\net5.0\P05. Coins.AssemblyInfo.cs
+D:\SoftUni\SoftUni\Programming Basics with C#\While Loop - Exercise\P05. Coins\obj\Debug\net5.0\P05. Coins.csproj.CoreCompileInputs.cache
+D:\SoftUni\SoftUni\Programming Basics with C#\While Loop - Exercise\P05. Coins\obj\Debug\net5.0\P05. Coins.dll
+D:\SoftUni\SoftUni\Programming Basics with C#\While Loop - Exercise\P05. Coins\obj\Debug\net5.0\refint\P05. Coins.dll
+D:\SoftUni\SoftUni\Programming Basics with C#\While Loop - Exercise\P05. Coins\obj\Debug\net5.0\P05. Coins.pdb
+D:\SoftUni\SoftUni\Programming Basics with C#\While Loop - Exercise\P05. Coins\obj\Debug\net5.0\P05. Coins.genruntimeconfig.cache
+D:\SoftUni\SoftUni\Programming Basics with C#\While Loop - Exercise\P05. Coins\obj\Debug\net5.0\ref\P05. Coins.dll

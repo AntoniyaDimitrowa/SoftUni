@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01. OldBooks", "P01. OldBo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P02. ExamPreparation", "..\P02. ExamPreparation\P02. ExamPreparation.csproj", "{B9C988EC-5F8C-417E-B7F1-79FDDA0525E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03. Vacation", "..\P03. Vacation\P03. Vacation.csproj", "{8C088FC3-D5BB-4DDE-B869-5C74311862D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P03. Vacation", "..\P03. Vacation\P03. Vacation.csproj", "{8C088FC3-D5BB-4DDE-B869-5C74311862D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04. Walking", "..\P04. Walking\P04. Walking.csproj", "{244675BB-8950-4387-BC3C-D6101FA6B412}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P04. Walking", "..\P04. Walking\P04. Walking.csproj", "{244675BB-8950-4387-BC3C-D6101FA6B412}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P05. Coins", "..\P05. Coins\P05. Coins.csproj", "{08FC9D62-6FB9-4828-8DCC-300D4BBD6C36}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{244675BB-8950-4387-BC3C-D6101FA6B412}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{244675BB-8950-4387-BC3C-D6101FA6B412}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{244675BB-8950-4387-BC3C-D6101FA6B412}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08FC9D62-6FB9-4828-8DCC-300D4BBD6C36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08FC9D62-6FB9-4828-8DCC-300D4BBD6C36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08FC9D62-6FB9-4828-8DCC-300D4BBD6C36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08FC9D62-6FB9-4828-8DCC-300D4BBD6C36}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
