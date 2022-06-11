@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SoftUni\\Programming Basics with C#1\\For Loop - Exercise\\06. Oscars\\06. Oscars.csproj": {}
+    "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\For Loop - Exercise\\06. Oscars\\06. Oscars.csproj": {}
   },
   "projects": {
-    "D:\\SoftUni\\Programming Basics with C#1\\For Loop - Exercise\\06. Oscars\\06. Oscars.csproj": {
+    "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\For Loop - Exercise\\06. Oscars\\06. Oscars.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SoftUni\\Programming Basics with C#1\\For Loop - Exercise\\06. Oscars\\06. Oscars.csproj",
+        "projectUniqueName": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\For Loop - Exercise\\06. Oscars\\06. Oscars.csproj",
         "projectName": "06. Oscars",
-        "projectPath": "D:\\SoftUni\\Programming Basics with C#1\\For Loop - Exercise\\06. Oscars\\06. Oscars.csproj",
+        "projectPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\For Loop - Exercise\\06. Oscars\\06. Oscars.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\SoftUni\\Programming Basics with C#1\\For Loop - Exercise\\06. Oscars\\obj\\",
+        "outputPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\For Loop - Exercise\\06. Oscars\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

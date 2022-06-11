@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SoftUni\\lesson 5\\08.Cinema Ticket\\08.Cinema Ticket.csproj": {}
+    "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements Advanced - Lab\\08.Cinema Ticket\\08.Cinema Ticket.csproj": {}
   },
   "projects": {
-    "D:\\SoftUni\\lesson 5\\08.Cinema Ticket\\08.Cinema Ticket.csproj": {
+    "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements Advanced - Lab\\08.Cinema Ticket\\08.Cinema Ticket.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SoftUni\\lesson 5\\08.Cinema Ticket\\08.Cinema Ticket.csproj",
+        "projectUniqueName": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements Advanced - Lab\\08.Cinema Ticket\\08.Cinema Ticket.csproj",
         "projectName": "08.Cinema Ticket",
-        "projectPath": "D:\\SoftUni\\lesson 5\\08.Cinema Ticket\\08.Cinema Ticket.csproj",
+        "projectPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements Advanced - Lab\\08.Cinema Ticket\\08.Cinema Ticket.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\SoftUni\\lesson 5\\08.Cinema Ticket\\obj\\",
+        "outputPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements Advanced - Lab\\08.Cinema Ticket\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

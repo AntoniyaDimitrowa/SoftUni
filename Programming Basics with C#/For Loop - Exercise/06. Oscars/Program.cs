@@ -10,13 +10,13 @@ namespace _06._Oscars
             double pointsFromTheAcademy = double.Parse(Console.ReadLine());
             int NumberOfEvaluators = int.Parse(Console.ReadLine());
             double totalPoints = pointsFromTheAcademy;
-            for(int i = 1;i<= NumberOfEvaluators;i++)
+            for (int i = 1; i <= NumberOfEvaluators; i++)
             {
                 string evaluatorName = Console.ReadLine();
                 double pointsFromEvaluator = double.Parse(Console.ReadLine());
-                double totalPointsFromEvaluator = (evaluatorName.Length * pointsFromEvaluator)/2;
+                double totalPointsFromEvaluator = (evaluatorName.Length * pointsFromEvaluator) / 2;
                 totalPoints = totalPoints + totalPointsFromEvaluator;
-                if(totalPoints > 1250.5)
+                if (totalPoints > 1250.5)
                 {
                     Console.WriteLine($"Congratulations, {actorName} got a nominee for leading role with {totalPoints:F1}!");
                     break;
@@ -24,7 +24,7 @@ namespace _06._Oscars
             }
             if (totalPoints < 1250.5)
             {
-                Console.WriteLine($"Sorry, {actorName} you need {(1250.5-totalPoints):F1} more!");
+                Console.WriteLine($"Sorry, {actorName} you need {(1250.5 - totalPoints):F1} more!");
             }
         }
     }

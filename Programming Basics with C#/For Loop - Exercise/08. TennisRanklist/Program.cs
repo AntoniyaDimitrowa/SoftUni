@@ -6,7 +6,6 @@ namespace _08._TennisRanklist
     {
         static void Main(string[] args)
         {
-            
             int numberOfTournaments = int.Parse(Console.ReadLine());
             int pointsInTheBegining = int.Parse(Console.ReadLine());
             int totalPoints = pointsInTheBegining;
@@ -14,7 +13,7 @@ namespace _08._TennisRanklist
             for (int i = 1; i <= numberOfTournaments; i++)
             {
                 string tournamentStage = Console.ReadLine();
-                if(tournamentStage =="W")
+                if (tournamentStage == "W")
                 {
                     totalPoints = totalPoints + 2000;
                     numberOfWins++;
@@ -28,12 +27,12 @@ namespace _08._TennisRanklist
                     totalPoints = totalPoints + 720;
                 }
             }
-            double averagePoints = (totalPoints - pointsInTheBegining) / (numberOfTournaments*1.0);
+            double averagePoints = (totalPoints - pointsInTheBegining) / (numberOfTournaments * 1.0);
             double average = Math.Floor(averagePoints);
 
             Console.WriteLine($"Final points: {totalPoints}");
             Console.WriteLine($"Average points: {average}");
-            Console.WriteLine($"{((numberOfWins*1.0)/numberOfTournaments)*100:F2}%");
+            Console.WriteLine($"{((numberOfWins * 1.0) / numberOfTournaments) * 100:F2}%");
         }
     }
 }

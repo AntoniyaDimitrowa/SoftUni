@@ -8,10 +8,10 @@ namespace _05._Salary
         {
             int countOfOpenedWebtabs = int.Parse(Console.ReadLine());
             int salary = int.Parse(Console.ReadLine());
-            for(int i = 1;i<= countOfOpenedWebtabs;i++)
+            for (int i = 1; i <= countOfOpenedWebtabs; i++)
             {
                 string websiteName = Console.ReadLine();
-                if (websiteName== "Facebook")
+                if (websiteName == "Facebook")
                 {
                     salary = salary - 150;
                 }
@@ -23,7 +23,7 @@ namespace _05._Salary
                 {
                     salary = salary - 50;
                 }
-                if(salary <= 0)
+                if (salary <= 0)
                 {
                     Console.WriteLine("You have lost your salary.");
                     break;

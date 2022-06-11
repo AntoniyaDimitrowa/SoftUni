@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SoftUni\\Programming Basics with C#1\\While Loop - Lab\\P06. MaxNumber\\P06. MaxNumber.csproj": {}
+    "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\While Loop - Lab\\P06. MaxNumber\\P06. MaxNumber.csproj": {}
   },
   "projects": {
-    "D:\\SoftUni\\Programming Basics with C#1\\While Loop - Lab\\P06. MaxNumber\\P06. MaxNumber.csproj": {
+    "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\While Loop - Lab\\P06. MaxNumber\\P06. MaxNumber.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SoftUni\\Programming Basics with C#1\\While Loop - Lab\\P06. MaxNumber\\P06. MaxNumber.csproj",
+        "projectUniqueName": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\While Loop - Lab\\P06. MaxNumber\\P06. MaxNumber.csproj",
         "projectName": "P06. MaxNumber",
-        "projectPath": "D:\\SoftUni\\Programming Basics with C#1\\While Loop - Lab\\P06. MaxNumber\\P06. MaxNumber.csproj",
+        "projectPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\While Loop - Lab\\P06. MaxNumber\\P06. MaxNumber.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\SoftUni\\Programming Basics with C#1\\While Loop - Lab\\P06. MaxNumber\\obj\\",
+        "outputPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\While Loop - Lab\\P06. MaxNumber\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

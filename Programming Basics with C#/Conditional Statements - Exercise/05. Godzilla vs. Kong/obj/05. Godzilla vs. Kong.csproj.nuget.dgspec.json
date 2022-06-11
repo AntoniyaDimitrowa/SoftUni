@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SoftUni\\lesson 4\\05. Godzilla vs. Kong\\05. Godzilla vs. Kong.csproj": {}
+    "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements - Exercise\\05. Godzilla vs. Kong\\05. Godzilla vs. Kong.csproj": {}
   },
   "projects": {
-    "D:\\SoftUni\\lesson 4\\05. Godzilla vs. Kong\\05. Godzilla vs. Kong.csproj": {
+    "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements - Exercise\\05. Godzilla vs. Kong\\05. Godzilla vs. Kong.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SoftUni\\lesson 4\\05. Godzilla vs. Kong\\05. Godzilla vs. Kong.csproj",
+        "projectUniqueName": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements - Exercise\\05. Godzilla vs. Kong\\05. Godzilla vs. Kong.csproj",
         "projectName": "05. Godzilla vs. Kong",
-        "projectPath": "D:\\SoftUni\\lesson 4\\05. Godzilla vs. Kong\\05. Godzilla vs. Kong.csproj",
+        "projectPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements - Exercise\\05. Godzilla vs. Kong\\05. Godzilla vs. Kong.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\SoftUni\\lesson 4\\05. Godzilla vs. Kong\\obj\\",
+        "outputPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements - Exercise\\05. Godzilla vs. Kong\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

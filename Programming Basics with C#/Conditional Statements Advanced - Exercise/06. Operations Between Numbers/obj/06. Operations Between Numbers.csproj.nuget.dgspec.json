@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SoftUni\\lesson 6\\06. Operations Between Numbers\\06. Operations Between Numbers.csproj": {}
+    "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements Advanced - Exercise\\06. Operations Between Numbers\\06. Operations Between Numbers.csproj": {}
   },
   "projects": {
-    "D:\\SoftUni\\lesson 6\\06. Operations Between Numbers\\06. Operations Between Numbers.csproj": {
+    "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements Advanced - Exercise\\06. Operations Between Numbers\\06. Operations Between Numbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SoftUni\\lesson 6\\06. Operations Between Numbers\\06. Operations Between Numbers.csproj",
+        "projectUniqueName": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements Advanced - Exercise\\06. Operations Between Numbers\\06. Operations Between Numbers.csproj",
         "projectName": "06. Operations Between Numbers",
-        "projectPath": "D:\\SoftUni\\lesson 6\\06. Operations Between Numbers\\06. Operations Between Numbers.csproj",
+        "projectPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements Advanced - Exercise\\06. Operations Between Numbers\\06. Operations Between Numbers.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\SoftUni\\lesson 6\\06. Operations Between Numbers\\obj\\",
+        "outputPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements Advanced - Exercise\\06. Operations Between Numbers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

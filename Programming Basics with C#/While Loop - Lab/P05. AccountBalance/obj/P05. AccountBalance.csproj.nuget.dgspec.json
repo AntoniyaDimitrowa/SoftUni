@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SoftUni\\Programming Basics with C#1\\While Loop - Lab\\P05. AccountBalance\\P05. AccountBalance.csproj": {}
+    "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\While Loop - Lab\\P05. AccountBalance\\P05. AccountBalance.csproj": {}
   },
   "projects": {
-    "D:\\SoftUni\\Programming Basics with C#1\\While Loop - Lab\\P05. AccountBalance\\P05. AccountBalance.csproj": {
+    "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\While Loop - Lab\\P05. AccountBalance\\P05. AccountBalance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SoftUni\\Programming Basics with C#1\\While Loop - Lab\\P05. AccountBalance\\P05. AccountBalance.csproj",
+        "projectUniqueName": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\While Loop - Lab\\P05. AccountBalance\\P05. AccountBalance.csproj",
         "projectName": "P05. AccountBalance",
-        "projectPath": "D:\\SoftUni\\Programming Basics with C#1\\While Loop - Lab\\P05. AccountBalance\\P05. AccountBalance.csproj",
+        "projectPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\While Loop - Lab\\P05. AccountBalance\\P05. AccountBalance.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\SoftUni\\Programming Basics with C#1\\While Loop - Lab\\P05. AccountBalance\\obj\\",
+        "outputPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\While Loop - Lab\\P05. AccountBalance\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

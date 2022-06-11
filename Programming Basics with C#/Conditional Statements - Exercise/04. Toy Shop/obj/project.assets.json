@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SoftUni\\lesson 4\\04. Toy Shop\\04. Toy Shop.csproj",
+      "projectUniqueName": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements - Exercise\\04. Toy Shop\\04. Toy Shop.csproj",
       "projectName": "04. Toy Shop",
-      "projectPath": "D:\\SoftUni\\lesson 4\\04. Toy Shop\\04. Toy Shop.csproj",
+      "projectPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements - Exercise\\04. Toy Shop\\04. Toy Shop.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni\\lesson 4\\04. Toy Shop\\obj\\",
+      "outputPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements - Exercise\\04. Toy Shop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

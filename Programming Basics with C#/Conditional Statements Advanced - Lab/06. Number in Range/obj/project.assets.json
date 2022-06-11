@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SoftUni\\lesson 5\\06. Number in Range\\06. Number in Range.csproj",
+      "projectUniqueName": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements Advanced - Lab\\06. Number in Range\\06. Number in Range.csproj",
       "projectName": "06. Number in Range",
-      "projectPath": "D:\\SoftUni\\lesson 5\\06. Number in Range\\06. Number in Range.csproj",
+      "projectPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements Advanced - Lab\\06. Number in Range\\06. Number in Range.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni\\lesson 5\\06. Number in Range\\obj\\",
+      "outputPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements Advanced - Lab\\06. Number in Range\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

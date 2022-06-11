@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SoftUni\\lesson 3\\03. Even or Odd\\03. Even or Odd.csproj": {}
+    "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements - Lab\\03. Even or Odd\\03. Even or Odd.csproj": {}
   },
   "projects": {
-    "D:\\SoftUni\\lesson 3\\03. Even or Odd\\03. Even or Odd.csproj": {
+    "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements - Lab\\03. Even or Odd\\03. Even or Odd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SoftUni\\lesson 3\\03. Even or Odd\\03. Even or Odd.csproj",
+        "projectUniqueName": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements - Lab\\03. Even or Odd\\03. Even or Odd.csproj",
         "projectName": "03. Even or Odd",
-        "projectPath": "D:\\SoftUni\\lesson 3\\03. Even or Odd\\03. Even or Odd.csproj",
+        "projectPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements - Lab\\03. Even or Odd\\03. Even or Odd.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\SoftUni\\lesson 3\\03. Even or Odd\\obj\\",
+        "outputPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements - Lab\\03. Even or Odd\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

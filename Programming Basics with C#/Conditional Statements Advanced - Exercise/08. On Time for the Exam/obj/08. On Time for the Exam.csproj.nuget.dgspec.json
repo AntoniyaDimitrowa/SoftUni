@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SoftUni\\lesson 6\\08. On Time for the Exam\\08. On Time for the Exam.csproj": {}
+    "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements Advanced - Exercise\\08. On Time for the Exam\\08. On Time for the Exam.csproj": {}
   },
   "projects": {
-    "D:\\SoftUni\\lesson 6\\08. On Time for the Exam\\08. On Time for the Exam.csproj": {
+    "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements Advanced - Exercise\\08. On Time for the Exam\\08. On Time for the Exam.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SoftUni\\lesson 6\\08. On Time for the Exam\\08. On Time for the Exam.csproj",
+        "projectUniqueName": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements Advanced - Exercise\\08. On Time for the Exam\\08. On Time for the Exam.csproj",
         "projectName": "08. On Time for the Exam",
-        "projectPath": "D:\\SoftUni\\lesson 6\\08. On Time for the Exam\\08. On Time for the Exam.csproj",
+        "projectPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements Advanced - Exercise\\08. On Time for the Exam\\08. On Time for the Exam.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\SoftUni\\lesson 6\\08. On Time for the Exam\\obj\\",
+        "outputPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements Advanced - Exercise\\08. On Time for the Exam\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

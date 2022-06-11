@@ -12,7 +12,7 @@ namespace _08._NumberSequence
             for (int i = 1; i <= n; i++)
             {
                 int num = int.Parse(Console.ReadLine());
-                if(num < min)
+                if (num < min)
                 {
                     min = num;
                 }

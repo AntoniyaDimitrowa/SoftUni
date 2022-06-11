@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SoftUni\\lesson 2\\Repainting\\Repainting.csproj",
+      "projectUniqueName": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\First Steps In Coding - Exercise\\Repainting\\Repainting.csproj",
       "projectName": "Repainting",
-      "projectPath": "D:\\SoftUni\\lesson 2\\Repainting\\Repainting.csproj",
+      "projectPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\First Steps In Coding - Exercise\\Repainting\\Repainting.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni\\lesson 2\\Repainting\\obj\\",
+      "outputPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\First Steps In Coding - Exercise\\Repainting\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

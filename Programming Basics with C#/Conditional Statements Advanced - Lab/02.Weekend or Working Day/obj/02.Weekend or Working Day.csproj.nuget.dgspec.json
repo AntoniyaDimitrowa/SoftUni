@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SoftUni\\lesson 5\\02.Weekend or Working Day\\02.Weekend or Working Day.csproj": {}
+    "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements Advanced - Lab\\02.Weekend or Working Day\\02.Weekend or Working Day.csproj": {}
   },
   "projects": {
-    "D:\\SoftUni\\lesson 5\\02.Weekend or Working Day\\02.Weekend or Working Day.csproj": {
+    "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements Advanced - Lab\\02.Weekend or Working Day\\02.Weekend or Working Day.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SoftUni\\lesson 5\\02.Weekend or Working Day\\02.Weekend or Working Day.csproj",
+        "projectUniqueName": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements Advanced - Lab\\02.Weekend or Working Day\\02.Weekend or Working Day.csproj",
         "projectName": "02.Weekend or Working Day",
-        "projectPath": "D:\\SoftUni\\lesson 5\\02.Weekend or Working Day\\02.Weekend or Working Day.csproj",
+        "projectPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements Advanced - Lab\\02.Weekend or Working Day\\02.Weekend or Working Day.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\SoftUni\\lesson 5\\02.Weekend or Working Day\\obj\\",
+        "outputPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements Advanced - Lab\\02.Weekend or Working Day\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

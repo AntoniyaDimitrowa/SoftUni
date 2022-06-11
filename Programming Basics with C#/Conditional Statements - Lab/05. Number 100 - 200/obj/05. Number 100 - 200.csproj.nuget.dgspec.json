@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SoftUni\\lesson 3\\05. Number 100 - 200\\05. Number 100 - 200.csproj": {}
+    "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements - Lab\\05. Number 100 - 200\\05. Number 100 - 200.csproj": {}
   },
   "projects": {
-    "D:\\SoftUni\\lesson 3\\05. Number 100 - 200\\05. Number 100 - 200.csproj": {
+    "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements - Lab\\05. Number 100 - 200\\05. Number 100 - 200.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SoftUni\\lesson 3\\05. Number 100 - 200\\05. Number 100 - 200.csproj",
+        "projectUniqueName": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements - Lab\\05. Number 100 - 200\\05. Number 100 - 200.csproj",
         "projectName": "05. Number 100 - 200",
-        "projectPath": "D:\\SoftUni\\lesson 3\\05. Number 100 - 200\\05. Number 100 - 200.csproj",
+        "projectPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements - Lab\\05. Number 100 - 200\\05. Number 100 - 200.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\SoftUni\\lesson 3\\05. Number 100 - 200\\obj\\",
+        "outputPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements - Lab\\05. Number 100 - 200\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

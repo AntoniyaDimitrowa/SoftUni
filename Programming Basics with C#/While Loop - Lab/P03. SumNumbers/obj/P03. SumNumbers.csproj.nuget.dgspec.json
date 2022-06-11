@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SoftUni\\Programming Basics with C#1\\While Loop - Lab\\P03. SumNumbers\\P03. SumNumbers.csproj": {}
+    "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\While Loop - Lab\\P03. SumNumbers\\P03. SumNumbers.csproj": {}
   },
   "projects": {
-    "D:\\SoftUni\\Programming Basics with C#1\\While Loop - Lab\\P03. SumNumbers\\P03. SumNumbers.csproj": {
+    "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\While Loop - Lab\\P03. SumNumbers\\P03. SumNumbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SoftUni\\Programming Basics with C#1\\While Loop - Lab\\P03. SumNumbers\\P03. SumNumbers.csproj",
+        "projectUniqueName": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\While Loop - Lab\\P03. SumNumbers\\P03. SumNumbers.csproj",
         "projectName": "P03. SumNumbers",
-        "projectPath": "D:\\SoftUni\\Programming Basics with C#1\\While Loop - Lab\\P03. SumNumbers\\P03. SumNumbers.csproj",
+        "projectPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\While Loop - Lab\\P03. SumNumbers\\P03. SumNumbers.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\SoftUni\\Programming Basics with C#1\\While Loop - Lab\\P03. SumNumbers\\obj\\",
+        "outputPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\While Loop - Lab\\P03. SumNumbers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

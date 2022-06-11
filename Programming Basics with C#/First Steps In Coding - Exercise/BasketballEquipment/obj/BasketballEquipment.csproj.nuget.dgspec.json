@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SoftUni\\lesson 2\\BasketballEquipment\\BasketballEquipment.csproj": {}
+    "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\First Steps In Coding - Exercise\\BasketballEquipment\\BasketballEquipment.csproj": {}
   },
   "projects": {
-    "D:\\SoftUni\\lesson 2\\BasketballEquipment\\BasketballEquipment.csproj": {
+    "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\First Steps In Coding - Exercise\\BasketballEquipment\\BasketballEquipment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SoftUni\\lesson 2\\BasketballEquipment\\BasketballEquipment.csproj",
+        "projectUniqueName": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\First Steps In Coding - Exercise\\BasketballEquipment\\BasketballEquipment.csproj",
         "projectName": "BasketballEquipment",
-        "projectPath": "D:\\SoftUni\\lesson 2\\BasketballEquipment\\BasketballEquipment.csproj",
+        "projectPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\First Steps In Coding - Exercise\\BasketballEquipment\\BasketballEquipment.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\SoftUni\\lesson 2\\BasketballEquipment\\obj\\",
+        "outputPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\First Steps In Coding - Exercise\\BasketballEquipment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

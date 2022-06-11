@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SoftUni\\lesson 4\\02. Bonus Score\\02. Bonus Score.csproj": {}
+    "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements - Exercise\\02. Bonus Score\\02. Bonus Score.csproj": {}
   },
   "projects": {
-    "D:\\SoftUni\\lesson 4\\02. Bonus Score\\02. Bonus Score.csproj": {
+    "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements - Exercise\\02. Bonus Score\\02. Bonus Score.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SoftUni\\lesson 4\\02. Bonus Score\\02. Bonus Score.csproj",
+        "projectUniqueName": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements - Exercise\\02. Bonus Score\\02. Bonus Score.csproj",
         "projectName": "02. Bonus Score",
-        "projectPath": "D:\\SoftUni\\lesson 4\\02. Bonus Score\\02. Bonus Score.csproj",
+        "projectPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements - Exercise\\02. Bonus Score\\02. Bonus Score.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\SoftUni\\lesson 4\\02. Bonus Score\\obj\\",
+        "outputPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements - Exercise\\02. Bonus Score\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

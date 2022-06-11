@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SoftUni\\lesson 6\\04. Fishing Boat\\04. Fishing Boat.csproj",
+      "projectUniqueName": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements Advanced - Exercise\\04. Fishing Boat\\04. Fishing Boat.csproj",
       "projectName": "04. Fishing Boat",
-      "projectPath": "D:\\SoftUni\\lesson 6\\04. Fishing Boat\\04. Fishing Boat.csproj",
+      "projectPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements Advanced - Exercise\\04. Fishing Boat\\04. Fishing Boat.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni\\lesson 6\\04. Fishing Boat\\obj\\",
+      "outputPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements Advanced - Exercise\\04. Fishing Boat\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

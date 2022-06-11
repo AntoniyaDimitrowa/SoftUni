@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SoftUni\\lesson 2\\FoodDelivery\\FoodDelivery.csproj": {}
+    "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\First Steps In Coding - Exercise\\FoodDelivery\\FoodDelivery.csproj": {}
   },
   "projects": {
-    "D:\\SoftUni\\lesson 2\\FoodDelivery\\FoodDelivery.csproj": {
+    "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\First Steps In Coding - Exercise\\FoodDelivery\\FoodDelivery.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SoftUni\\lesson 2\\FoodDelivery\\FoodDelivery.csproj",
+        "projectUniqueName": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\First Steps In Coding - Exercise\\FoodDelivery\\FoodDelivery.csproj",
         "projectName": "FoodDelivery",
-        "projectPath": "D:\\SoftUni\\lesson 2\\FoodDelivery\\FoodDelivery.csproj",
+        "projectPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\First Steps In Coding - Exercise\\FoodDelivery\\FoodDelivery.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\SoftUni\\lesson 2\\FoodDelivery\\obj\\",
+        "outputPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\First Steps In Coding - Exercise\\FoodDelivery\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SoftUni\\Programming Basics with C#1\\For Loop - Lab\\05. CharacterSequence\\05. CharacterSequence.csproj",
+      "projectUniqueName": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\For Loop - Lab\\05. CharacterSequence\\05. CharacterSequence.csproj",
       "projectName": "05. CharacterSequence",
-      "projectPath": "D:\\SoftUni\\Programming Basics with C#1\\For Loop - Lab\\05. CharacterSequence\\05. CharacterSequence.csproj",
+      "projectPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\For Loop - Lab\\05. CharacterSequence\\05. CharacterSequence.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni\\Programming Basics with C#1\\For Loop - Lab\\05. CharacterSequence\\obj\\",
+      "outputPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\For Loop - Lab\\05. CharacterSequence\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

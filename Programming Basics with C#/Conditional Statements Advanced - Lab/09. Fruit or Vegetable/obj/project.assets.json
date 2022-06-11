@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SoftUni\\lesson 5\\09. Fruit or Vegetable\\09. Fruit or Vegetable.csproj",
+      "projectUniqueName": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements Advanced - Lab\\09. Fruit or Vegetable\\09. Fruit or Vegetable.csproj",
       "projectName": "09. Fruit or Vegetable",
-      "projectPath": "D:\\SoftUni\\lesson 5\\09. Fruit or Vegetable\\09. Fruit or Vegetable.csproj",
+      "projectPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements Advanced - Lab\\09. Fruit or Vegetable\\09. Fruit or Vegetable.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni\\lesson 5\\09. Fruit or Vegetable\\obj\\",
+      "outputPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements Advanced - Lab\\09. Fruit or Vegetable\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SoftUni\\Programming Basics with C#1\\For Loop - Lab\\02. Numbers from N to 1\\02.NumbersNTo1.csproj",
+      "projectUniqueName": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\For Loop - Lab\\02. Numbers from N to 1\\02.NumbersNTo1.csproj",
       "projectName": "02.NumbersNTo1",
-      "projectPath": "D:\\SoftUni\\Programming Basics with C#1\\For Loop - Lab\\02. Numbers from N to 1\\02.NumbersNTo1.csproj",
+      "projectPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\For Loop - Lab\\02. Numbers from N to 1\\02.NumbersNTo1.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni\\Programming Basics with C#1\\For Loop - Lab\\02. Numbers from N to 1\\obj\\",
+      "outputPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\For Loop - Lab\\02. Numbers from N to 1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

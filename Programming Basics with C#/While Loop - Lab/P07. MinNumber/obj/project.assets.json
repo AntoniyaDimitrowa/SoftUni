@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SoftUni\\Programming Basics with C#1\\While Loop - Lab\\P07. MinNumber\\P07. MinNumber.csproj",
+      "projectUniqueName": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\While Loop - Lab\\P07. MinNumber\\P07. MinNumber.csproj",
       "projectName": "P07. MinNumber",
-      "projectPath": "D:\\SoftUni\\Programming Basics with C#1\\While Loop - Lab\\P07. MinNumber\\P07. MinNumber.csproj",
+      "projectPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\While Loop - Lab\\P07. MinNumber\\P07. MinNumber.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni\\Programming Basics with C#1\\While Loop - Lab\\P07. MinNumber\\obj\\",
+      "outputPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\While Loop - Lab\\P07. MinNumber\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

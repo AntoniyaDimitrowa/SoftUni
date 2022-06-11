@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SoftUni\\lesson 4\\08. Lunch Break\\08. Lunch Break.csproj": {}
+    "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements - Exercise\\08. Lunch Break\\08. Lunch Break.csproj": {}
   },
   "projects": {
-    "D:\\SoftUni\\lesson 4\\08. Lunch Break\\08. Lunch Break.csproj": {
+    "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements - Exercise\\08. Lunch Break\\08. Lunch Break.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SoftUni\\lesson 4\\08. Lunch Break\\08. Lunch Break.csproj",
+        "projectUniqueName": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements - Exercise\\08. Lunch Break\\08. Lunch Break.csproj",
         "projectName": "08. Lunch Break",
-        "projectPath": "D:\\SoftUni\\lesson 4\\08. Lunch Break\\08. Lunch Break.csproj",
+        "projectPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements - Exercise\\08. Lunch Break\\08. Lunch Break.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\SoftUni\\lesson 4\\08. Lunch Break\\obj\\",
+        "outputPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Conditional Statements - Exercise\\08. Lunch Break\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

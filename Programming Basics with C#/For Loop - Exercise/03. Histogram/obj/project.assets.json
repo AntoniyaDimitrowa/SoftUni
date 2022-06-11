@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SoftUni\\Programming Basics with C#1\\For Loop - Exercise\\03. Histogram\\03. Histogram.csproj",
+      "projectUniqueName": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\For Loop - Exercise\\03. Histogram\\03. Histogram.csproj",
       "projectName": "03. Histogram",
-      "projectPath": "D:\\SoftUni\\Programming Basics with C#1\\For Loop - Exercise\\03. Histogram\\03. Histogram.csproj",
+      "projectPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\For Loop - Exercise\\03. Histogram\\03. Histogram.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni\\Programming Basics with C#1\\For Loop - Exercise\\03. Histogram\\obj\\",
+      "outputPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\For Loop - Exercise\\03. Histogram\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SoftUni\\Programming Basics with C#1\\For Loop - Exercise\\08. TennisRanklist\\08. TennisRanklist.csproj",
+      "projectUniqueName": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\For Loop - Exercise\\08. TennisRanklist\\08. TennisRanklist.csproj",
       "projectName": "08. TennisRanklist",
-      "projectPath": "D:\\SoftUni\\Programming Basics with C#1\\For Loop - Exercise\\08. TennisRanklist\\08. TennisRanklist.csproj",
+      "projectPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\For Loop - Exercise\\08. TennisRanklist\\08. TennisRanklist.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni\\Programming Basics with C#1\\For Loop - Exercise\\08. TennisRanklist\\obj\\",
+      "outputPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\For Loop - Exercise\\08. TennisRanklist\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

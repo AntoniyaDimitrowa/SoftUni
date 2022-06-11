@@ -14,8 +14,8 @@ namespace _09._LeftAndRightSum
                 int num = int.Parse(Console.ReadLine());
                 sum1 = sum1 + num;
             }
-            
-            for (int i = n; i < 2*n; i++)
+
+            for (int i = n; i < 2 * n; i++)
             {
                 int num = int.Parse(Console.ReadLine());
                 sum2 = sum2 + num;
@@ -24,11 +24,11 @@ namespace _09._LeftAndRightSum
             //Console.WriteLine(sum1);
             //Console.WriteLine(sum2);
 
-            if(sum1==sum2)
+            if (sum1 == sum2)
             {
                 Console.WriteLine($"Yes, sum = {sum1}");
             }
-            else if(sum2>sum1)
+            else if (sum2 > sum1)
             {
                 Console.WriteLine($"No, diff = {sum2 - sum1}");
             }

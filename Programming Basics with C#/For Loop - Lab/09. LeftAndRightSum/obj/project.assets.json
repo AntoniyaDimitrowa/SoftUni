@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SoftUni\\Programming Basics with C#1\\For Loop - Lab\\09. LeftAndRightSum\\09. LeftAndRightSum.csproj",
+      "projectUniqueName": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\For Loop - Lab\\09. LeftAndRightSum\\09. LeftAndRightSum.csproj",
       "projectName": "09. LeftAndRightSum",
-      "projectPath": "D:\\SoftUni\\Programming Basics with C#1\\For Loop - Lab\\09. LeftAndRightSum\\09. LeftAndRightSum.csproj",
+      "projectPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\For Loop - Lab\\09. LeftAndRightSum\\09. LeftAndRightSum.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni\\Programming Basics with C#1\\For Loop - Lab\\09. LeftAndRightSum\\obj\\",
+      "outputPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\For Loop - Lab\\09. LeftAndRightSum\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

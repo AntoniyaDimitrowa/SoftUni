@@ -14,9 +14,9 @@ namespace _04._CleverLily
 
             for (int i = 1; i <= age; i++)
             {
-                if(i%2==0)
+                if (i % 2 == 0)
                 {
-                    birthdayMoney = birthdayMoney + (i * 5)-1;
+                    birthdayMoney = birthdayMoney + (i * 5) - 1;
                 }
                 else
                 {
@@ -26,7 +26,7 @@ namespace _04._CleverLily
 
             double totalMoney = birthdayMoney + (toys * toyPrice);
 
-            if(totalMoney >= laundryPrice)
+            if (totalMoney >= laundryPrice)
             {
                 Console.WriteLine($"Yes! {(totalMoney - laundryPrice):F2}");
             }
@@ -34,7 +34,6 @@ namespace _04._CleverLily
             {
                 Console.WriteLine($"No! {(laundryPrice - totalMoney):F2}");
             }
-
         }
     }
 }

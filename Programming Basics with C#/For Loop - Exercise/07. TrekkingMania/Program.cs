@@ -17,11 +17,11 @@ namespace _07._TrekkingMania
             {
                 int numberOfGroupMembers = int.Parse(Console.ReadLine());
                 numberOfAllPeople = numberOfAllPeople + numberOfGroupMembers;
-                if(numberOfGroupMembers <= 5)
+                if (numberOfGroupMembers <= 5)
                 {
                     numberOfPeopleMusala = numberOfPeopleMusala + numberOfGroupMembers;
                 }
-                if (numberOfGroupMembers>5 && numberOfGroupMembers <= 12)
+                if (numberOfGroupMembers > 5 && numberOfGroupMembers <= 12)
                 {
                     numberOfPeopleMonblan = numberOfPeopleMonblan + numberOfGroupMembers;
                 }

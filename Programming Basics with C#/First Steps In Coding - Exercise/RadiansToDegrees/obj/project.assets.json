@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SoftUni\\lesson 2\\RadiansToDegrees\\RadiansToDegrees.csproj",
+      "projectUniqueName": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\First Steps In Coding - Exercise\\RadiansToDegrees\\RadiansToDegrees.csproj",
       "projectName": "RadiansToDegrees",
-      "projectPath": "D:\\SoftUni\\lesson 2\\RadiansToDegrees\\RadiansToDegrees.csproj",
+      "projectPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\First Steps In Coding - Exercise\\RadiansToDegrees\\RadiansToDegrees.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni\\lesson 2\\RadiansToDegrees\\obj\\",
+      "outputPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\First Steps In Coding - Exercise\\RadiansToDegrees\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -10,13 +10,13 @@ namespace _06._VowelsSum
             int sum = 0;
             for (int i = 0; i < text.Length; i++)
             {
-                if(text[i] =='a')
+                if (text[i] == 'a')
                 {
                     sum++;
                 }
                 if (text[i] == 'e')
                 {
-                    sum = sum +2;
+                    sum = sum + 2;
                 }
                 if (text[i] == 'i')
                 {

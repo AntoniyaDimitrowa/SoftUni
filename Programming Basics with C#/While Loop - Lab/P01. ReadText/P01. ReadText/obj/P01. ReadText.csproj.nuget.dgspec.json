@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SoftUni\\Programming Basics with C#1\\While Loop - Lab\\P01. ReadText\\P01. ReadText\\P01. ReadText.csproj": {}
+    "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\While Loop - Lab\\P01. ReadText\\P01. ReadText\\P01. ReadText.csproj": {}
   },
   "projects": {
-    "D:\\SoftUni\\Programming Basics with C#1\\While Loop - Lab\\P01. ReadText\\P01. ReadText\\P01. ReadText.csproj": {
+    "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\While Loop - Lab\\P01. ReadText\\P01. ReadText\\P01. ReadText.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SoftUni\\Programming Basics with C#1\\While Loop - Lab\\P01. ReadText\\P01. ReadText\\P01. ReadText.csproj",
+        "projectUniqueName": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\While Loop - Lab\\P01. ReadText\\P01. ReadText\\P01. ReadText.csproj",
         "projectName": "P01. ReadText",
-        "projectPath": "D:\\SoftUni\\Programming Basics with C#1\\While Loop - Lab\\P01. ReadText\\P01. ReadText\\P01. ReadText.csproj",
+        "projectPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\While Loop - Lab\\P01. ReadText\\P01. ReadText\\P01. ReadText.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\SoftUni\\Programming Basics with C#1\\While Loop - Lab\\P01. ReadText\\P01. ReadText\\obj\\",
+        "outputPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\While Loop - Lab\\P01. ReadText\\P01. ReadText\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SoftUni\\lesson 2\\VacationBooksList\\VacationBooksList.csproj",
+      "projectUniqueName": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\First Steps In Coding - Exercise\\VacationBooksList\\VacationBooksList.csproj",
       "projectName": "VacationBooksList",
-      "projectPath": "D:\\SoftUni\\lesson 2\\VacationBooksList\\VacationBooksList.csproj",
+      "projectPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\First Steps In Coding - Exercise\\VacationBooksList\\VacationBooksList.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni\\lesson 2\\VacationBooksList\\obj\\",
+      "outputPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\First Steps In Coding - Exercise\\VacationBooksList\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

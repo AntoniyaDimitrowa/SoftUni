@@ -12,10 +12,8 @@ namespace BasketballEquipment
             double priceOfBasketballBall = 0.25 * priceOfBasketballOutfit;
             double priceOfBasketballAccessories = 0.2 * priceOfBasketballBall;
 
-            double wholePrice = priceOfBasketballAccessories + priceOfBasketballTraining + priceOfBasketBallSneakers +priceOfBasketballBall + priceOfBasketballOutfit;
+            double wholePrice = priceOfBasketballAccessories + priceOfBasketballTraining + priceOfBasketBallSneakers + priceOfBasketballBall + priceOfBasketballOutfit;
             Console.WriteLine(wholePrice);
-
-
         }
     }
 }

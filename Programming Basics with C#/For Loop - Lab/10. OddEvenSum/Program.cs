@@ -12,7 +12,7 @@ namespace _10._OddEvenSum
             for (int i = 1; i <= n; i++)
             {
                 int num = int.Parse(Console.ReadLine());
-                if(i%2==0)
+                if (i % 2 == 0)
                 {
                     sumEven = sumEven + num;
                 }
@@ -21,15 +21,15 @@ namespace _10._OddEvenSum
                     sumOdd = sumOdd + num;
                 }
             }
-            if(sumOdd == sumEven)
+            if (sumOdd == sumEven)
             {
                 Console.WriteLine("Yes");
                 Console.WriteLine($"Sum = {sumOdd}");
             }
-            else if(sumOdd > sumEven)
+            else if (sumOdd > sumEven)
             {
                 Console.WriteLine("No");
-                Console.WriteLine($"Diff = {sumOdd-sumEven}");
+                Console.WriteLine($"Diff = {sumOdd - sumEven}");
             }
             else
             {

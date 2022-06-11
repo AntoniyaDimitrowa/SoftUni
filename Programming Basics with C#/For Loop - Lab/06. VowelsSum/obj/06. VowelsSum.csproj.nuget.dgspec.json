@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SoftUni\\Programming Basics with C#1\\For Loop - Lab\\06. VowelsSum\\06. VowelsSum.csproj": {}
+    "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\For Loop - Lab\\06. VowelsSum\\06. VowelsSum.csproj": {}
   },
   "projects": {
-    "D:\\SoftUni\\Programming Basics with C#1\\For Loop - Lab\\06. VowelsSum\\06. VowelsSum.csproj": {
+    "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\For Loop - Lab\\06. VowelsSum\\06. VowelsSum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SoftUni\\Programming Basics with C#1\\For Loop - Lab\\06. VowelsSum\\06. VowelsSum.csproj",
+        "projectUniqueName": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\For Loop - Lab\\06. VowelsSum\\06. VowelsSum.csproj",
         "projectName": "06. VowelsSum",
-        "projectPath": "D:\\SoftUni\\Programming Basics with C#1\\For Loop - Lab\\06. VowelsSum\\06. VowelsSum.csproj",
+        "projectPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\For Loop - Lab\\06. VowelsSum\\06. VowelsSum.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\SoftUni\\Programming Basics with C#1\\For Loop - Lab\\06. VowelsSum\\obj\\",
+        "outputPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\For Loop - Lab\\06. VowelsSum\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
