@@ -11,7 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P03. Vacation", "..\P03. Va
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P04. Walking", "..\P04. Walking\P04. Walking.csproj", "{244675BB-8950-4387-BC3C-D6101FA6B412}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P05. Coins", "..\P05. Coins\P05. Coins.csproj", "{08FC9D62-6FB9-4828-8DCC-300D4BBD6C36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P05. Coins", "..\P05. Coins\P05. Coins.csproj", "{08FC9D62-6FB9-4828-8DCC-300D4BBD6C36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P06. Cake", "..\P06. Cake\P06. Cake.csproj", "{1A951BB0-423D-4901-A19E-BFB9800F4DAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P07. Moving", "..\P07. Moving\P07. Moving.csproj", "{7D263CBF-4A72-4CEC-A2A0-E0C3F30415C0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{08FC9D62-6FB9-4828-8DCC-300D4BBD6C36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08FC9D62-6FB9-4828-8DCC-300D4BBD6C36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08FC9D62-6FB9-4828-8DCC-300D4BBD6C36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A951BB0-423D-4901-A19E-BFB9800F4DAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A951BB0-423D-4901-A19E-BFB9800F4DAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A951BB0-423D-4901-A19E-BFB9800F4DAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A951BB0-423D-4901-A19E-BFB9800F4DAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D263CBF-4A72-4CEC-A2A0-E0C3F30415C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D263CBF-4A72-4CEC-A2A0-E0C3F30415C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D263CBF-4A72-4CEC-A2A0-E0C3F30415C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D263CBF-4A72-4CEC-A2A0-E0C3F30415C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

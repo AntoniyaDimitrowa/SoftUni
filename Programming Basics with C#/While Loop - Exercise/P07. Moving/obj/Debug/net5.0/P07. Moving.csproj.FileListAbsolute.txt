@@ -1,0 +1,16 @@
+D:\SoftUni\SoftUni\Programming Basics with C#\While Loop - Exercise\P07. Moving\bin\Debug\net5.0\P07. Moving.exe
+D:\SoftUni\SoftUni\Programming Basics with C#\While Loop - Exercise\P07. Moving\bin\Debug\net5.0\P07. Moving.deps.json
+D:\SoftUni\SoftUni\Programming Basics with C#\While Loop - Exercise\P07. Moving\bin\Debug\net5.0\P07. Moving.runtimeconfig.json
+D:\SoftUni\SoftUni\Programming Basics with C#\While Loop - Exercise\P07. Moving\bin\Debug\net5.0\P07. Moving.runtimeconfig.dev.json
+D:\SoftUni\SoftUni\Programming Basics with C#\While Loop - Exercise\P07. Moving\bin\Debug\net5.0\P07. Moving.dll
+D:\SoftUni\SoftUni\Programming Basics with C#\While Loop - Exercise\P07. Moving\bin\Debug\net5.0\P07. Moving.pdb
+D:\SoftUni\SoftUni\Programming Basics with C#\While Loop - Exercise\P07. Moving\obj\Debug\net5.0\P07. Moving.csproj.AssemblyReference.cache
+D:\SoftUni\SoftUni\Programming Basics with C#\While Loop - Exercise\P07. Moving\obj\Debug\net5.0\P07. Moving.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\SoftUni\Programming Basics with C#\While Loop - Exercise\P07. Moving\obj\Debug\net5.0\P07. Moving.AssemblyInfoInputs.cache
+D:\SoftUni\SoftUni\Programming Basics with C#\While Loop - Exercise\P07. Moving\obj\Debug\net5.0\P07. Moving.AssemblyInfo.cs
+D:\SoftUni\SoftUni\Programming Basics with C#\While Loop - Exercise\P07. Moving\obj\Debug\net5.0\P07. Moving.csproj.CoreCompileInputs.cache
+D:\SoftUni\SoftUni\Programming Basics with C#\While Loop - Exercise\P07. Moving\obj\Debug\net5.0\P07. Moving.dll
+D:\SoftUni\SoftUni\Programming Basics with C#\While Loop - Exercise\P07. Moving\obj\Debug\net5.0\refint\P07. Moving.dll
+D:\SoftUni\SoftUni\Programming Basics with C#\While Loop - Exercise\P07. Moving\obj\Debug\net5.0\P07. Moving.pdb
+D:\SoftUni\SoftUni\Programming Basics with C#\While Loop - Exercise\P07. Moving\obj\Debug\net5.0\P07. Moving.genruntimeconfig.cache
+D:\SoftUni\SoftUni\Programming Basics with C#\While Loop - Exercise\P07. Moving\obj\Debug\net5.0\ref\P07. Moving.dll
