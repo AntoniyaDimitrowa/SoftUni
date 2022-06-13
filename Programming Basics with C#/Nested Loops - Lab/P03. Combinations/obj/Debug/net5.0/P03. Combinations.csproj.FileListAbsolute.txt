@@ -1,0 +1,16 @@
+D:\SoftUni\Programming Basics with C#1\Nested Loops - Lab\P03. Combinations\bin\Debug\net5.0\P03. Combinations.exe
+D:\SoftUni\Programming Basics with C#1\Nested Loops - Lab\P03. Combinations\bin\Debug\net5.0\P03. Combinations.deps.json
+D:\SoftUni\Programming Basics with C#1\Nested Loops - Lab\P03. Combinations\bin\Debug\net5.0\P03. Combinations.runtimeconfig.json
+D:\SoftUni\Programming Basics with C#1\Nested Loops - Lab\P03. Combinations\bin\Debug\net5.0\P03. Combinations.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics with C#1\Nested Loops - Lab\P03. Combinations\bin\Debug\net5.0\P03. Combinations.dll
+D:\SoftUni\Programming Basics with C#1\Nested Loops - Lab\P03. Combinations\bin\Debug\net5.0\P03. Combinations.pdb
+D:\SoftUni\Programming Basics with C#1\Nested Loops - Lab\P03. Combinations\obj\Debug\net5.0\P03. Combinations.csproj.AssemblyReference.cache
+D:\SoftUni\Programming Basics with C#1\Nested Loops - Lab\P03. Combinations\obj\Debug\net5.0\P03. Combinations.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Basics with C#1\Nested Loops - Lab\P03. Combinations\obj\Debug\net5.0\P03. Combinations.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics with C#1\Nested Loops - Lab\P03. Combinations\obj\Debug\net5.0\P03. Combinations.AssemblyInfo.cs
+D:\SoftUni\Programming Basics with C#1\Nested Loops - Lab\P03. Combinations\obj\Debug\net5.0\P03. Combinations.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics with C#1\Nested Loops - Lab\P03. Combinations\obj\Debug\net5.0\P03. Combinations.dll
+D:\SoftUni\Programming Basics with C#1\Nested Loops - Lab\P03. Combinations\obj\Debug\net5.0\refint\P03. Combinations.dll
+D:\SoftUni\Programming Basics with C#1\Nested Loops - Lab\P03. Combinations\obj\Debug\net5.0\P03. Combinations.pdb
+D:\SoftUni\Programming Basics with C#1\Nested Loops - Lab\P03. Combinations\obj\Debug\net5.0\P03. Combinations.genruntimeconfig.cache
+D:\SoftUni\Programming Basics with C#1\Nested Loops - Lab\P03. Combinations\obj\Debug\net5.0\ref\P03. Combinations.dll

@@ -1,0 +1,16 @@
+D:\SoftUni\Programming Basics with C#1\Nested Loops - Lab\P01. Clock\P01. Clock\bin\Debug\net5.0\P01. Clock.exe
+D:\SoftUni\Programming Basics with C#1\Nested Loops - Lab\P01. Clock\P01. Clock\bin\Debug\net5.0\P01. Clock.deps.json
+D:\SoftUni\Programming Basics with C#1\Nested Loops - Lab\P01. Clock\P01. Clock\bin\Debug\net5.0\P01. Clock.runtimeconfig.json
+D:\SoftUni\Programming Basics with C#1\Nested Loops - Lab\P01. Clock\P01. Clock\bin\Debug\net5.0\P01. Clock.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics with C#1\Nested Loops - Lab\P01. Clock\P01. Clock\bin\Debug\net5.0\P01. Clock.dll
+D:\SoftUni\Programming Basics with C#1\Nested Loops - Lab\P01. Clock\P01. Clock\bin\Debug\net5.0\P01. Clock.pdb
+D:\SoftUni\Programming Basics with C#1\Nested Loops - Lab\P01. Clock\P01. Clock\obj\Debug\net5.0\P01. Clock.csproj.AssemblyReference.cache
+D:\SoftUni\Programming Basics with C#1\Nested Loops - Lab\P01. Clock\P01. Clock\obj\Debug\net5.0\P01. Clock.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Basics with C#1\Nested Loops - Lab\P01. Clock\P01. Clock\obj\Debug\net5.0\P01. Clock.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics with C#1\Nested Loops - Lab\P01. Clock\P01. Clock\obj\Debug\net5.0\P01. Clock.AssemblyInfo.cs
+D:\SoftUni\Programming Basics with C#1\Nested Loops - Lab\P01. Clock\P01. Clock\obj\Debug\net5.0\P01. Clock.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics with C#1\Nested Loops - Lab\P01. Clock\P01. Clock\obj\Debug\net5.0\P01. Clock.dll
+D:\SoftUni\Programming Basics with C#1\Nested Loops - Lab\P01. Clock\P01. Clock\obj\Debug\net5.0\refint\P01. Clock.dll
+D:\SoftUni\Programming Basics with C#1\Nested Loops - Lab\P01. Clock\P01. Clock\obj\Debug\net5.0\P01. Clock.pdb
+D:\SoftUni\Programming Basics with C#1\Nested Loops - Lab\P01. Clock\P01. Clock\obj\Debug\net5.0\P01. Clock.genruntimeconfig.cache
+D:\SoftUni\Programming Basics with C#1\Nested Loops - Lab\P01. Clock\P01. Clock\obj\Debug\net5.0\ref\P01. Clock.dll

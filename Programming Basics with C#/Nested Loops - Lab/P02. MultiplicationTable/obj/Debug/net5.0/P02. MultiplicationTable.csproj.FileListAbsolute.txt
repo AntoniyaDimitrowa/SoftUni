@@ -1,0 +1,16 @@
+D:\SoftUni\Programming Basics with C#1\Nested Loops - Lab\P02. MultiplicationTable\bin\Debug\net5.0\P02. MultiplicationTable.exe
+D:\SoftUni\Programming Basics with C#1\Nested Loops - Lab\P02. MultiplicationTable\bin\Debug\net5.0\P02. MultiplicationTable.deps.json
+D:\SoftUni\Programming Basics with C#1\Nested Loops - Lab\P02. MultiplicationTable\bin\Debug\net5.0\P02. MultiplicationTable.runtimeconfig.json
+D:\SoftUni\Programming Basics with C#1\Nested Loops - Lab\P02. MultiplicationTable\bin\Debug\net5.0\P02. MultiplicationTable.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics with C#1\Nested Loops - Lab\P02. MultiplicationTable\bin\Debug\net5.0\P02. MultiplicationTable.dll
+D:\SoftUni\Programming Basics with C#1\Nested Loops - Lab\P02. MultiplicationTable\bin\Debug\net5.0\P02. MultiplicationTable.pdb
+D:\SoftUni\Programming Basics with C#1\Nested Loops - Lab\P02. MultiplicationTable\obj\Debug\net5.0\P02. MultiplicationTable.csproj.AssemblyReference.cache
+D:\SoftUni\Programming Basics with C#1\Nested Loops - Lab\P02. MultiplicationTable\obj\Debug\net5.0\P02. MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Programming Basics with C#1\Nested Loops - Lab\P02. MultiplicationTable\obj\Debug\net5.0\P02. MultiplicationTable.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics with C#1\Nested Loops - Lab\P02. MultiplicationTable\obj\Debug\net5.0\P02. MultiplicationTable.AssemblyInfo.cs
+D:\SoftUni\Programming Basics with C#1\Nested Loops - Lab\P02. MultiplicationTable\obj\Debug\net5.0\P02. MultiplicationTable.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics with C#1\Nested Loops - Lab\P02. MultiplicationTable\obj\Debug\net5.0\P02. MultiplicationTable.dll
+D:\SoftUni\Programming Basics with C#1\Nested Loops - Lab\P02. MultiplicationTable\obj\Debug\net5.0\refint\P02. MultiplicationTable.dll
+D:\SoftUni\Programming Basics with C#1\Nested Loops - Lab\P02. MultiplicationTable\obj\Debug\net5.0\P02. MultiplicationTable.pdb
+D:\SoftUni\Programming Basics with C#1\Nested Loops - Lab\P02. MultiplicationTable\obj\Debug\net5.0\P02. MultiplicationTable.genruntimeconfig.cache
+D:\SoftUni\Programming Basics with C#1\Nested Loops - Lab\P02. MultiplicationTable\obj\Debug\net5.0\ref\P02. MultiplicationTable.dll
