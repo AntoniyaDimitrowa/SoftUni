@@ -1,0 +1,16 @@
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Lab\P06. Building\bin\Debug\net5.0\P06. Building.exe
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Lab\P06. Building\bin\Debug\net5.0\P06. Building.deps.json
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Lab\P06. Building\bin\Debug\net5.0\P06. Building.runtimeconfig.json
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Lab\P06. Building\bin\Debug\net5.0\P06. Building.runtimeconfig.dev.json
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Lab\P06. Building\bin\Debug\net5.0\P06. Building.dll
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Lab\P06. Building\bin\Debug\net5.0\P06. Building.pdb
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Lab\P06. Building\obj\Debug\net5.0\P06. Building.csproj.AssemblyReference.cache
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Lab\P06. Building\obj\Debug\net5.0\P06. Building.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Lab\P06. Building\obj\Debug\net5.0\P06. Building.AssemblyInfoInputs.cache
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Lab\P06. Building\obj\Debug\net5.0\P06. Building.AssemblyInfo.cs
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Lab\P06. Building\obj\Debug\net5.0\P06. Building.csproj.CoreCompileInputs.cache
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Lab\P06. Building\obj\Debug\net5.0\P06. Building.dll
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Lab\P06. Building\obj\Debug\net5.0\refint\P06. Building.dll
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Lab\P06. Building\obj\Debug\net5.0\P06. Building.pdb
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Lab\P06. Building\obj\Debug\net5.0\P06. Building.genruntimeconfig.cache
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Lab\P06. Building\obj\Debug\net5.0\ref\P06. Building.dll

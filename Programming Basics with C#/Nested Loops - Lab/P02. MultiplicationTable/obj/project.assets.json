@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SoftUni\\Programming Basics with C#1\\Nested Loops - Lab\\P02. MultiplicationTable\\P02. MultiplicationTable.csproj",
+      "projectUniqueName": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Nested Loops - Lab\\P02. MultiplicationTable\\P02. MultiplicationTable.csproj",
       "projectName": "P02. MultiplicationTable",
-      "projectPath": "D:\\SoftUni\\Programming Basics with C#1\\Nested Loops - Lab\\P02. MultiplicationTable\\P02. MultiplicationTable.csproj",
+      "projectPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Nested Loops - Lab\\P02. MultiplicationTable\\P02. MultiplicationTable.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni\\Programming Basics with C#1\\Nested Loops - Lab\\P02. MultiplicationTable\\obj\\",
+      "outputPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Nested Loops - Lab\\P02. MultiplicationTable\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

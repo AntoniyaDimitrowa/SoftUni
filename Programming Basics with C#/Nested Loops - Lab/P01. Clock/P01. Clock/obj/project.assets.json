@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SoftUni\\Programming Basics with C#1\\Nested Loops - Lab\\P01. Clock\\P01. Clock\\P01. Clock.csproj",
+      "projectUniqueName": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Nested Loops - Lab\\P01. Clock\\P01. Clock\\P01. Clock.csproj",
       "projectName": "P01. Clock",
-      "projectPath": "D:\\SoftUni\\Programming Basics with C#1\\Nested Loops - Lab\\P01. Clock\\P01. Clock\\P01. Clock.csproj",
+      "projectPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Nested Loops - Lab\\P01. Clock\\P01. Clock\\P01. Clock.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni\\Programming Basics with C#1\\Nested Loops - Lab\\P01. Clock\\P01. Clock\\obj\\",
+      "outputPath": "D:\\SoftUni\\SoftUni\\Programming Basics with C#\\Nested Loops - Lab\\P01. Clock\\P01. Clock\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
