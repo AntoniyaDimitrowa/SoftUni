@@ -1,0 +1,16 @@
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P01. NumberPyramid\P01. NumberPyramid\bin\Debug\net5.0\P01. NumberPyramid.exe
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P01. NumberPyramid\P01. NumberPyramid\bin\Debug\net5.0\P01. NumberPyramid.deps.json
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P01. NumberPyramid\P01. NumberPyramid\bin\Debug\net5.0\P01. NumberPyramid.runtimeconfig.json
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P01. NumberPyramid\P01. NumberPyramid\bin\Debug\net5.0\P01. NumberPyramid.runtimeconfig.dev.json
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P01. NumberPyramid\P01. NumberPyramid\bin\Debug\net5.0\P01. NumberPyramid.dll
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P01. NumberPyramid\P01. NumberPyramid\bin\Debug\net5.0\P01. NumberPyramid.pdb
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P01. NumberPyramid\P01. NumberPyramid\obj\Debug\net5.0\P01. NumberPyramid.csproj.AssemblyReference.cache
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P01. NumberPyramid\P01. NumberPyramid\obj\Debug\net5.0\P01. NumberPyramid.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P01. NumberPyramid\P01. NumberPyramid\obj\Debug\net5.0\P01. NumberPyramid.AssemblyInfoInputs.cache
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P01. NumberPyramid\P01. NumberPyramid\obj\Debug\net5.0\P01. NumberPyramid.AssemblyInfo.cs
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P01. NumberPyramid\P01. NumberPyramid\obj\Debug\net5.0\P01. NumberPyramid.csproj.CoreCompileInputs.cache
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P01. NumberPyramid\P01. NumberPyramid\obj\Debug\net5.0\P01. NumberPyramid.dll
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P01. NumberPyramid\P01. NumberPyramid\obj\Debug\net5.0\refint\P01. NumberPyramid.dll
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P01. NumberPyramid\P01. NumberPyramid\obj\Debug\net5.0\P01. NumberPyramid.pdb
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P01. NumberPyramid\P01. NumberPyramid\obj\Debug\net5.0\P01. NumberPyramid.genruntimeconfig.cache
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P01. NumberPyramid\P01. NumberPyramid\obj\Debug\net5.0\ref\P01. NumberPyramid.dll

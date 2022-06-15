@@ -1,0 +1,16 @@
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P02. EqualSumsEvenOddPositions\bin\Debug\net5.0\P02. EqualSumsEvenOddPositions.exe
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P02. EqualSumsEvenOddPositions\bin\Debug\net5.0\P02. EqualSumsEvenOddPositions.deps.json
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P02. EqualSumsEvenOddPositions\bin\Debug\net5.0\P02. EqualSumsEvenOddPositions.runtimeconfig.json
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P02. EqualSumsEvenOddPositions\bin\Debug\net5.0\P02. EqualSumsEvenOddPositions.runtimeconfig.dev.json
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P02. EqualSumsEvenOddPositions\bin\Debug\net5.0\P02. EqualSumsEvenOddPositions.dll
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P02. EqualSumsEvenOddPositions\bin\Debug\net5.0\P02. EqualSumsEvenOddPositions.pdb
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P02. EqualSumsEvenOddPositions\obj\Debug\net5.0\P02. EqualSumsEvenOddPositions.csproj.AssemblyReference.cache
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P02. EqualSumsEvenOddPositions\obj\Debug\net5.0\P02. EqualSumsEvenOddPositions.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P02. EqualSumsEvenOddPositions\obj\Debug\net5.0\P02. EqualSumsEvenOddPositions.AssemblyInfoInputs.cache
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P02. EqualSumsEvenOddPositions\obj\Debug\net5.0\P02. EqualSumsEvenOddPositions.AssemblyInfo.cs
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P02. EqualSumsEvenOddPositions\obj\Debug\net5.0\P02. EqualSumsEvenOddPositions.csproj.CoreCompileInputs.cache
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P02. EqualSumsEvenOddPositions\obj\Debug\net5.0\P02. EqualSumsEvenOddPositions.dll
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P02. EqualSumsEvenOddPositions\obj\Debug\net5.0\refint\P02. EqualSumsEvenOddPositions.dll
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P02. EqualSumsEvenOddPositions\obj\Debug\net5.0\P02. EqualSumsEvenOddPositions.pdb
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P02. EqualSumsEvenOddPositions\obj\Debug\net5.0\P02. EqualSumsEvenOddPositions.genruntimeconfig.cache
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P02. EqualSumsEvenOddPositions\obj\Debug\net5.0\ref\P02. EqualSumsEvenOddPositions.dll
