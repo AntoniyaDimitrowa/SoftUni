@@ -1,0 +1,16 @@
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P03. SumPrimeNonPrime\bin\Debug\net5.0\P03. SumPrimeNonPrime.exe
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P03. SumPrimeNonPrime\bin\Debug\net5.0\P03. SumPrimeNonPrime.deps.json
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P03. SumPrimeNonPrime\bin\Debug\net5.0\P03. SumPrimeNonPrime.runtimeconfig.json
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P03. SumPrimeNonPrime\bin\Debug\net5.0\P03. SumPrimeNonPrime.runtimeconfig.dev.json
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P03. SumPrimeNonPrime\bin\Debug\net5.0\P03. SumPrimeNonPrime.dll
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P03. SumPrimeNonPrime\bin\Debug\net5.0\P03. SumPrimeNonPrime.pdb
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P03. SumPrimeNonPrime\obj\Debug\net5.0\P03. SumPrimeNonPrime.csproj.AssemblyReference.cache
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P03. SumPrimeNonPrime\obj\Debug\net5.0\P03. SumPrimeNonPrime.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P03. SumPrimeNonPrime\obj\Debug\net5.0\P03. SumPrimeNonPrime.AssemblyInfoInputs.cache
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P03. SumPrimeNonPrime\obj\Debug\net5.0\P03. SumPrimeNonPrime.AssemblyInfo.cs
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P03. SumPrimeNonPrime\obj\Debug\net5.0\P03. SumPrimeNonPrime.csproj.CoreCompileInputs.cache
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P03. SumPrimeNonPrime\obj\Debug\net5.0\P03. SumPrimeNonPrime.dll
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P03. SumPrimeNonPrime\obj\Debug\net5.0\refint\P03. SumPrimeNonPrime.dll
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P03. SumPrimeNonPrime\obj\Debug\net5.0\P03. SumPrimeNonPrime.pdb
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P03. SumPrimeNonPrime\obj\Debug\net5.0\P03. SumPrimeNonPrime.genruntimeconfig.cache
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P03. SumPrimeNonPrime\obj\Debug\net5.0\ref\P03. SumPrimeNonPrime.dll
