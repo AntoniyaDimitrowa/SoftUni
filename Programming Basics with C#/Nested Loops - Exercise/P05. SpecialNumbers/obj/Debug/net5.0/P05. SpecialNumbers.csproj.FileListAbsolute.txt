@@ -1,0 +1,16 @@
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P05. SpecialNumbers\bin\Debug\net5.0\P05. SpecialNumbers.exe
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P05. SpecialNumbers\bin\Debug\net5.0\P05. SpecialNumbers.deps.json
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P05. SpecialNumbers\bin\Debug\net5.0\P05. SpecialNumbers.runtimeconfig.json
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P05. SpecialNumbers\bin\Debug\net5.0\P05. SpecialNumbers.runtimeconfig.dev.json
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P05. SpecialNumbers\bin\Debug\net5.0\P05. SpecialNumbers.dll
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P05. SpecialNumbers\bin\Debug\net5.0\P05. SpecialNumbers.pdb
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P05. SpecialNumbers\obj\Debug\net5.0\P05. SpecialNumbers.csproj.AssemblyReference.cache
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P05. SpecialNumbers\obj\Debug\net5.0\P05. SpecialNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P05. SpecialNumbers\obj\Debug\net5.0\P05. SpecialNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P05. SpecialNumbers\obj\Debug\net5.0\P05. SpecialNumbers.AssemblyInfo.cs
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P05. SpecialNumbers\obj\Debug\net5.0\P05. SpecialNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P05. SpecialNumbers\obj\Debug\net5.0\P05. SpecialNumbers.dll
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P05. SpecialNumbers\obj\Debug\net5.0\refint\P05. SpecialNumbers.dll
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P05. SpecialNumbers\obj\Debug\net5.0\P05. SpecialNumbers.pdb
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P05. SpecialNumbers\obj\Debug\net5.0\P05. SpecialNumbers.genruntimeconfig.cache
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P05. SpecialNumbers\obj\Debug\net5.0\ref\P05. SpecialNumbers.dll

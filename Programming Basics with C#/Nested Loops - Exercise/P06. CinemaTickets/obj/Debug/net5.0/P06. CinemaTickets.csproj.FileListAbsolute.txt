@@ -1,0 +1,16 @@
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P06. CinemaTickets\bin\Debug\net5.0\P06. CinemaTickets.exe
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P06. CinemaTickets\bin\Debug\net5.0\P06. CinemaTickets.deps.json
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P06. CinemaTickets\bin\Debug\net5.0\P06. CinemaTickets.runtimeconfig.json
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P06. CinemaTickets\bin\Debug\net5.0\P06. CinemaTickets.runtimeconfig.dev.json
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P06. CinemaTickets\bin\Debug\net5.0\P06. CinemaTickets.dll
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P06. CinemaTickets\bin\Debug\net5.0\P06. CinemaTickets.pdb
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P06. CinemaTickets\obj\Debug\net5.0\P06. CinemaTickets.csproj.AssemblyReference.cache
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P06. CinemaTickets\obj\Debug\net5.0\P06. CinemaTickets.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P06. CinemaTickets\obj\Debug\net5.0\P06. CinemaTickets.AssemblyInfoInputs.cache
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P06. CinemaTickets\obj\Debug\net5.0\P06. CinemaTickets.AssemblyInfo.cs
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P06. CinemaTickets\obj\Debug\net5.0\P06. CinemaTickets.csproj.CoreCompileInputs.cache
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P06. CinemaTickets\obj\Debug\net5.0\P06. CinemaTickets.dll
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P06. CinemaTickets\obj\Debug\net5.0\refint\P06. CinemaTickets.dll
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P06. CinemaTickets\obj\Debug\net5.0\P06. CinemaTickets.pdb
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P06. CinemaTickets\obj\Debug\net5.0\P06. CinemaTickets.genruntimeconfig.cache
+D:\SoftUni\SoftUni\Programming Basics with C#\Nested Loops - Exercise\P06. CinemaTickets\obj\Debug\net5.0\ref\P06. CinemaTickets.dll
