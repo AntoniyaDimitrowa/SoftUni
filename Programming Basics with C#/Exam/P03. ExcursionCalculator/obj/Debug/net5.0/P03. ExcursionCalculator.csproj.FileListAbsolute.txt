@@ -1,0 +1,16 @@
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P03. ExcursionCalculator\bin\Debug\net5.0\P03. ExcursionCalculator.exe
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P03. ExcursionCalculator\bin\Debug\net5.0\P03. ExcursionCalculator.deps.json
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P03. ExcursionCalculator\bin\Debug\net5.0\P03. ExcursionCalculator.runtimeconfig.json
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P03. ExcursionCalculator\bin\Debug\net5.0\P03. ExcursionCalculator.runtimeconfig.dev.json
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P03. ExcursionCalculator\bin\Debug\net5.0\P03. ExcursionCalculator.dll
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P03. ExcursionCalculator\bin\Debug\net5.0\P03. ExcursionCalculator.pdb
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P03. ExcursionCalculator\obj\Debug\net5.0\P03. ExcursionCalculator.csproj.AssemblyReference.cache
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P03. ExcursionCalculator\obj\Debug\net5.0\P03. ExcursionCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P03. ExcursionCalculator\obj\Debug\net5.0\P03. ExcursionCalculator.AssemblyInfoInputs.cache
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P03. ExcursionCalculator\obj\Debug\net5.0\P03. ExcursionCalculator.AssemblyInfo.cs
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P03. ExcursionCalculator\obj\Debug\net5.0\P03. ExcursionCalculator.csproj.CoreCompileInputs.cache
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P03. ExcursionCalculator\obj\Debug\net5.0\P03. ExcursionCalculator.dll
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P03. ExcursionCalculator\obj\Debug\net5.0\refint\P03. ExcursionCalculator.dll
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P03. ExcursionCalculator\obj\Debug\net5.0\P03. ExcursionCalculator.pdb
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P03. ExcursionCalculator\obj\Debug\net5.0\P03. ExcursionCalculator.genruntimeconfig.cache
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P03. ExcursionCalculator\obj\Debug\net5.0\ref\P03. ExcursionCalculator.dll

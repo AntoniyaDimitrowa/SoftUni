@@ -1,0 +1,16 @@
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P04. ComputerFirm\bin\Debug\net5.0\P04. ComputerFirm.exe
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P04. ComputerFirm\bin\Debug\net5.0\P04. ComputerFirm.deps.json
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P04. ComputerFirm\bin\Debug\net5.0\P04. ComputerFirm.runtimeconfig.json
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P04. ComputerFirm\bin\Debug\net5.0\P04. ComputerFirm.runtimeconfig.dev.json
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P04. ComputerFirm\bin\Debug\net5.0\P04. ComputerFirm.dll
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P04. ComputerFirm\bin\Debug\net5.0\P04. ComputerFirm.pdb
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P04. ComputerFirm\obj\Debug\net5.0\P04. ComputerFirm.csproj.AssemblyReference.cache
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P04. ComputerFirm\obj\Debug\net5.0\P04. ComputerFirm.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P04. ComputerFirm\obj\Debug\net5.0\P04. ComputerFirm.AssemblyInfoInputs.cache
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P04. ComputerFirm\obj\Debug\net5.0\P04. ComputerFirm.AssemblyInfo.cs
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P04. ComputerFirm\obj\Debug\net5.0\P04. ComputerFirm.csproj.CoreCompileInputs.cache
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P04. ComputerFirm\obj\Debug\net5.0\P04. ComputerFirm.dll
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P04. ComputerFirm\obj\Debug\net5.0\refint\P04. ComputerFirm.dll
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P04. ComputerFirm\obj\Debug\net5.0\P04. ComputerFirm.pdb
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P04. ComputerFirm\obj\Debug\net5.0\P04. ComputerFirm.genruntimeconfig.cache
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P04. ComputerFirm\obj\Debug\net5.0\ref\P04. ComputerFirm.dll

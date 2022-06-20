@@ -1,0 +1,16 @@
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P01. PCStore\P01. PCStore\bin\Debug\net5.0\P01. PCStore.exe
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P01. PCStore\P01. PCStore\bin\Debug\net5.0\P01. PCStore.deps.json
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P01. PCStore\P01. PCStore\bin\Debug\net5.0\P01. PCStore.runtimeconfig.json
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P01. PCStore\P01. PCStore\bin\Debug\net5.0\P01. PCStore.runtimeconfig.dev.json
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P01. PCStore\P01. PCStore\bin\Debug\net5.0\P01. PCStore.dll
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P01. PCStore\P01. PCStore\bin\Debug\net5.0\P01. PCStore.pdb
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P01. PCStore\P01. PCStore\obj\Debug\net5.0\P01. PCStore.csproj.AssemblyReference.cache
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P01. PCStore\P01. PCStore\obj\Debug\net5.0\P01. PCStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P01. PCStore\P01. PCStore\obj\Debug\net5.0\P01. PCStore.AssemblyInfoInputs.cache
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P01. PCStore\P01. PCStore\obj\Debug\net5.0\P01. PCStore.AssemblyInfo.cs
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P01. PCStore\P01. PCStore\obj\Debug\net5.0\P01. PCStore.csproj.CoreCompileInputs.cache
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P01. PCStore\P01. PCStore\obj\Debug\net5.0\P01. PCStore.dll
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P01. PCStore\P01. PCStore\obj\Debug\net5.0\refint\P01. PCStore.dll
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P01. PCStore\P01. PCStore\obj\Debug\net5.0\P01. PCStore.pdb
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P01. PCStore\P01. PCStore\obj\Debug\net5.0\P01. PCStore.genruntimeconfig.cache
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P01. PCStore\P01. PCStore\obj\Debug\net5.0\ref\P01. PCStore.dll
