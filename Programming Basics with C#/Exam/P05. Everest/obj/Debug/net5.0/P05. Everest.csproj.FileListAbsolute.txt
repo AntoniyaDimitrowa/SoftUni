@@ -1,0 +1,16 @@
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P05. Everest\bin\Debug\net5.0\P05. Everest.exe
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P05. Everest\bin\Debug\net5.0\P05. Everest.deps.json
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P05. Everest\bin\Debug\net5.0\P05. Everest.runtimeconfig.json
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P05. Everest\bin\Debug\net5.0\P05. Everest.runtimeconfig.dev.json
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P05. Everest\bin\Debug\net5.0\P05. Everest.dll
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P05. Everest\bin\Debug\net5.0\P05. Everest.pdb
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P05. Everest\obj\Debug\net5.0\P05. Everest.csproj.AssemblyReference.cache
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P05. Everest\obj\Debug\net5.0\P05. Everest.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P05. Everest\obj\Debug\net5.0\P05. Everest.AssemblyInfoInputs.cache
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P05. Everest\obj\Debug\net5.0\P05. Everest.AssemblyInfo.cs
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P05. Everest\obj\Debug\net5.0\P05. Everest.csproj.CoreCompileInputs.cache
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P05. Everest\obj\Debug\net5.0\P05. Everest.dll
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P05. Everest\obj\Debug\net5.0\refint\P05. Everest.dll
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P05. Everest\obj\Debug\net5.0\P05. Everest.pdb
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P05. Everest\obj\Debug\net5.0\P05. Everest.genruntimeconfig.cache
+D:\SoftUni\SoftUni\Programming Basics with C#\Exam\P05. Everest\obj\Debug\net5.0\ref\P05. Everest.dll
