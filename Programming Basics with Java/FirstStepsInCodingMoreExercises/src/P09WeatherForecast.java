@@ -40,7 +40,10 @@ public class P09WeatherForecast {
                 System.out.println("Cold");
             }
             else if(degrees<5) {
-                System.out.println("Freezing");
+                System.out.println("Very cold");
+            }
+            else if(degrees>35) {
+                System.out.println("Very hot");
             }
         }
         else{
