@@ -26,9 +26,9 @@ public class P03Logistics {
         }
 
         double average = price / totalTons;
-        double vanPercent = (tonsInVan / totalTons) * 100.0;
-        double truckPercent = (tonsInTruck / totalTons) * 100.0;
-        double trainPercent = (tonsInTrain / totalTons) * 100.0;
+        double vanPercent = (tonsInVan*1.0 / totalTons) * 100.0;
+        double truckPercent = (tonsInTruck*1.0 / totalTons) * 100.0;
+        double trainPercent = (tonsInTrain*1.0 / totalTons) * 100.0;
 
         System.out.printf("%.2f%n", average);
         System.out.printf("%.2f%%%n", vanPercent);
