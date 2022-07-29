@@ -19,20 +19,21 @@ public class P05GameOfIntervals {
             if(number >= 0 && number < 10) {
                 firstGroup++;
                 result = result + 0.20 * number;
-            } else if(number >= 0 && number < 20) {
+            } else if(number > 9 && number < 20) {
                 secondGroup++;
                 result = result + 0.30 * number;
-            } else if(number >= 0 && number < 30) {
+            } else if(number > 19 && number < 30) {
                 thirdGroup++;
                 result = result + 0.40 * number;
-            } else if(number >= 0 && number < 40) {
+            } else if(number > 29 && number < 40) {
                 fourthGroup++;
                 result = result + 50;
-            } else if(number >= 0 && number < 51) {
+            } else if(number > 39 && number < 51) {
                 fifthGroup++;
                 result = result + 100;
             } else {
                 invalidNum++;
+                result = result / 2;
             }
 
         }
@@ -43,6 +44,13 @@ public class P05GameOfIntervals {
         double fourthGroupPercent = ((fourthGroup * 1.0) / moves) * 100;
         double fifthGroupPercent = ((fifthGroup * 1.0) / moves) * 100;
         double invalidNumbersPercent = ((invalidNum * 1.0) / moves) * 100;
-        
+
+        System.out.printf("%.2f%n", result);
+        System.out.printf("From 0 to 9: %.2f%%%n", firstGroupPercent);
+        System.out.printf("From 10 to 19: %.2f%%%n", secondGroupPercent);
+        System.out.printf("From 20 to 29: %.2f%%%n", thirdGroupPercent);
+        System.out.printf("From 30 to 39: %.2f%%%n", fourthGroupPercent);
+        System.out.printf("From 40 to 50: %.2f%%%n", fifthGroupPercent);
+        System.out.printf("Invalid numbers: %.2f%%%n", invalidNumbersPercent);
     }
 }
