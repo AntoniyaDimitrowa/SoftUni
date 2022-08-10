@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 
 public class P06RhombusOfStars {
@@ -10,7 +11,7 @@ public class P06RhombusOfStars {
                 System.out.printf(" ");
             }
             for(int col = 1; col <= row; col++) {
-                System.out.printf("$ ");
+                System.out.printf("* ");
             }
             System.out.println();
         }
@@ -19,7 +20,7 @@ public class P06RhombusOfStars {
                 System.out.printf(" ");
             }
             for(int col = n-row; col >= 1; col--) {
-                System.out.printf("$ ");
+                System.out.printf("* ");
             }
             System.out.println();
         }
