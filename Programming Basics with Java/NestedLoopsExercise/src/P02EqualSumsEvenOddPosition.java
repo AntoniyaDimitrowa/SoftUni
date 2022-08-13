@@ -13,18 +13,19 @@ public class P02EqualSumsEvenOddPosition {
             int sumEvenPositions = 0;
             for(int j = 0; j < currNum.length(); j++)
             {
+                int currDigit = Integer.parseInt("" + currNum.charAt(j));
                 if(j%2==0)
                 {
-                    sumEvenPositions += currNum.charAt(j);
+                    sumEvenPositions += currDigit;
                 }
                 else
                 {
-                    sumOddPositions += currNum.charAt(j);
+                    sumOddPositions += currDigit;
                 }
             }
             if(sumOddPositions == sumEvenPositions)
             {
-                System.out.printf("%d ", currNum);
+                System.out.printf("%s ", currNum);
             }
         }
     }
