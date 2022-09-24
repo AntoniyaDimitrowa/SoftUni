@@ -34,7 +34,7 @@ public class P03_GamingStore {
             }
             if(isFound) {
                 if(price <= currBalance) {
-                    System.out.printf("Boubht %s%n", gameName);
+                    System.out.printf("Bought %s%n", gameName);
                     currBalance -= price;
                 } else {
                     System.out.println("Too Expensive");
@@ -53,7 +53,7 @@ public class P03_GamingStore {
             }
         }
         if(!noMoney) {
-            System.out.printf("Total spent: $%.2f. Remaining: %.2f", (balanceInTheBeginning - currBalance), currBalance);
+            System.out.printf("Total spent: $%.2f. Remaining: $%.2f", (balanceInTheBeginning - currBalance), currBalance);
         }
     }
 }
