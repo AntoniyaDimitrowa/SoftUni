@@ -6,18 +6,34 @@ import java.util.stream.Collectors;
 public class P04_ListManipulationBasics {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        List<Integer> list = Arrays.stream(scanner.nextLine().split(" "))
+        List<Integer> numbersList = Arrays.stream(scanner.nextLine().split(" "))
                 .map(Integer::parseInt)
                 .collect(Collectors.toList());
         String input = scanner.nextLine();
         while(!input.equals("end")) {
             String[] commandArr = input.split(" ");
             String command = commandArr[0];
-            if(command.equals("Add")) {
-                int num = Integer.parseInt(commandArr[1]);
-                list.add(num);
+            switch (command) {
+                case "Add":
+                    int numToAdd = Integer.parseInt(commandArr[1]);
+                    numbersList.add(numToAdd);
+                    break;
+                case "Remove":
+                    int numToRemove = Integer.parseInt(commandArr[1]);
+                    numbersList.remove(Integer.valueOf(numToRemove));
+                    break;
+                case "RemoveAt":
+                    int indexRemove = Integer.parseInt(commandArr[1]);
+                    numbersList.remove(indexRemove);
+                    break;
+                case "Insert":
+                    int numToInsert = Integer.parseInt(commandArr[1]);
+                    int indexToInsert = Integer.parseInt(commandArr[2]);
+                    numbersList.add(indexToInsert, numToInsert);
+                    break;
             }
             input = scanner.nextLine();
         }
+        System.out.println(numbersList.toString().replaceAll("[\\[\\],]", ""));
     }
 }
