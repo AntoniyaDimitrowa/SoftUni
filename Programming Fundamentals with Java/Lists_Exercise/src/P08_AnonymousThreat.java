@@ -13,26 +13,61 @@ public class P08_AnonymousThreat {
             if(commandArr[0].equals("merge")) {
                 int startIndex = Integer.parseInt(commandArr[1]);
                 int endIndex = Integer.parseInt(commandArr[2]);
+
+                if(endIndex < 0 || startIndex > strings.size() - 1) {
+                    command = scanner.nextLine();
+                    continue;
+                }
                 if(startIndex < 0) {
                     startIndex = 0;
                 }
                 if(endIndex >= strings.size()) {
                     endIndex = strings.size() - 1;
                 }
+
                 String result = "";
                 for (int i = startIndex; i <= endIndex; i++) {
-                    result += strings.get(i);
+                    result += strings.remove(startIndex);
                 }
-                strings.set(0, result);
-                for (int i = 1; i < strings.size()-1; i++) {
-                    strings.remove(i);
-                    i--;
-                }
+                strings.add(startIndex, result);
 
             } else if(commandArr[0].equals("divide")) {
                 int index = Integer.parseInt(commandArr[1]);
                 int partitions = Integer.parseInt(commandArr[2]);
-
+                if(index > -1 && index < strings.size()) {
+                    String[] result = new String[partitions];
+                    String element = strings.get(index);
+                    if(partitions < element.length()) {
+                        if (element.length() % partitions == 0) {
+                            int charsInPartition = element.length() / partitions;
+                            int positionInElement = 0;
+                            for (int i = 0; i < partitions; i++) {
+                                result[i] = "";
+                                for (int j = 1; j <= charsInPartition; j++) {
+                                    result[i] += element.charAt(positionInElement);
+                                    positionInElement++;
+                                }
+                            }
+                        } else {
+                            int charsInPartition = element.length() / partitions;
+                            int positionInElement = 0;
+                            for (int i = 0; i < partitions - 1; i++) {
+                                result[i] = "";
+                                for (int j = 1; j <= charsInPartition; j++) {
+                                    result[i] += element.charAt(positionInElement);
+                                    positionInElement++;
+                                }
+                            }
+                            for (int j = positionInElement; j < element.length(); j++) {
+                                result[partitions-1] += element.charAt(j);
+                            }
+                        }
+                        strings.remove(index);
+                        for (int i = partitions - 1; i >= 0; i--) {
+                            strings.add(index, result[i]);
+                        }
+                    }
+                }
 
             }
             command = scanner.nextLine();
