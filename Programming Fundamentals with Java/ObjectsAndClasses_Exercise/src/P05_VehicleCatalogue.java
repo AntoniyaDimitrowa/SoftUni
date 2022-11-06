@@ -34,7 +34,10 @@ public class P05_VehicleCatalogue {
             this.horsepower = horsepower;
         }
 
-
+        public String toString() {
+            String result = "Type: " + getTypeOfVehicle() + "%n" + "Model: " + getModel() + "%n" + "Color: " + getColor() + "%n" + "Horsepower: " + getHorsepower() + "%n";
+            return result;
+        }
     }
 
     public static void main(String[] args) {
@@ -69,7 +72,11 @@ public class P05_VehicleCatalogue {
         double averageTrucks = (sumHorsepowerTrucks * 1.0) / trucksCounter;
         String wantedModel = scanner.nextLine();
         while(!wantedModel.equals("Close the Catalogue")) {
-
+            for (int i = 0; i < list.size(); i++) {
+                if(list.get(i).model.equals(wantedModel)){
+                    list.get(i).toString();
+                }
+            }
             wantedModel = scanner.nextLine();
         }
     }
