@@ -1,4 +1,3 @@
-import javax.lang.model.util.AbstractElementVisitor14;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
@@ -34,9 +33,16 @@ public class P05_VehicleCatalogue {
             this.horsepower = horsepower;
         }
 
-        public String toString() {
-            String result = "Type: " + getTypeOfVehicle() + "%n" + "Model: " + getModel() + "%n" + "Color: " + getColor() + "%n" + "Horsepower: " + getHorsepower() + "%n";
-            return result;
+        public void Print() {
+
+            if(getTypeOfVehicle().equals("car")) {
+                System.out.println("Type: Car");
+            } else {
+                System.out.println("Type: Truck");
+            }
+            System.out.println("Model: " + getModel());
+            System.out.println("Color: " + getColor());
+            System.out.println("Horsepower: " + getHorsepower());
         }
     }
 
@@ -68,16 +74,26 @@ public class P05_VehicleCatalogue {
             inputLine = scanner.nextLine();
         }
 
-        double averageCars = (sumHorsepowerCars * 1.0) / carsCounter;
-        double averageTrucks = (sumHorsepowerTrucks * 1.0) / trucksCounter;
+        double averageCars = 0.00;
+        double averageTrucks = 0.00;
+        if(carsCounter > 0) {
+            averageCars = (sumHorsepowerCars * 1.0) / carsCounter;
+        }
+        if(trucksCounter > 0) {
+            averageTrucks = (sumHorsepowerTrucks * 1.0) / trucksCounter;
+        }
+
         String wantedModel = scanner.nextLine();
         while(!wantedModel.equals("Close the Catalogue")) {
             for (int i = 0; i < list.size(); i++) {
                 if(list.get(i).model.equals(wantedModel)){
-                    list.get(i).toString();
+                    list.get(i).Print();
                 }
             }
             wantedModel = scanner.nextLine();
         }
+
+        System.out.printf("Cars have average horsepower of: %.2f.%n", averageCars);
+        System.out.printf("Trucks have average horsepower of: %.2f.", averageTrucks);
     }
 }
