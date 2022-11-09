@@ -4,13 +4,13 @@ import java.util.*;
 public class P01_CountRealNumbers {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        double[] numberList = Arrays.stream(scanner.nextLine().split(" "))
+        double[] numberArray = Arrays.stream(scanner.nextLine().split(" "))
                 .mapToDouble(Double::parseDouble)
                 .toArray();
 
         TreeMap<Double, Integer> counts = new TreeMap<>();
 
-        for(double num : numberList) {
+        for(double num : numberArray) {
             if(!counts.containsKey(num)) {
                 counts.put(num, 0);
             }
