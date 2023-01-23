@@ -22,29 +22,43 @@ public class P07_FindTheRealQueen {
                         break;
                     } else {
                         for (int row1 = 0; row1 < 8; row1++) {
-                            if(matrix[row1][queenColumn] == 'q') {
+                            if(matrix[row1][queenColumn] == 'q' && row1 != queenRow) {
                                 queenIsFound = false;
                                 break;
                             }
                         }
+                        if(!queenIsFound) {
+                            continue;
+                        }
+                        int col2 = queenColumn + 1;
                         for (int row2 = queenRow + 1; row2 < 8; row2++) {
-                            int col2 = queenColumn + 1;
+                            if(col2 >= 8) {
+                                break;
+                            }
                             if(matrix[row2][col2] == 'q') {
                                 queenIsFound = false;
                                 break;
                             }
                             col2++;
                         }
+                        if(!queenIsFound) {
+                            continue;
+                        }
+                        int col3 = queenColumn - 1;
                         for (int row3 = queenRow - 1; row3 >= 0; row3--) {
-                            int col3 = queenColumn - 1;
+                            if(col3 < 0) {
+                                break;
+                            }
                             if(matrix[row3][col3] == 'q') {
                                 queenIsFound = false;
                                 break;
                             }
                             col3--;
                         }
-                        System.out.println(queenRow + " " + queenColumn);
-                        break;
+                        if(queenIsFound) {
+                            System.out.println(queenRow + " " + queenColumn);
+                            return;
+                        }
                     }
                 }
 
