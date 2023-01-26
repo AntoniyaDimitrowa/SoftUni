@@ -6,7 +6,7 @@ public class P04_MaximalSum {
         Scanner scanner = new Scanner(System.in);
         String[] input = scanner.nextLine().split("\\s+");
         int rows = Integer.parseInt(input[0]);
-        int columns = Integer.parseInt(input[0]);
+        int columns = Integer.parseInt(input[1]);
         int[][] matrix = getMatrix(rows, columns, scanner);
         int[][] matrixWithMaxSum = findMatrixWithMaxSum(matrix);
         int maxSum = getSumOf3x3Matrix(0, 0, matrixWithMaxSum);
@@ -31,8 +31,10 @@ public class P04_MaximalSum {
         int maxSum = Integer.MIN_VALUE;
         int rowMaxSum = 0;
         int columnMaxSum = 0;
-        for (int row = 0; row < matrix.length - 2; row++) {
-            for (int col = 0; col < matrix[0].length - 2; col++) {
+        int rows = matrix.length;
+        int columns = matrix[2].length;
+        for (int row = 0; row < rows - 2; row++) {
+            for (int col = 0; col < columns - 2; col++) {
                 int currSum = getSumOf3x3Matrix(row, col, matrix);
                 if(maxSum < currSum) {
                     maxSum = currSum;
@@ -48,7 +50,7 @@ public class P04_MaximalSum {
                 columnMaxSum++;
             }
             rowMaxSum++;
-            columnMaxSum -= 2;
+            columnMaxSum = columnMaxSum - 3;
         }
         return result;
     }
