@@ -6,6 +6,7 @@ public class P06_StringMatrixRotation {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String[] command = scanner.nextLine().split("\\(");
+        int commandDegree = Integer.parseInt(command[1].substring(0, command[1].length() - 1));
         String inputLine = scanner.nextLine();
         List<String> list = new ArrayList<>();
         while (!inputLine.equals("END")) {
@@ -16,16 +17,28 @@ public class P06_StringMatrixRotation {
         int matrixColumn = getMaxColumns(list);
         char[][] matrix = getMatrix(matrixRows, matrixColumn, list);
 
-        if(command[1].equals("90)")) {
-            char[][] resultMatrix = rotate90(matrix);
-            matrixPrint(resultMatrix);
-        } else if(command[1].equals("180)")) {
-            char[][] resultMatrix = rotate180(matrix);
-            matrixPrint(resultMatrix);
-        } else if(command[1].equals("270)")) {
-            char[][] resultMatrix = rotate270(matrix);
-            matrixPrint(resultMatrix);
+        if(commandDegree % 360 == 0) {
+            matrixPrint(matrix);
+        } else if(commandDegree % 90 == 0) {
+            int rotations = commandDegree / 90;
+            for (int i = 0; i < rotations; i++) {
+                matrix = rotate(matrix);
+            }
+            matrixPrint(matrix);
         }
+
+
+
+       // if(command[1].equals("90)")) {
+         //   char[][] resultMatrix = rotate90(matrix);
+           // matrixPrint(resultMatrix);
+        //} else if(command[1].equals("180)")) {
+          //  char[][] resultMatrix = rotate180(matrix);
+            //matrixPrint(resultMatrix);
+        //} else if(command[1].equals("270)")) {
+          //  char[][] resultMatrix = rotate270(matrix);
+            //matrixPrint(resultMatrix);
+        //}
     }
 
     public static int getMaxColumns(List<String> list) {
@@ -52,7 +65,7 @@ public class P06_StringMatrixRotation {
         return result;
     }
 
-    public static char[][] rotate90(char[][] matrix) {
+    public static char[][] rotate(char[][] matrix) {
         char[][] result = new char[matrix[0].length][matrix.length];
         int matrixRow = matrix.length - 1;
         int matrixCol = 0;
@@ -67,35 +80,35 @@ public class P06_StringMatrixRotation {
         return result;
     }
 
-    public static char[][] rotate180(char[][] matrix) {
-        char[][] result = new char[matrix.length][matrix[0].length];
-        int matrixRow = matrix.length - 1;
-        int matrixCol = matrix[0].length - 1;
-        for (int row = 0; row < matrix.length; row++) {
-            for (int col = 0; col < matrix[0].length; col++) {
-                result[row][col] = matrix[matrixRow][matrixCol];
-                matrixCol--;
-            }
-            matrixRow--;
-            matrixCol = matrixCol + matrix[0].length;
-        }
-        return result;
-    }
+    //public static char[][] rotate180(char[][] matrix) {
+      //  char[][] result = new char[matrix.length][matrix[0].length];
+        //int matrixRow = matrix.length - 1;
+        //int matrixCol = matrix[0].length - 1;
+        //for (int row = 0; row < matrix.length; row++) {
+          //  for (int col = 0; col < matrix[0].length; col++) {
+            //    result[row][col] = matrix[matrixRow][matrixCol];
+              //  matrixCol--;
+            //}
+            //matrixRow--;
+          //  matrixCol = matrixCol + matrix[0].length;
+     //   }
+       // return result;
+    //}
 
-    public static char[][] rotate270(char[][] matrix) {
-        char[][] result = new char[matrix[0].length][matrix.length];
-        int matrixRow = 0;
-        int matrixCol = matrix[0].length - 1;
-        for (int col = 0; col < matrix.length; col++) {
-            for (int row = 0; row < matrix[0].length; row++) {
-                result[row][col] = matrix[matrixRow][matrixCol];
-                matrixCol--;
-            }
-            matrixRow++;
-            matrixCol = matrixCol + matrix[0].length;
-        }
-        return result;
-    }
+    //public static char[][] rotate270(char[][] matrix) {
+      //  char[][] result = new char[matrix[0].length][matrix.length];
+        //int matrixRow = 0;
+       // int matrixCol = matrix[0].length - 1;
+        //for (int col = 0; col < matrix.length; col++) {
+          //  for (int row = 0; row < matrix[0].length; row++) {
+            //    result[row][col] = matrix[matrixRow][matrixCol];
+              //  matrixCol--;
+            //}
+     //       matrixRow++;
+       //     matrixCol = matrixCol + matrix[0].length;
+       // }
+        //return result;
+    //}
 
     public static void matrixPrint (char[][] matrix) {
         int rows = matrix.length;
