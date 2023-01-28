@@ -1,5 +1,4 @@
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 import java.util.Scanner;
 
@@ -13,10 +12,14 @@ public class P07_Crossfire {
         String command = scanner.nextLine();
         while(!command.equals("Nuke it from orbit")) {
             int row = Integer.parseInt(command.split("\\s+")[0]);
-            int col = Integer.parseInt(command.split("\\s+")[0]);
-            int radius = Integer.parseInt(command.split("\\s+")[0]);
-            matrix = destroyCells(row, col, radius, matrix);
+            int col = Integer.parseInt(command.split("\\s+")[1]);
+            int radius = Integer.parseInt(command.split("\\s+")[2]);
+            if(row < matrix.length && col < matrix[0].length) {
+                matrix = destroyCells(row, col, radius, matrix);
+            }
+            command = scanner.nextLine();
         }
+        matrixPrint(matrix);
 
     }
 
@@ -55,21 +58,34 @@ public class P07_Crossfire {
         List<Integer> list = new ArrayList<>();
         for (int row = 0; row < rows; row++) {
             for (int col = 0; col < columns; col++) {
-                list.add(matrix[row][col]);
-            }
-            for (int i = 0; i < list.size(); i++) {
-                if(list.get(i) == 0) {
-                    list.remove(i);
-                    i--;
+                if(matrix[row][col] != 0) {
+                    list.add(matrix[row][col]);
                 }
             }
+
             for (int col = 0; col < columns; col++) {
                 if(col < list.size()) {
                     matrix[row][col] = list.get(col);
                 } else {
-                    matrix[row][col] = "";
+                    matrix[row][col] = 0;
                 }
             }
+            list.clear();
+        }
+        return matrix;
+    }
+
+    public static void matrixPrint (int[][] matrix) {
+        int rows = matrix.length;
+        int columns = matrix[0].length;
+
+        for (int row = 0; row < rows; row++) {
+            for (int col = 0; col < columns; col++) {
+                if(matrix[row][col] != 0) {
+                    System.out.print(matrix[row][col] + " ");
+                }
+            }
+            System.out.println();
         }
     }
 }
