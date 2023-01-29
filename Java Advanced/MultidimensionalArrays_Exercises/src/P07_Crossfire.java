@@ -14,8 +14,30 @@ public class P07_Crossfire {
             int row = Integer.parseInt(command.split("\\s+")[0]);
             int col = Integer.parseInt(command.split("\\s+")[1]);
             int radius = Integer.parseInt(command.split("\\s+")[2]);
-            if(row < matrix.length && col < matrix[0].length) {
+            if(row < matrix.length && col < matrix[0].length && row >= 0 && col >= 0) {
                 matrix = destroyCells(row, col, radius, matrix);
+            } else if((row < 0 && col < 0) || (row >= matrix.length && col >= matrix[0].length) || (row >= matrix.length && col < 0) || (row < 0 && col >= matrix[0].length)) {
+                command = scanner.nextLine();
+                continue;
+            } else if((row < matrix.length && row >= 0) && (col < 0 || col >= matrix[0].length)) {
+                for (int i = 1; i <= radius; i++) {
+                    if(col+i < matrix[0].length && col+i >= 0) {
+                        matrix[row][col+i] = 0;
+                    }
+                    if(col-i >= 0 && col-i < matrix[0].length) {
+                        matrix[row][col-i] = 0;
+                    }
+                }
+            } else if((col < matrix[0].length && col >= 0) && (row < 0 || row >= matrix.length)) {
+                for (int i = 1; i <= radius; i++) {
+                    if(row+i < matrix.length && row+i >= 0) {
+                        matrix[row][col] = 0;
+                    }
+                    if(row-i >= 0 && row-i < matrix.length) {
+                        matrix[row-i][col] = 0;
+                    }
+
+                }
             }
             command = scanner.nextLine();
         }
