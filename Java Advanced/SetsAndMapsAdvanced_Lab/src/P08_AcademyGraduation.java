@@ -1,3 +1,4 @@
+import java.math.BigDecimal;
 import java.text.DecimalFormat;
 import java.util.*;
 
@@ -18,12 +19,11 @@ public class P08_AcademyGraduation {
         for (Map.Entry<String, Double[]> entry : students.entrySet()) {
             String name = entry.getKey();
             Double[] grades = entry.getValue();
-            Double sum = 0.00;
+            BigDecimal sum = BigDecimal.valueOf(0);
             for (int i = 0; i < grades.length; i++) {
-                sum += grades[i];
+                sum = sum.add(BigDecimal.valueOf(grades[i]));
             }
-
-            System.out.printf("%s is graduated with %f%n", name, (sum / grades.length));
+            System.out.printf("%s is graduated with %f%n", name, (sum.divide(BigDecimal.valueOf(grades.length))).stripTrailingZeros());
         }
     }
 }

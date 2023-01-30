@@ -11,7 +11,9 @@ public class P09_Largest3Numbers {
                 .sorted((a, b) -> b.compareTo(a))
                 .collect(Collectors.toList());
         for (int i = 0; i < 3; i++) {
-            System.out.print(nums.get(i) + " ");
+            if(i < nums.size()) {
+                System.out.print(nums.get(i) + " ");
+            }
         }
     }
 }
