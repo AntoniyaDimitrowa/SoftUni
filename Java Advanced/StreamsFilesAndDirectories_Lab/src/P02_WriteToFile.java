@@ -6,7 +6,6 @@ import java.util.Scanner;
 
 public class P02_WriteToFile {
     public static void main(String[] args) throws IOException {
-        Scanner scanner = new Scanner(System.in);
         String basePath = "D:\\SoftUni\\Java\\04. Java-Advanced-Files-and-Streams-Lab-Resources";
         String inputPath = basePath + "\\input.txt";
         String outputPath = basePath + "\\output.txt";
