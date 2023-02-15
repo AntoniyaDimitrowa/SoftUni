@@ -16,6 +16,10 @@ public class Main {
 
         smartArray.forEach(el -> System.out.println(el));
 
+
+        System.out.println();
+
+
         CustomStack customStack = new CustomStack();
         customStack.push(5);
         customStack.push(6);
@@ -31,5 +35,15 @@ public class Main {
         System.out.println(customStack.pop());
 
         customStack.forEach(el -> System.out.println(el));
+
+
+        System.out.println();
+
+        DoublyLinkedList doublyLinkedList = new DoublyLinkedList();
+        doublyLinkedList.addLast(1);
+        doublyLinkedList.addLast(2);
+        doublyLinkedList.addLast(3);
+        doublyLinkedList.addLast(4);
+        doublyLinkedList.addLast(5);
     }
 }
