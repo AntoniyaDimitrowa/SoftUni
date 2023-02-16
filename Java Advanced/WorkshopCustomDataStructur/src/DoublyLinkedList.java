@@ -1,5 +1,7 @@
+import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.NoSuchElementException;
+import java.util.function.Consumer;
 
 public class DoublyLinkedList {
 
@@ -88,7 +90,7 @@ public class DoublyLinkedList {
 
     private void checkEmpty() {
         if(this.size == 0) {
-            throw new NoSuchElementException("List is empty!")
+            throw new NoSuchElementException("List is empty!");
         }
     }
     //int removeLast() – removes the element at the end of the collection
@@ -107,12 +109,24 @@ public class DoublyLinkedList {
         return element;
     }
     //void forEach() – goes through the collection and executes a given action
-    public void forEach() {
-
+    public void forEach(Consumer<Integer> consumer) {
+        ListNode currNode = this.head;
+        while(currNode != null) {
+            consumer.accept(currNode.element);
+            currNode = currNode.next;
+        }
     }
     //int[] toArray() – returns the collection as an array
     public int[] toArray() {
-
+        int[] array = new int[this.size];
+        ListNode currNode = this.head;
+        int counter = 0;
+        while(currNode != null) {
+            array[counter] = currNode.element;
+            counter++;
+            currNode = currNode.next;
+        }
+        return array;
     }
 
 }
