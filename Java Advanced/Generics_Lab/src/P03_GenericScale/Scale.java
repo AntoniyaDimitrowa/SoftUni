@@ -1,6 +1,6 @@
 package P03_GenericScale;
 
-public class Scale <T> {
+public class Scale <T extends Comparable<T>> {
     private T left;
     private T right;
 
@@ -10,6 +10,15 @@ public class Scale <T> {
     }
 
     public T getHeavier() {
-        
+        int resultOfComparing = this.left.compareTo(this.right);
+        if(resultOfComparing == 0) {
+            return null;
+        } else {
+            if(resultOfComparing < 0) {
+                return this.right;
+            } else {
+                return this.left;
+            }
+        }
     }
 }
