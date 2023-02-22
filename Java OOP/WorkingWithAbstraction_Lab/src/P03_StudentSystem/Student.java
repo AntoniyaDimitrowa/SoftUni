@@ -15,10 +15,6 @@ public class Student {
         return this.name;
     }
 
-    public void setName(String name) {
-        this.name = name;
-    }
-
     public int getAge() {
         return this.age;
     }
@@ -33,5 +29,18 @@ public class Student {
 
     public void setGrade(double grade) {
         this.grade = grade;
+    }
+
+    @Override
+    public String toString() {
+        String studentType = "";
+        if (this.getGrade() >= 5.00) {
+            studentType = "Excellent student.";
+        } else if (this.getGrade() < 5.00 && this.getGrade() >= 3.50) {
+            studentType = "Average student.";
+        } else {
+            studentType = "Very nice person.";
+        }
+        return String.format("%s is %s years old. %s", this.getName(), this.getAge(), studentType);
     }
 }

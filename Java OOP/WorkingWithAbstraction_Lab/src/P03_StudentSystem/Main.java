@@ -10,7 +10,7 @@ public class Main {
         while (true) {
             String[] input = scanner.nextLine().split(" ");
 
-            if(executor.isExitCommand(input[0])) {
+            if(CommandExecutor.isExitCommand(input[0])) {
                 break;
             }
 

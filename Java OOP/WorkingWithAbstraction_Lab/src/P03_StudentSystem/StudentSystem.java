@@ -4,18 +4,26 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class StudentSystem {
-    private Map<String, Student> repo;
+    private final Map<String, Student> repo;
 
-    public StudentSystem()
-    {
+    public StudentSystem() {
         this.repo = new HashMap<>();
     }
 
-    public void createStudent () {
+    public void createStudent (String name, int age, double grade) {
+        if (this.repo.containsKey(name)) { return; }
 
+        Student student = new Student(name, age, grade);
+        this.repo.put(name, student);
     }
 
-    public String showStudent () {
-        return this.repo.get(name).toString();
+    public String showStudent (String name) {
+        Student student = this.repo.get(name);
+
+        if(student == null) {
+            return null;
+        }
+
+        return student.toString();
     }
 }
