@@ -57,6 +57,10 @@ public class Person {
         this.setSalary(salary);
     }
 
+    public Person(String firstName, String lastName, int age) {
+        this(firstName, lastName, age, 0.0);
+    }
+
     public void increaseSalary(double bonus) {
         double actualBonus = bonus;
         if(this.getAge() < 30) {

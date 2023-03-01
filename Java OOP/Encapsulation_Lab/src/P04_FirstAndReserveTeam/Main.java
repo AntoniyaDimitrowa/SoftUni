@@ -3,14 +3,11 @@ package P04_FirstAndReserveTeam;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.ArrayList;
-import java.util.List;
 
 public class Main {
     public static void main(String[] args) throws IOException {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         int n = Integer.parseInt(reader.readLine());
-        List<Person> people = new ArrayList<>();
 
         Team team = new Team("Starts");
 
@@ -25,11 +22,11 @@ public class Main {
             }
 
             if (person != null) {
-                people.add(person);
+                team.addPlayer(person);
             }
         }
 
-        List<Person> firstTeam = team.getFirstTeam();
-        firstTeam.clear(); 
+        System.out.printf("First team have %d players\n", team.getFirstTeam().size());
+        System.out.printf("Reverse team have %d players\n", team.getReserveTeam().size());
     }
 }
