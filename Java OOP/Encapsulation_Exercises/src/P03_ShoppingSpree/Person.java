@@ -1,6 +1,8 @@
 package P03_ShoppingSpree;
 
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
 import java.util.List;
 
 public class Person {
@@ -15,10 +17,16 @@ public class Person {
     }
 
     private void setName(String name) {
+        if(name.trim().isEmpty()) {
+            throw new IllegalArgumentException("Name cannot be empty");
+        }
         this.name = name;
     }
 
     private void setMoney(double money) {
+        if(money < 0) {
+            throw new IllegalArgumentException("Money cannot be negative");
+        }
         this.money = money;
     }
 
@@ -28,6 +36,9 @@ public class Person {
 
     public void buyProduct(Product product) {
         hasEnoughMoney(product);
+        System.out.println(this.name + " bought " + product.getName());
+        this.products.add(product);
+        this.setMoney(this.money - product.getCost());
     }
 
     private void hasEnoughMoney(Product product) {
@@ -36,5 +47,10 @@ public class Person {
         }
     }
 
-
+    public List<String> getProductsNames() {
+        List<String> productsNames = new ArrayList<>();
+        this.products.stream()
+                .forEach(p -> productsNames.add(p.getName()));
+        return Collections.unmodifiableList(productsNames);
+    }
 }
