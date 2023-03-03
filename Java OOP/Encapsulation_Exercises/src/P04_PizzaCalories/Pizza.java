@@ -41,9 +41,14 @@ public class Pizza {
 
     public double getOverallCalories() {
         double result = this.dough.calculateCalories();
-        for (:) {
-            
+        for (Topping topping : this.toppings) {
+            result += topping.calculateCalories();
         }
+        return result;
     }
 
+    @Override
+    public String toString() {
+        return String.format("%s - %.2f", this.getName(), this.getOverallCalories());
+    }
 }

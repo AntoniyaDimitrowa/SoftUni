@@ -3,6 +3,7 @@ package P04_PizzaCalories;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.stream.Collectors;
 
 public class Topping {
 
@@ -22,7 +23,7 @@ public class Topping {
         }
 
         static List<String> getTypes() {
-            List<Dough.Type> types = Arrays.stream(Dough.Type.values()).toList();
+            List<Type> types = Arrays.stream(Type.values()).collect(Collectors.toList());
             List<String> typesNames = new ArrayList<>();
             types.forEach(t -> typesNames.add(t.name()));
 
@@ -38,7 +39,7 @@ public class Topping {
     }
 
     private void setToppingType(String toppingType) {
-        if(Type.getTypes().contains(toppingType)) {
+        if(!Type.getTypes().contains(toppingType.toUpperCase())) {
             throw new IllegalArgumentException(String.format("Cannot place %s on top of your pizza.", toppingType));
         }
         this.toppingType = toppingType;

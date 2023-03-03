@@ -3,6 +3,7 @@ package P04_PizzaCalories;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.stream.Collectors;
 
 public class Dough {
 
@@ -23,7 +24,7 @@ public class Dough {
         }
 
         static List<String> getTypes() {
-            List<Type> types = Arrays.stream(Type.values()).toList();
+            List<Type> types = Arrays.stream(Type.values()).collect(Collectors.toList());
             List<String> typesNames = new ArrayList<>();
             types.forEach(t -> typesNames.add(t.name()));
 
@@ -41,14 +42,14 @@ public class Dough {
     }
 
     private void setFlourType(String flourType) {
-        if(Type.getTypes().contains(flourType)) {
+        if(!Type.getTypes().contains(flourType.toUpperCase())) {
             throw new IllegalArgumentException("Invalid type of dough.");
         }
         this.flourType = flourType;
     }
 
     private void setBakingTechnique(String bakingTechnique) {
-        if(Type.getTypes().contains(bakingTechnique)) {
+        if(!Type.getTypes().contains(bakingTechnique.toUpperCase())) {
             throw new IllegalArgumentException("Invalid type of dough.");
         }
         this.bakingTechnique = bakingTechnique;
