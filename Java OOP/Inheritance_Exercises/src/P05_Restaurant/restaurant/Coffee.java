@@ -3,9 +3,8 @@ package P05_Restaurant.restaurant;
 import java.math.BigDecimal;
 
 public class Coffee extends HotBeverage {
-
-    public static final double COFFEE_MILLILITERS = 50;
-    public static final BigDecimal COFFEE_PRICE = BigDecimal.valueOf(3.50);
+    static final double COFFEE_MILLILITERS = 50;
+    static final BigDecimal COFFEE_PRICE = new BigDecimal(3.50);
     private double caffeine;
 
     public Coffee(String name, double caffeine) {

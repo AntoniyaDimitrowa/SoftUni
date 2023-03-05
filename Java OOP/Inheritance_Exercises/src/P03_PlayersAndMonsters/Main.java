@@ -21,7 +21,5 @@ public class Main {
         System.out.println(knight);
         System.out.println(soulMaster);
         System.out.println(wizard);
-
-
     }
 }
