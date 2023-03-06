@@ -1,4 +1,4 @@
-package kindergarten;
+package P03_Kindergarten;
 
 public class Main {
     public static void main(String[] args) {

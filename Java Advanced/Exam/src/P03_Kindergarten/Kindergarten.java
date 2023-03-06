@@ -1,4 +1,4 @@
-package kindergarten;
+package P03_Kindergarten;
 
 import java.util.ArrayList;
 import java.util.Comparator;

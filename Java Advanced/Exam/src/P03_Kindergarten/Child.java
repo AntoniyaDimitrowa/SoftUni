@@ -1,4 +1,4 @@
-package kindergarten;
+package P03_Kindergarten;
 
 public class Child {
     private String firstName;
