@@ -1,4 +1,4 @@
-package P03_BirthdayCelebrations;
+package P04_FoodShortage;
 
 import java.util.Scanner;
 
