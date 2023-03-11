@@ -1,23 +1,25 @@
 package P04_FoodShortage;
 
+import java.util.Map;
+
 public class FoodShortageCommandHandler extends CommandHandler {
-    int finalResult;
+    private Map<String, Buyer> buyers;
 
-    public FoodShortageCommandHandler(String endCommand) {
+    public FoodShortageCommandHandler(Map<String, Buyer> buyers, String endCommand) {
         super(endCommand);
-    }
-
-    public int getFinalResult() {
-        return finalResult;
+        this.buyers = buyers;
     }
 
     @Override
-    protected void processNonEndCommand(String command) {
-        String[] parameters = command.split("\\s+");
-        if(parameters.length == 3) {
-            this.finalResult += 5;
-        } else if(parameters.length == 4){
-            this.finalResult += 5;
+    protected void processNonEndCommand(String name) {
+        Buyer targetPerson = getBuyingPerson(name);
+
+        if(targetPerson != null) {
+            targetPerson.buyFood();
         }
+    }
+
+    private Buyer getBuyingPerson(String name) {
+        return buyers.get(name);
     }
 }

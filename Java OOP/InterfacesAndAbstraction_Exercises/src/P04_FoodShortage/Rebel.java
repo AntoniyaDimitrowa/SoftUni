@@ -1,6 +1,6 @@
 package P04_FoodShortage;
 
-public class Rebel implements Person, Buyer{
+public class Rebel implements Person, Buyer {
     private String name;
     private int age;
     private String group;
