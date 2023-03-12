@@ -1,10 +1,16 @@
 package P02_Shapes;
 
-import java.util.Scanner;
+
 
 public class Main {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        Shape circle = new Circle(10.0);
+        Shape rectangle = new Rectangle(3.0, 4.0);
+
+        System.out.println(circle.getArea());
+        System.out.println(circle.getPerimeter());
+        System.out.println(rectangle.getArea());
+        System.out.println(rectangle.getPerimeter());
 
     }
 }
