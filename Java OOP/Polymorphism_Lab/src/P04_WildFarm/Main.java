@@ -6,15 +6,19 @@ import P04_WildFarm.food.FoodType;
 import P04_WildFarm.food.Meat;
 import P04_WildFarm.food.Vegetable;
 
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
+        List<Animal> animals = new ArrayList<>();
+
         String command = scanner.nextLine();
-        while (!command.equals("END")) {
-            String[] animalInput = scanner.nextLine().split("\\s+");
+        while (!command.equals("End")) {
+            String[] animalInput = command.split("\\s+");
             String[] foodInput = scanner.nextLine().split("\\s+");
 
             Animal animal = createAnimal(animalInput);
@@ -22,19 +26,21 @@ public class Main {
 
             animal.makeSound();
             animal.eat(food);
-            System.out.println(animal);
+            animals.add(animal);
 
             command = scanner.nextLine();
         }
+
+        animals.forEach(a -> System.out.println(a));
     }
 
     private static Food createFood(String[] foodInput) {
-        FoodType type = FoodType.valueOf(foodInput[0].toUpperCase());
+        FoodType type = FoodType.valueOf(foodInput[0]);
         int quantity = Integer.parseInt(foodInput[1]);
         switch (type) {
-            case MEAT:
+            case Meat:
                 return new Meat(quantity);
-            case VEGETABLE:
+            case Vegetable:
                 return new Vegetable(quantity);
         }
 
@@ -42,16 +48,16 @@ public class Main {
     }
 
     private static Animal createAnimal(String[] animalInput) {
-        AnimalType type = AnimalType.valueOf(animalInput[0].toUpperCase());
+        AnimalType type = AnimalType.valueOf(animalInput[0]);
 
         switch (type) {
-            case CAT:
+            case Cat:
                 return new Cat(animalInput[1], Double.parseDouble(animalInput[2]), type, animalInput[3], animalInput[4]);
-            case TIGER:
+            case Tiger:
                 return new Tiger(animalInput[1], Double.parseDouble(animalInput[2]), type, animalInput[3]);
-            case MOUSE:
+            case Mouse:
                 return new Mouse(animalInput[1], Double.parseDouble(animalInput[2]), type, animalInput[3]);
-            case ZEBRA:
+            case Zebra:
                 return new Zebra(animalInput[1], Double.parseDouble(animalInput[2]), type, animalInput[3]);
         }
 

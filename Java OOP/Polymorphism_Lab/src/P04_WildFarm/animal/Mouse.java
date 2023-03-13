@@ -1,6 +1,7 @@
 package P04_WildFarm.animal;
 
 import P04_WildFarm.food.Food;
+import P04_WildFarm.food.Vegetable;
 
 public class Mouse extends Mammal {
     public Mouse(String name, Double weight, AnimalType type, String livingRegion) {
@@ -14,6 +15,6 @@ public class Mouse extends Mammal {
 
     @Override
     public boolean willEatFood(Food food) {
-        return false;
+        return food instanceof Vegetable;
     }
 }

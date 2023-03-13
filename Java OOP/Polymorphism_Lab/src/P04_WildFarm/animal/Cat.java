@@ -2,6 +2,8 @@ package P04_WildFarm.animal;
 
 import P04_WildFarm.food.Food;
 
+import java.text.DecimalFormat;
+
 public class Cat extends Feline {
     private String breed;
 
@@ -17,6 +19,20 @@ public class Cat extends Feline {
 
     @Override
     public boolean willEatFood(Food food) {
-        return false;
+        return true;
+    }
+
+    @Override
+    public String toString() {
+        DecimalFormat df = new DecimalFormat("####.##");
+        String formattedWeight = df.format(this.getWeight());
+
+        return String.format("%s[%s, %s, %s, %s, %d]",
+                this.getType(),
+                this.getName(),
+                this.breed,
+                formattedWeight,
+                this.getLivingRegion(),
+                this.getFoodEaten());
     }
 }

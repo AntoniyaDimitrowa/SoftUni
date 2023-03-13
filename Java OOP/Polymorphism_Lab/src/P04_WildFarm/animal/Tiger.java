@@ -1,6 +1,8 @@
 package P04_WildFarm.animal;
 
 import P04_WildFarm.food.Food;
+import P04_WildFarm.food.Meat;
+import P04_WildFarm.food.Vegetable;
 
 public class Tiger extends Feline {
     private String livingRegion;
@@ -17,6 +19,6 @@ public class Tiger extends Feline {
 
     @Override
     public boolean willEatFood(Food food) {
-        return false;
+        return food instanceof Meat;
     }
 }
