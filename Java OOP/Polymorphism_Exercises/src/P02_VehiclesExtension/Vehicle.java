@@ -1,15 +1,17 @@
-package P01_Vehicles;
+package P02_VehiclesExtension;
 
 import java.text.DecimalFormat;
-import java.util.ArrayList;
 
 public abstract class Vehicle {
-    protected double fuelQuantity;
-    protected double fuelConsumption; //fuel consumption in liters per km
+    private double fuelQuantity;
+    private double fuelConsumption; //fuel consumption in liters per km
+    private final double tankCapacity;
 
-    public Vehicle(double fuelQuantity, double fuelConsumption) {
-        this.fuelQuantity = fuelQuantity;
-        this.fuelConsumption = fuelConsumption;
+
+    public Vehicle(double fuelQuantity, double fuelConsumption, double tankCapacity) {
+        this.setFuelQuantity(fuelQuantity);
+        this.setFuelConsumption(fuelConsumption);
+        this.tankCapacity = tankCapacity;
     }
 
     /**
@@ -22,7 +24,7 @@ public abstract class Vehicle {
         if(!checkIfHasEnoughFuel(distance)) {
             return this.getClass().getSimpleName() + " needs refueling";
         }
-        this.fuelQuantity -= distance * this.fuelConsumption;
+        this.setFuelQuantity(this.fuelQuantity - (distance * this.fuelConsumption));
 
         DecimalFormat df = new DecimalFormat("####.##");
         String formattedDistance = df.format(distance);
@@ -46,11 +48,43 @@ public abstract class Vehicle {
      *@param litters the litters of fuel
      **/
     public void refuel(double litters) {
-        this.fuelQuantity += litters;
+        if(litters <= 0) {
+            throw new IllegalArgumentException("Fuel must be a positive number");
+        }
+
+        if(this.fuelQuantity + litters > this.tankCapacity) {
+            throw new IllegalArgumentException("Cannot fit fuel in tank");
+        }
+
+        this.setFuelQuantity(this.fuelQuantity + litters);
     }
 
     @Override
     public String toString() {
         return String.format("%s: %.2f", this.getClass().getSimpleName(), this.fuelQuantity);
+    }
+
+    protected double getFuelQuantity() {
+        return fuelQuantity;
+    }
+
+    protected void setFuelQuantity(double fuelQuantity) {
+        if(fuelQuantity < 0) {
+            throw new IllegalArgumentException("Fuel must be a positive number");
+        }
+
+        this.fuelQuantity = fuelQuantity;
+    }
+
+    protected double getFuelConsumption() {
+        return fuelConsumption;
+    }
+
+    protected void setFuelConsumption(double fuelConsumption) {
+        this.fuelConsumption = fuelConsumption;
+    }
+
+    protected double getTankCapacity() {
+        return tankCapacity;
     }
 }
