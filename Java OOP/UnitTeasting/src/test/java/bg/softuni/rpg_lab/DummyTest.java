@@ -1,48 +1,53 @@
 package bg.softuni.rpg_lab;
 
 import org.junit.Assert;
+import org.junit.Before;
 import org.junit.Test;
 
 public class DummyTest {
+    private static final int INITIAL_DUMMY_HEALTH = 10;
+    private static final int INITIAL_DUMMY_EXPERIENCE = 10;
+    private Target dummy;
+
+    @Before
+    public void setup() {
+        this.dummy = new Dummy(INITIAL_DUMMY_HEALTH, INITIAL_DUMMY_EXPERIENCE);
+    }
+
     @Test
     public void attackedDummyLosesHealth() {
         //Arrange
-        Dummy dummy = new Dummy(10, 10);
+        int attackPoints = 5;
 
         //Act
-        dummy.takeAttack(5);
+        this.dummy.takeAttack(attackPoints);
 
         //Assert
-        Assert.assertEquals(5, dummy.getHealth());
+        Assert.assertEquals(INITIAL_DUMMY_HEALTH - attackPoints, this.dummy.getHealth());
     }
 
     @Test(expected = IllegalStateException.class)
     public void deadDummyCantBeAttacked() {
-        //Arrange
-        Dummy dummy = new Dummy(0, 10);
-
         //Act
-        dummy.takeAttack(5);
+        this.dummy.takeAttack(10);
+        this.dummy.takeAttack(10);
     }
 
     @Test
     public void deadDummyCanGiveXP() {
         //Arrange
-        Dummy dummy = new Dummy(0, 10);
+        this.dummy.takeAttack(10);
 
         //Act
         int XP = dummy.giveExperience();
 
         //Assert
-        Assert.assertEquals(XP, 10);
+        Assert.assertEquals(XP, INITIAL_DUMMY_EXPERIENCE);
     }
 
     @Test(expected = IllegalStateException.class)
     public void aliveDummyCantGiveXP() {
-        //Arrange
-        Dummy dummy = new Dummy(10, 10);
-
         //Act
-        dummy.giveExperience();
+        this.dummy.giveExperience();
     }
 }

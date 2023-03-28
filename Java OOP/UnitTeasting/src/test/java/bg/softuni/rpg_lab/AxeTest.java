@@ -1,31 +1,37 @@
 package bg.softuni.rpg_lab;
 
 import org.junit.Assert;
+import org.junit.Before;
 import org.junit.Test;
 
 public class AxeTest {
 
+    private Target target;
+
+    @Before
+    public void setupDummy() {
+        this.target = new Dummy(10, 10);
+    }
     @Test
-    public void weaponAttacksLosesDurability() {
+    public void attackDropsDurability() {
         //Arrange
-        Axe axe = new Axe(10, 10);
-        Dummy target = new Dummy(10, 10);
+        int durability = 10;
+        Axe axe = new Axe(10, durability);
 
         //Act
-        axe.attack(target);
+        axe.attack(this.target);
 
         //Assert
-        Assert.assertEquals(9, axe.getDurabilityPoints());
+        Assert.assertEquals(durability - 1, axe.getDurabilityPoints());
     }
 
     @Test(expected = IllegalStateException.class)
-    public void brokenWeaponCantAttack() {
+    public void cannotAttackWithBrokenAxe() {
         //Arrange
         Axe axe = new Axe(10, 1);
-        Dummy target = new Dummy(20, 10);
 
         //Act
-        axe.attack(target);
-        axe.attack(target);
+        axe.attack(this.target);
+        axe.attack(this.target);
     }
 }
