@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="59e51f71-e82a-4b82-a18e-e0b79a56ee7c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTesting_Exercises.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p01_Database/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p02_ExtendedDatabase/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p02_ExtendedDatabase/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p03_IteratorTest/ListIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p04_BubbleSortTest/Bubble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p05_CustomLinkedList/CustomLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p06_TirePressureMonitoringSystem/Alarm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p06_TirePressureMonitoringSystem/Sensor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/p01_Database/DatabaseTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NhYgEn6q8ZX8uh7ugRNcatYGxR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/SoftUni/SoftUni/Java OOP/UnitTesting_Exercises"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SoftUni\SoftUni\Java OOP\UnitTesting_Exercises" />
+      <recent name="D:\SoftUni\SoftUni\Java OOP\UnitTesting_Exercises\src\main\java\org\example" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SoftUni\SoftUni\Java OOP\UnitTesting_Exercises" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.DatabaseTest">
+    <configuration name="DatabaseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTesting_Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="p01_Database.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="p01_Database" />
+      <option name="MAIN_CLASS_NAME" value="p01_Database.DatabaseTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatabaseTest.testDatabaseCtor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTesting_Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="p01_Database.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="p01_Database" />
+      <option name="MAIN_CLASS_NAME" value="p01_Database.DatabaseTest" />
+      <option name="METHOD_NAME" value="testDatabaseCtor" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatabaseTest.testDatabaseCtorInitialazes16Capacity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTesting_Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="p01_Database.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="p01_Database" />
+      <option name="MAIN_CLASS_NAME" value="p01_Database.DatabaseTest" />
+      <option name="METHOD_NAME" value="testDatabaseCtorInitialazes16Capacity" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatabaseTest.testDatabaseCtorLessThan16ElementsTrows" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTesting_Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="p01_Database.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="p01_Database" />
+      <option name="MAIN_CLASS_NAME" value="p01_Database.DatabaseTest" />
+      <option name="METHOD_NAME" value="testDatabaseCtorLessThan16ElementsTrows" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatabaseTest.testDatabaseCtorNot16ElementsTrows" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTesting_Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="p01_Database.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="p01_Database" />
+      <option name="MAIN_CLASS_NAME" value="p01_Database.DatabaseTest" />
+      <option name="METHOD_NAME" value="testDatabaseCtorNot16ElementsTrows" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DatabaseTest" />
+        <item itemvalue="JUnit.DatabaseTest.testDatabaseCtorInitialazes16Capacity" />
+        <item itemvalue="JUnit.DatabaseTest.testDatabaseCtorLessThan16ElementsTrows" />
+        <item itemvalue="JUnit.DatabaseTest.testDatabaseCtorNot16ElementsTrows" />
+        <item itemvalue="JUnit.DatabaseTest.testDatabaseCtor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59e51f71-e82a-4b82-a18e-e0b79a56ee7c" name="Changes" comment="" />
+      <created>1680117892237</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680117892237</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
