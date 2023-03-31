@@ -18,12 +18,24 @@ public class Database {
     }
 
     public void add(Person person) throws OperationNotSupportedException {
-        if (person == null) {
+        if (person == null ||
+            person.getId() <= 0 ||
+            this.elementsCount == 16 ||
+            databaseContainsId(person.getId())) {
             throw new OperationNotSupportedException();
         }
 
         this.elements[++index] = person;
         this.elementsCount++;
+    }
+
+    private boolean databaseContainsId(int id) {
+        for (int i = 0; i < elementsCount; i++) {
+            if(elements[i].getId() == id) {
+                return true;
+            }
+        }
+        return false;
     }
 
     public void remove() throws OperationNotSupportedException {

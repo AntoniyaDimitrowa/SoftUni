@@ -9,6 +9,17 @@ import static org.junit.Assert.*;
 
 public class DatabaseTest {
 
+    @Test
+    public void testDatabaseCtor() throws OperationNotSupportedException {
+        Integer[] expectedElements = {10, 11, 12, 13, 14};
+
+        Database database = new Database(expectedElements);
+
+        Integer[] actualElements = database.getElements();
+        assertEquals(expectedElements.length, actualElements.length);
+        assertArrayEqualTo(expectedElements.length, expectedElements, actualElements);
+    }
+
     @Test(expected = OperationNotSupportedException.class)
     public void testDatabaseCtorMoreThan16ElementsTrows() throws OperationNotSupportedException{ //constructor
         Integer[] largerArray = new Integer[16 + 1];
@@ -32,44 +43,110 @@ public class DatabaseTest {
     }
 
     @Test
-    public void testDatabaseCtor() throws OperationNotSupportedException {
+    public void testAdd() throws OperationNotSupportedException {
+        Integer[] initialElements = {10, 11, 12, 13, 14};
+        Database database = new Database(initialElements);
+
+        Integer newElement = 15;
+        database.add(newElement);
+
+        Integer[] actualElements = database.getElements();
+        assertEquals(5 + 1, actualElements.length);
+        assertArrayEqualTo(5, initialElements, actualElements);
+        assertEquals(newElement, actualElements[5]);
+    }
+
+    @Test
+    public void testAddToSingleElementDatabase() throws OperationNotSupportedException {
+        Integer[] initialElements = {10};
+        Database database = new Database(initialElements);
+
+        Integer newElement = 11;
+        database.add(newElement);
+
+        Integer[] actualElements = database.getElements();
+        assertEquals(2, actualElements.length);
+        assertArrayEqualTo(1, initialElements, actualElements);
+        assertEquals(newElement, actualElements[1]);
+    }
+
+    @Test(expected = ArrayIndexOutOfBoundsException.class)
+    public void testAddToMaxElementDatabaseTrows() throws OperationNotSupportedException {
+        Integer[] initialElements = new Integer[16];
+        Database database = new Database(initialElements);
+
+        database.add(17);
+    }
+
+    @Test(expected = OperationNotSupportedException.class)
+    public void testAddNullTrows() throws OperationNotSupportedException {
+        Integer[] initialElements = {10, 11, 12, 13, 14};
+        Database database = new Database(initialElements);
+
+        database.add(null);
+    }
+
+    @Test
+    public void testRemove() throws OperationNotSupportedException {
+        Integer[] initialElements = {10, 11, 12, 13, 14};
+        Database database = new Database(initialElements);
+
+        database.remove();
+
+        Integer[] actualElements = database.getElements();
+        assertEquals(initialElements.length - 1, actualElements.length);
+        assertArrayEqualTo(initialElements.length - 1, initialElements, actualElements);
+    }
+
+    @Test
+    public void testRemoveFromSingleElementDatabase() throws OperationNotSupportedException {
+        Integer[] initialElements = {10};
+        Database database = new Database(initialElements);
+
+        database.remove();
+
+        Integer[] actualElements = database.getElements();
+        assertEquals(0, actualElements.length);
+    }
+
+    @Test
+    public void testRemoveTwice() throws OperationNotSupportedException {
+        Integer[] initialElements = {10, 11, 12, 13, 14};
+        Database database = new Database(initialElements);
+
+        database.remove();
+        database.remove();
+
+        Integer[] actualElements = database.getElements();
+        assertEquals(initialElements.length - 2, actualElements.length);
+        assertArrayEqualTo(initialElements.length - 2, initialElements, actualElements);
+    }
+
+    @Test(expected = OperationNotSupportedException.class)
+    public void testRemoveFromEmptyDatabaseTrows() throws OperationNotSupportedException {
+        Integer[] initialElements = new Integer[0];
+        Database database = new Database(initialElements);
+
+        database.remove();
+    }
+
+    @Test
+    public void testGetElement() throws OperationNotSupportedException {
         Integer[] expectedElements = {10, 11, 12, 13, 14};
 
         Database database = new Database(expectedElements);
 
         Integer[] actualElements = database.getElements();
         assertEquals(expectedElements.length, actualElements.length);
-        assertEquals(expectedElements[0], actualElements[0]);
-        assertEquals(expectedElements[1], actualElements[1]);
-        assertEquals(expectedElements[2], actualElements[2]);
-        assertEquals(expectedElements[3], actualElements[3]);
-        assertEquals(expectedElements[4], actualElements[4]);
+        assertArrayEqualTo(expectedElements.length, expectedElements, actualElements);
     }
 
-    @Test
-    public void testAdd() throws OperationNotSupportedException {
-        Integer[] initialElements = {10, 11, 12, 13, 14};
-        Database database = new Database(initialElements);
+    private static void assertArrayEqualTo(int length, Integer[] expected, Integer[] actual) {
+        assertTrue(expected.length >= length);
+        assertTrue(actual.length >= length);
 
-        database.add(15);
-
-        Integer[] actualElements = database.getElements();
-        assertEquals(initialElements.length + 1, actualElements.length);
-    }
-
-    @Test
-    public void testRemove() {
-        //TODO
-    }
-
-    @Test
-    public void testGetElement() {
-        //TODO
-    }
-
-    private static void assertArrayEqualTo(int index, Integer[] expected, Integer[] actual) {
-        assertTrue(expected.length > index);
-        assertTrue(actual.length > index);
-        assertEquals(expected.length, actual.length);
+        for (int i = 0; i < length; i++) {
+            assertEquals("Mismatch at " + i + " index.", expected[i], actual[i]);
+        }
     }
 }

@@ -5,21 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59e51f71-e82a-4b82-a18e-e0b79a56ee7c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnitTesting_Exercises.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p01_Database/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p02_ExtendedDatabase/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p02_ExtendedDatabase/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p03_IteratorTest/ListIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p04_BubbleSortTest/Bubble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p05_CustomLinkedList/CustomLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p06_TirePressureMonitoringSystem/Alarm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p06_TirePressureMonitoringSystem/Sensor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/p01_Database/DatabaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/p02_ExtendedDatabase/DatabaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/p02_ExtendedDatabase/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/p03_IteratorTest/ListIteratorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/p02_ExtendedDatabase/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/p02_ExtendedDatabase/Database.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/p01_Database/DatabaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/p01_Database/DatabaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/p02_ExtendedDatabase/Database.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/p02_ExtendedDatabase/Database.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/p01_Database/DatabaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/p01_Database/DatabaseTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,18 +38,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/SoftUni/SoftUni/Java OOP/UnitTesting_Exercises"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/SoftUni/SoftUni/Java OOP/UnitTesting_Exercises&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\SoftUni\SoftUni\Java OOP\UnitTesting_Exercises" />
@@ -65,82 +58,85 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\SoftUni\SoftUni\Java OOP\UnitTesting_Exercises" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="p02_ExtendedDatabase" />
+    </key>
   </component>
   <component name="RunManager" selected="JUnit.DatabaseTest">
     <configuration name="DatabaseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UnitTesting_Exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="p01_Database.*" />
+          <option name="PATTERN" value="p02_ExtendedDatabase.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="p01_Database" />
-      <option name="MAIN_CLASS_NAME" value="p01_Database.DatabaseTest" />
+      <option name="PACKAGE_NAME" value="p02_ExtendedDatabase" />
+      <option name="MAIN_CLASS_NAME" value="p02_ExtendedDatabase.DatabaseTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DatabaseTest.testDatabaseCtor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DatabaseTest.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UnitTesting_Exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="p01_Database.*" />
+          <option name="PATTERN" value="p02_ExtendedDatabase.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="p01_Database" />
-      <option name="MAIN_CLASS_NAME" value="p01_Database.DatabaseTest" />
-      <option name="METHOD_NAME" value="testDatabaseCtor" />
+      <option name="PACKAGE_NAME" value="p02_ExtendedDatabase" />
+      <option name="MAIN_CLASS_NAME" value="p02_ExtendedDatabase.DatabaseTest" />
+      <option name="METHOD_NAME" value="testAdd" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DatabaseTest.testDatabaseCtorInitialazes16Capacity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DatabaseTest.testAddPersonWithAlreadyExistingIdTrows" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UnitTesting_Exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="p01_Database.*" />
+          <option name="PATTERN" value="p02_ExtendedDatabase.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="p01_Database" />
-      <option name="MAIN_CLASS_NAME" value="p01_Database.DatabaseTest" />
-      <option name="METHOD_NAME" value="testDatabaseCtorInitialazes16Capacity" />
+      <option name="PACKAGE_NAME" value="p02_ExtendedDatabase" />
+      <option name="MAIN_CLASS_NAME" value="p02_ExtendedDatabase.DatabaseTest" />
+      <option name="METHOD_NAME" value="testAddPersonWithAlreadyExistingIdTrows" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DatabaseTest.testDatabaseCtorLessThan16ElementsTrows" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DatabaseTest.testAddPersonWithNegativeIdTrows" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UnitTesting_Exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="p01_Database.*" />
+          <option name="PATTERN" value="p02_ExtendedDatabase.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="p01_Database" />
-      <option name="MAIN_CLASS_NAME" value="p01_Database.DatabaseTest" />
-      <option name="METHOD_NAME" value="testDatabaseCtorLessThan16ElementsTrows" />
+      <option name="PACKAGE_NAME" value="p02_ExtendedDatabase" />
+      <option name="MAIN_CLASS_NAME" value="p02_ExtendedDatabase.DatabaseTest" />
+      <option name="METHOD_NAME" value="testAddPersonWithNegativeIdTrows" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DatabaseTest.testDatabaseCtorNot16ElementsTrows" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DatabaseTest.testAddToMaxElementDatabaseTrows" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UnitTesting_Exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="p01_Database.*" />
+          <option name="PATTERN" value="p02_ExtendedDatabase.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="p01_Database" />
-      <option name="MAIN_CLASS_NAME" value="p01_Database.DatabaseTest" />
-      <option name="METHOD_NAME" value="testDatabaseCtorNot16ElementsTrows" />
+      <option name="PACKAGE_NAME" value="p02_ExtendedDatabase" />
+      <option name="MAIN_CLASS_NAME" value="p02_ExtendedDatabase.DatabaseTest" />
+      <option name="METHOD_NAME" value="testAddToMaxElementDatabaseTrows" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -149,10 +145,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.DatabaseTest" />
-        <item itemvalue="JUnit.DatabaseTest.testDatabaseCtorInitialazes16Capacity" />
-        <item itemvalue="JUnit.DatabaseTest.testDatabaseCtorLessThan16ElementsTrows" />
-        <item itemvalue="JUnit.DatabaseTest.testDatabaseCtorNot16ElementsTrows" />
-        <item itemvalue="JUnit.DatabaseTest.testDatabaseCtor" />
+        <item itemvalue="JUnit.DatabaseTest.testAddPersonWithNegativeIdTrows" />
+        <item itemvalue="JUnit.DatabaseTest.testAddToMaxElementDatabaseTrows" />
+        <item itemvalue="JUnit.DatabaseTest.testAdd" />
+        <item itemvalue="JUnit.DatabaseTest.testAddPersonWithAlreadyExistingIdTrows" />
       </list>
     </recent_temporary>
   </component>
@@ -177,5 +173,65 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/p02_ExtendedDatabase/Database.java</url>
+          <line>19</line>
+          <properties class="p02_ExtendedDatabase.Database" method="add">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/p02_ExtendedDatabase/Database.java</url>
+          <line>31</line>
+          <properties class="p02_ExtendedDatabase.Database" method="databaseContainsId">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/p02_ExtendedDatabase/DatabaseTest.java</url>
+          <line>55</line>
+          <properties class="p02_ExtendedDatabase.DatabaseTest" method="testAdd">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/p02_ExtendedDatabase/DatabaseTest.java</url>
+          <line>82</line>
+          <properties class="p02_ExtendedDatabase.DatabaseTest" method="testAddToMaxElementDatabaseTrows">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/p02_ExtendedDatabase/DatabaseTest.java</url>
+          <line>98</line>
+          <properties class="p02_ExtendedDatabase.DatabaseTest" method="testAddPersonWithNegativeIdTrows">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/p02_ExtendedDatabase/DatabaseTest.java</url>
+          <line>16</line>
+          <properties class="p02_ExtendedDatabase.DatabaseTest" method="setUp">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
