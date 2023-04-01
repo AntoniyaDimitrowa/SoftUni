@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59e51f71-e82a-4b82-a18e-e0b79a56ee7c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/p02_ExtendedDatabase/DatabaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/p02_ExtendedDatabase/PersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/p03_IteratorTest/ListIteratorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/p02_ExtendedDatabase/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/p02_ExtendedDatabase/Database.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/p01_Database/DatabaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/p01_Database/DatabaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/p02_ExtendedDatabase/Database.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/p02_ExtendedDatabase/Database.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/p01_Database/DatabaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/p01_Database/DatabaseTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
