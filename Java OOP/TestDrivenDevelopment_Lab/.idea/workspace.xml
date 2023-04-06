@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c96de745-c563-46bd-9feb-12b358cad717" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Instock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ProductStock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/InStockTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../UnitTesting_Exercises/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UnitTesting_Exercises/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,6 +26,13 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="2NpExxuInjhxWEMmPDNHuprm9cJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -40,7 +43,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/SoftUni/SoftUni/Java OOP/TestDrivenDevelopment_Lab"
+    "last_opened_file_path": "D:/SoftUni/SoftUni/Java OOP/TestDrivenDevelopment_Exercises"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -74,6 +77,19 @@
       <option name="MAIN_CLASS_NAME" value="InStockTests" />
       <option name="METHOD_NAME" value="testCountIsZeroForNewInstock" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="TestDrivenDevelopment_Lab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="TestDrivenDevelopment_Lab" />
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
