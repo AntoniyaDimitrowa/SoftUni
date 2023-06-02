@@ -117,15 +117,16 @@ FROM `employees`
 WHERE `manager_id` IS NULL;
 
 -- 16 --
-SELECT e.`department_id`, 
-		(SELECT `salary`
-        FROM `employees`
+SELECT `department_id`,
+		(SELECT DISTINCT `salary`
+        FROM `employees` AS e
         WHERE e.`department_id` = `employees`.`department_id`
         ORDER BY `salary` DESC
-        LIMIT 1 OFFSET 2) AS 'third_highest_salary'
-FROM `employees` AS e
-GROUP BY e.`department_id`
-ORDER BY e.`department_id`;
+        LIMIT 1 OFFSET 2) AS `third_highest_salary`
+FROM `employees`
+GROUP BY `department_id`
+HAVING `third_highest_salary` IS NOT NULL
+ORDER BY `department_id`;
 
 -- 17 --
 SELECT e.`first_name`, e.`last_name`, e.`department_id`
