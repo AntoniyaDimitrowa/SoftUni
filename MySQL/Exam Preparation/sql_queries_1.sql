@@ -143,4 +143,19 @@ BEGIN
 END$$
 
 DELIMITER ;
-SELECT c.first_name,c.last_name, udf_client_bill('Silvio Blyth') as 'bill' FROM clients c;
+SELECT c.first_name,c.last_name, udf_client_bill('Silvio Blyth') as 'bill' 
+FROM clients c 
+WHERE c.first_name = 'Silvio' AND c.last_name= 'Blyth';
+
+-- 11 --
+DELIMITER $$
+CREATE PROCEDURE udp_happy_hour (`type` VARCHAR(50))
+BEGIN
+	UPDATE `products` AS p
+    SET p.`price` = p.`price` * 0.8
+    WHERE p.`price` >= 10
+    AND p.`type` = `type`;
+END$$
+
+DELIMITER ;
+CALL udp_happy_hour ('Cognac');
