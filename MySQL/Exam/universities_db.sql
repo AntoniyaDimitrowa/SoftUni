@@ -164,3 +164,8 @@ END$$
 
 DELIMITER ;
 CALL udp_graduate_all_students_by_year(2017); 
+
+
+SELECT EXISTS (
+  SELECT * FROM login_details WHERE username = ? AND password = ?
+);

@@ -1,33 +1,32 @@
-import entities.Course;
-import entities.Department;
-import entities.User;
+import entities.Account;
 import orm.EntityManager;
 import orm.config.MyConnector;
 
 import java.lang.reflect.InvocationTargetException;
 import java.sql.Connection;
 import java.sql.SQLException;
-import java.time.LocalDate;
 
 public class Main {
     public static void main(String[] args) throws SQLException, IllegalAccessException, InvocationTargetException, NoSuchMethodException, InstantiationException {
-        MyConnector.createConnection("root", "12345", "test");
+        MyConnector.createConnection("root", "12345", "custom_orm_workshop");
 
         Connection connection = MyConnector.getConnection();
 
+        EntityManager<Account> accountEntityManager = new EntityManager<>(connection);
+        accountEntityManager.createTable(Account.class);
+        accountEntityManager.alterTable(Account.class);
+
+        /*User user1 = new User("Antonia", "12345", 19, LocalDate.now());
+        user1.setId(1);
+
         EntityManager<User> userEntityManager = new EntityManager<>(connection);
-        boolean persistResult = userEntityManager.persist(new User("u2", "p2", 12, LocalDate.now()));
+        boolean persistResult = userEntityManager.persist(user1);
+
         User first = userEntityManager.findFirst(User.class);
         System.out.println(first);
 
-        System.out.println(persistResult);
+        System.out.println();
 
-        EntityManager<Course> courseEntityManager = new EntityManager<>(connection);
-        courseEntityManager.persist(new Course("Math", 12));
-        Course first1 = courseEntityManager.findFirst(Course.class);
-        System.out.println(first1);
-
-        EntityManager<Department> departmentEntityManager = new EntityManager<>(connection);
-        departmentEntityManager.persist(new Department());
+        System.out.println(persistResult);*/
     }
 }
