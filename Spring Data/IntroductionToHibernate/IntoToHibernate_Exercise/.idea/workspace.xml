@@ -4,36 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="863e24f4-1412-4c23-891f-469bbaa08eaf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../HibernateJPAIntro/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AddingANewAddressAndUpdatingTheEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AddressesWithEmployeeCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ChangeCasing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ContainsEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/EmployeesFromDepartment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/EmployeesMaximumSalaries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/EmployeesWithASalaryOver50000.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FindEmployeesByFirstName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FindTheLatest10Projects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/GetEmployeesWithProject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IncreaseSalaries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RemoveTowns.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Workshop/.idea/Workshop.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../MySQL/Exam/universities_db.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../../MySQL/Exam/universities_db.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Workshop/MiniORM/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Workshop/MiniORM/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Workshop/MiniORM/src/main/java/entities/Course.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Workshop/MiniORM/src/main/java/entities/Department.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Workshop/MiniORM/src/main/java/entities/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Workshop/MiniORM/src/main/java/entities/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Workshop/MiniORM/src/main/java/orm/DBContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Workshop/MiniORM/src/main/java/orm/DBContext.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Workshop/MiniORM/src/main/java/orm/EntityManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Workshop/MiniORM/src/main/java/orm/EntityManager.java" afterDir="false" />
-    </list>
+    <list default="true" id="863e24f4-1412-4c23-891f-469bbaa08eaf" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
