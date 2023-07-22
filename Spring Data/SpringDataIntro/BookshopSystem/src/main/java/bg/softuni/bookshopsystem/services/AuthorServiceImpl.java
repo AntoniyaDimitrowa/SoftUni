@@ -48,7 +48,7 @@ public class AuthorServiceImpl implements AuthorService {
 
     @Override
     public List<Author> getAllAuthorsWithBooksBeforeYear(LocalDate date) {
-        return this.bookService.getAllBooksBeforeYear(date)
+        return this.bookService.getAllBooksBeforeDate(date)
                 .stream()
                 .map(Book::getAuthor)
                 .collect(Collectors.toList());
@@ -57,6 +57,11 @@ public class AuthorServiceImpl implements AuthorService {
     @Override
     public List<Author> getAllAuthorsOrderedByTheirBookCountDesc() {
         return this.authorRepository.findAllDistinctOrderByBooks();
+    }
+
+    @Override
+    public List<Author> getAllAuthorsWithNameEndingWith(String string) {
+        return this.authorRepository.findAllByFirstNameEndingWith(string);
     }
 
 
