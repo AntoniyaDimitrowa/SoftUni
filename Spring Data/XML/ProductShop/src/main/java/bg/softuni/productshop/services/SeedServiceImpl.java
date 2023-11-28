@@ -3,23 +3,20 @@ package bg.softuni.productshop.services;
 import bg.softuni.productshop.domain.entities.Category;
 import bg.softuni.productshop.domain.entities.Product;
 import bg.softuni.productshop.domain.entities.User;
-import bg.softuni.productshop.domain.models.category.CategoryImportDTO;
-import bg.softuni.productshop.domain.models.product.ProductImportDTO;
-import bg.softuni.productshop.domain.models.user.UserImportDTO;
-import bg.softuni.productshop.services.category.CategoryService;
-import bg.softuni.productshop.services.product.ProductService;
-import bg.softuni.productshop.services.user.UserService;
+import bg.softuni.productshop.domain.models.category.wrappers.CategoryWrapperImportDTO;
+import bg.softuni.productshop.domain.models.product.wrappers.ProductWrapperImportDTO;
+import jakarta.xml.bind.JAXBContext;
+import jakarta.xml.bind.JAXBException;
+import jakarta.xml.bind.Unmarshaller;
 import org.springframework.stereotype.Service;
 
 import java.io.FileReader;
 import java.io.IOException;
-import java.math.BigDecimal;
 import java.util.*;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
 import static bg.softuni.productshop.constants.Paths.*;
-import static bg.softuni.productshop.constants.Utils.GSON;
 import static bg.softuni.productshop.constants.Utils.MODEL_MAPPER;
 
 @Service
@@ -36,26 +33,24 @@ public class SeedServiceImpl implements SeedService {
 
     @Override
     public void seedUsers() throws IOException {
-        if(this.userService.getCount() > 0) return;
-
-        final FileReader fileReader = new FileReader(USERS_PATH.toFile());
-
-        final List<User> users = Arrays.stream(GSON.fromJson(fileReader, UserImportDTO[].class))
-                .map(userImportDTO -> MODEL_MAPPER.map(userImportDTO, User.class))
-                .collect(Collectors.toList());
-
-        this.userService.saveAll(users);
-        fileReader.close();
+        //TODO
     }
 
     @Override
-    public void seedProducts() throws IOException {
+    public void seedProducts() throws IOException, JAXBException {
         if(this.productService.getCount() > 0) return;
 
         final FileReader fileReader = new FileReader(PRODUCTS_PATH.toFile());
 
-        final List<Product> products = Arrays.stream(GSON.fromJson(fileReader, ProductImportDTO[].class))
-                .map(productImportDTO -> MODEL_MAPPER.map(productImportDTO, Product.class))
+        final JAXBContext context = JAXBContext.newInstance(ProductWrapperImportDTO.class);
+        final Unmarshaller unmarshaller = context.createUnmarshaller();
+
+        final ProductWrapperImportDTO wrapperImportModel = (ProductWrapperImportDTO) unmarshaller.unmarshal(fileReader);
+
+
+        final List<Product> products = wrapperImportModel.getProducts()
+                .stream()
+                .map(model -> MODEL_MAPPER.map(model, Product.class))
                 .map(this::setRandomCategories)
                 .map(this::setRandomBuyer)
                 .map(this::setRandomSeller)
@@ -66,14 +61,22 @@ public class SeedServiceImpl implements SeedService {
     }
 
     @Override
-    public void seedCategories() throws IOException {
+    public void seedCategories() throws IOException, JAXBException {
         if(this.categoryService.getCount() > 0) return;
 
         final FileReader fileReader = new FileReader(CATEGORIES_PATH.toFile());
 
-        final List<Category> categories = Arrays.stream(GSON.fromJson(fileReader, CategoryImportDTO[].class))
-                .map(categoryImport -> MODEL_MAPPER.map(categoryImport, Category.class))
-                .collect(Collectors.toList());
+        final JAXBContext context = JAXBContext.newInstance(CategoryWrapperImportDTO.class);
+        final Unmarshaller unmarshaller = context.createUnmarshaller();
+
+        final CategoryWrapperImportDTO wrapperImportModel = (CategoryWrapperImportDTO) unmarshaller.unmarshal(fileReader);
+
+        fileReader.close();
+
+        List<Category> categories = wrapperImportModel.getCategories()
+                .stream()
+                .map(categoryImportModel -> MODEL_MAPPER.map(categoryImportModel, Category.class))
+                .toList();
 
         this.categoryService.saveAll(categories);
         fileReader.close();

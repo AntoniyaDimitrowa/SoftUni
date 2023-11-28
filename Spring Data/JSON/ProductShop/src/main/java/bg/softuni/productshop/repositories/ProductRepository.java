@@ -1,2 +1,9 @@
-package bg.softuni.productshop.repositories;public class ProductRepository {
+package bg.softuni.productshop.repositories;
+
+import bg.softuni.productshop.domain.entities.Product;
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
+
+@Repository
+public interface ProductRepository extends JpaRepository<Product, Long> {
 }

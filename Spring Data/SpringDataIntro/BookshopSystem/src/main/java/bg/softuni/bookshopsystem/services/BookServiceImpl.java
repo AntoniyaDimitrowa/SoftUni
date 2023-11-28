@@ -3,6 +3,7 @@ package bg.softuni.bookshopsystem.services;
 import bg.softuni.bookshopsystem.domain.entities.Book;
 import bg.softuni.bookshopsystem.domain.enums.AgeRestriction;
 import bg.softuni.bookshopsystem.domain.enums.EditionType;
+import bg.softuni.bookshopsystem.domain.models.BookPrintInformation;
 import bg.softuni.bookshopsystem.repositories.BookRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
@@ -79,5 +80,41 @@ public class BookServiceImpl implements BookService {
     @Override
     public List<Book> getAllBooksWithAuthorLastNameStartingWith(String string) {
         return this.bookRepository.findAllByAuthorLastNameStartingWith(string);
+    }
+
+    @Override
+    public int getCountOfAllBooksWhichTitleIsLongerThan(int number) {
+        return this.bookRepository.countAllByTitleLengthGreaterThan(number);
+    }
+
+    @Override
+    public List<Book> getAllBooksByAuthor(String firstName, String lastName) {
+        return this.bookRepository.findAllByAuthorFirstNameAndAuthorLastName(firstName, lastName);
+    }
+
+    @Override
+    public List<BookPrintInformation> getAllBooksByTitle(String title) {
+        return this.bookRepository.findAllByTitle(title);
+    }
+
+    @Override
+    public void increaseCopiesForBookReleasedAfter(Integer addedCopies, LocalDate dateAfter) {
+        final List<Book> books = this.bookRepository.findAllByReleaseDateAfter(dateAfter).get();
+
+        books.forEach(book -> book.setCopies(book.getCopies() + addedCopies));
+
+        this.bookRepository.saveAllAndFlush(books);
+
+        System.out.println(addedCopies * books.size());
+    }
+
+    @Override
+    public int deleteAllByCopiesLessThan(Integer copies) {
+        return this.bookRepository.deleteAllByCopiesLessThan(copies);
+    }
+
+    @Override
+    public int getBooksCountByAuthorFirstNameAndAuthorLastName(String firstName) {
+        return this.bookRepository.getBooksCountByAuthorFirstNameAndAuthorLastName(firstName);
     }
 }

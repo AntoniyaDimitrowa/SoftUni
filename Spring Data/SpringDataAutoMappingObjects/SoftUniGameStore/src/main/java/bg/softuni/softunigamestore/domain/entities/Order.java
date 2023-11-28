@@ -1,2 +1,21 @@
-package bg.softuni.softunigamestore.entities;public class Order {
+package bg.softuni.softunigamestore.domain.entities;
+
+import jakarta.persistence.*;
+import lombok.*;
+
+import java.util.Set;
+
+@Setter
+@Getter
+@Builder
+@NoArgsConstructor
+@AllArgsConstructor
+@Entity
+@Table(name = "orders")
+public class Order extends BaseEntity {
+    @ManyToOne
+    private User user;
+
+    @ManyToMany(targetEntity = Game.class, fetch = FetchType.EAGER)
+    private Set<Game> games;
 }

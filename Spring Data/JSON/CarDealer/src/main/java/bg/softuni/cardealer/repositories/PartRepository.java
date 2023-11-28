@@ -1,2 +1,9 @@
-package bg.softuni.cardealer.repositories;public interface PartReprsitory {
+package bg.softuni.cardealer.repositories;
+
+import bg.softuni.cardealer.domain.entities.Part;
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
+
+@Repository
+public interface PartRepository extends JpaRepository<Part, Long> {
 }

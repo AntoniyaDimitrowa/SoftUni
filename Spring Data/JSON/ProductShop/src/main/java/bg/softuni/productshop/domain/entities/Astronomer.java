@@ -1,6 +1,7 @@
-package softuni.exam.models.entity;
+package bg.softuni.productshop.domain.entities;
 
-import javax.persistence.*;
+import jakarta.persistence.*;
+
 import java.util.Date;
 
 @Entity
@@ -21,9 +22,6 @@ public class Astronomer extends BaseEntity {
     @Column
     private Date birthday;
 
-    @ManyToOne
-    @JoinColumn(name = "observing_star_id")
-    private Star observingStar;
 
     public String getFirstName() {
         return firstName;
@@ -65,11 +63,4 @@ public class Astronomer extends BaseEntity {
         this.birthday = birthday;
     }
 
-    public Star getObservingStar() {
-        return observingStar;
-    }
-
-    public void setObservingStar(Star observingStar) {
-        this.observingStar = observingStar;
-    }
 }

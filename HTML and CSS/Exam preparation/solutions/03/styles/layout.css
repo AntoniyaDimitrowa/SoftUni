@@ -1,0 +1,85 @@
+img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+body {
+    background-color: black;
+    background-repeat: no-repeat;
+    background-image: url(../image/fitness-main.jpg);
+    background-size: contain;
+    background-position: center -22em;
+}
+
+.container {
+    max-width: 100em;
+    margin: 0 auto;
+}
+
+.section-top-bar {
+    background-color: #D01919;
+    color: white;
+}
+
+.section-top-bar .container, 
+.section-site-header .container {
+    max-width: initial;
+}
+.section-top-bar .container {
+    display: flex;
+    justify-content: space-between;
+    padding: 1em 3em;
+    font-size: 1.4em;
+}
+
+.section-top-bar .socials { 
+    display: flex;
+}
+
+.section-top-bar .socials li,
+.section-top-bar .socials a { 
+    display: block;
+}
+
+.section-top-bar i {
+    padding: 0 0.5em;
+}
+
+.section-top-bar .socials a span {
+    display: none;
+}
+
+.section-top-bar a {
+    text-decoration: none;
+    color: white;
+}
+
+.section-site-header {
+    color: white;
+}
+
+.section-site-header .container {
+    display: flex;
+    justify-content: flex-end;
+    padding: 2em 1em;
+}
+
+.section-site-header .site-title {
+    display: none;
+}
+
+.section-site-header a {
+    color: white;
+    text-decoration: none;
+}
+
+.section-site-footer {
+    background-color: #D01919;
+    color: black;
+}
+
+.section-site-footer p {
+    text-align: center;
+    padding: 1em;
+}

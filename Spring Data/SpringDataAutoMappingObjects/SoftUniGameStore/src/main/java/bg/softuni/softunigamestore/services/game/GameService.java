@@ -1,4 +1,7 @@
-package bg.softuni.softunigamestore.services;
+package bg.softuni.softunigamestore.services.game;
 
-public class GameService {
+public interface GameService {
+    String add(String[] args);
+    String delete(String[] args);
+    String edit(String[] args);
 }

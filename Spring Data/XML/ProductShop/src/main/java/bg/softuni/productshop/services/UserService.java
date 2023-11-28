@@ -1,4 +1,4 @@
-package bg.softuni.productshop.services.user;
+package bg.softuni.productshop.services;
 
 import bg.softuni.productshop.domain.entities.User;
 

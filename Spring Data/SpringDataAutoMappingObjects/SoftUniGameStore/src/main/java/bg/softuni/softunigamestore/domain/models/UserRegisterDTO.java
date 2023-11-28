@@ -12,13 +12,13 @@ import static bg.softuni.softunigamestore.constance.Validations.PASSWORD_PATTERN
 @Getter
 @Builder
 @NoArgsConstructor
-public class UseRegisterDTO {
+public class UserRegisterDTO {
     private String email;
     private String password;
     private String confirmPassword;
     private String fullName;
 
-    public UseRegisterDTO(String email, String password, String confirmPassword, String fullName) {
+    public UserRegisterDTO(String email, String password, String confirmPassword, String fullName) {
         this.email = email;
         this.password = password;
         this.confirmPassword = confirmPassword;
@@ -38,5 +38,9 @@ public class UseRegisterDTO {
         if (!this.password.equals(this.confirmPassword)) {
             throw new IllegalArgumentException(CONF_PASS_DOES_NOT_MATCH);
         }
+    }
+
+    public String userSuccessfullyRegistered() {
+        return fullName + " was registered.";
     }
 }

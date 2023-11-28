@@ -1,2 +1,4 @@
-package bg.softuni.cardealer.services;public class CarService {
+package bg.softuni.cardealer.services;
+
+public interface CarService {
 }

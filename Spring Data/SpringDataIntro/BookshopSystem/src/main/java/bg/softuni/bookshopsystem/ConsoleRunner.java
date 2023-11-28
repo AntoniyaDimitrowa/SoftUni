@@ -1,5 +1,6 @@
 package bg.softuni.bookshopsystem;
 
+import bg.softuni.bookshopsystem.domain.entities.Book;
 import bg.softuni.bookshopsystem.domain.enums.AgeRestriction;
 import bg.softuni.bookshopsystem.domain.enums.EditionType;
 import bg.softuni.bookshopsystem.services.AuthorService;
@@ -12,6 +13,7 @@ import org.springframework.stereotype.Component;
 import java.math.BigDecimal;
 import java.time.LocalDate;
 import java.util.Scanner;
+import java.util.stream.Stream;
 
 @Component
 public class ConsoleRunner implements CommandLineRunner {
@@ -53,38 +55,64 @@ public class ConsoleRunner implements CommandLineRunner {
 
         //lesson 14
         //1
-//            printBookTitlesByAgeRestriction();
+        printBookTitlesByAgeRestriction();
 
         //2
-//        printGoldenEditionBookTitlesWithLessThan5000Copies();
+        printGoldenEditionBookTitlesWithLessThan5000Copies();
 
         //3
-//        printBookTitlesAndPricesByPriceLowerThanAndHigherThan();
+        printBookTitlesAndPricesByPriceLowerThanAndHigherThan();
 
         //4
-//        printAllBookTitlesThatAreNotReleasedInAGivenYear();
+        printAllBookTitlesThatAreNotReleasedInAGivenYear();
 
         //5
-//        printAllBookTitlesEditionTypeAndPriceReleasedBeforeGivenDate();
+        printAllBookTitlesEditionTypeAndPriceReleasedBeforeGivenDate();
 
         //6
-//        printAllAuthorsNamesWhichEndsWithAGivenString();
+        printAllAuthorsNamesWhichEndsWithAGivenString();
 
         //7
-//        printAllBookTitlesContainingAGivenString();
+        printAllBookTitlesContainingAGivenString();
 
         //8
-//        printAllBookTitlesWithAuthorLastNameStartingWithGivenString();
+        printAllBookTitlesWithAuthorLastNameStartingWithGivenString();
 
         //9
-
+        printTheCountOfAllBooksWhichTitleIsLongerThanGivenNumber();
 
         //10
-
+        printAllAuthorsAntTheirTotalCopiesCount();
 
         //11
+        printBookInformationByTitle();
 
+        //12
+        this.bookService.increaseCopiesForBookReleasedAfter(100, LocalDate.of(2005, 10, 12));
 
+        //13
+        this.bookService.deleteAllByCopiesLessThan(10000);
+
+        //14
+        System.out.println(this.bookService.getBooksCountByAuthorFirstNameAndAuthorLastName("Amanda Rice"));
+    }
+
+    private void printBookInformationByTitle() {
+        String title = scanner.nextLine();
+        this.bookService.getAllBooksByTitle(title).forEach(System.out::println);
+    }
+
+    private void printAllAuthorsAntTheirTotalCopiesCount() {
+        int copies = this.bookService.getAllBooksByAuthor("Randy", "Graham")
+                .stream()
+                .mapToInt(Book::getCopies)
+                .sum();
+        System.out.println("Randy Graham - " + copies);
+    }
+
+    private void printTheCountOfAllBooksWhichTitleIsLongerThanGivenNumber() {
+        int number = Integer.parseInt(scanner.nextLine());
+        System.out.println(this.bookService.getCountOfAllBooksWhichTitleIsLongerThan(number));
     }
 
     private void printAllBookTitlesWithAuthorLastNameStartingWithGivenString() {

@@ -1,2 +1,13 @@
-package bg.softuni.cardealer.domain.entities;public class BaseEntity {
+package bg.softuni.cardealer.domain.entities;
+
+import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.GenerationType;
+import jakarta.persistence.Id;
+import jakarta.persistence.MappedSuperclass;
+
+@MappedSuperclass
+public abstract class BaseEntity {
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    private Long id;
 }
